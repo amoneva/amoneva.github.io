@@ -1,7 +1,9 @@
 ---
 title: "About me"
 description: |
-  Hi! My name is Asier Moneva and I am a postdoc at the Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) and also at the Center of Expertise Cyber Security at The Hague University of Applied Sciences. (Yes, I have two affiliations.)
+  Hi! My name is Asier Moneva and I am a postdoc at the Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) and also at the Center of Expertise Cyber Security at The Hague University of Applied Sciences. (Yes, I have two affiliations.) Asier is a Spanish name---Basque, actually---that sounds like *ah-see-AIR*, with a hard 'R' at the end. But don't worry, I won't be mad if you don't pronounce it right... the first time!
+  
+  My background is in Criminology, which means I am a social scientist. In paticular, I research *how*, *when*, and *where* cybercrime occur, focusing on the *human factors* involved. To do so, I rely mainly on quantitative methods and data science, and I enjoy collaborating with scientists from other disciplines as well as with practitioners and professionals. The purpose of my research is twofold: to generate knowledge to better understand cybercrime, and to propose solutions to reduce or mitigate its impact.
 ---
 
 ```{r setup, include=FALSE}
