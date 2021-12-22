@@ -1,7 +1,7 @@
 ---
 title: "About this site"
 description: |
-  Some additional details about the website
+  Hi! My name is Asier Moneva and I am a postdoc at the Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) and also at the Center of Expertise Cyber Security at The Hague University of Applied Sciences. (Yes, I have two affiliations.)
 ---
 
 ```{r setup, include=FALSE}
