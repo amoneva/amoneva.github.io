@@ -3,10 +3,15 @@ title: "Asier Moneva"
 description: |
   Asier Moneva
 output_dir: "docs"
+creative_commons: CC BY
+twitter:
+  site: "@crimoneva"
 navbar:
   right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - icon: fab fa-github
+      href: https://github.com/amoneva
 output: distill::distill_article
