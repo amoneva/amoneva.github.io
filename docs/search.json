@@ -2,11 +2,11 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "About me",
+      "description": "Hi! My name is Asier Moneva and I am a postdoc at the Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) and also at the Center of Expertise Cyber Security at The Hague University of Applied Sciences. (Yes, I have two affiliations.)",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-12-22T14:13:37+01:00"
+      "last_modified": "2021-12-22T14:23:25+01:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-12-22T14:13:37+01:00"
+      "last_modified": "2021-12-22T14:23:26+01:00"
     }
   ],
   "collections": []
