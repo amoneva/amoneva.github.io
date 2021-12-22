@@ -1,11 +1,11 @@
 ---
 title: "Asier Moneva"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  I am currently busy building this site. Watch this space!
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
 # Learn more about creating websites with Distill at:
@@ -13,6 +13,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Learn more about publishing to GitHub Pages at:
 # https://rstudio.github.io/distill/publish_website.html#github-pages
-
 ```
 
