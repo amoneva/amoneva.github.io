@@ -14,4 +14,8 @@ navbar:
       href: about.html
     - icon: fab fa-github
       href: https://github.com/amoneva
+    - icon: fab fa-twitter
+      href: https://twitter.com/crimoneva
+    - icon: fab fa-linkedin-in
+      href: https://www.linkedin.com/in/asiermonevapardo/
 output: distill::distill_article
