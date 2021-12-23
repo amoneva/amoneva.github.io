@@ -1,6 +1,9 @@
 ---
 title: "About me"
 image: "images/asier.jpg"
+links:
+  - label: CV
+    url: papers/cv.pdf
 output:
   postcards::jolla
 ---
