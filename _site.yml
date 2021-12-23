@@ -1,5 +1,6 @@
 name: "amoneva.github.io"
 title: "Asier Moneva"
+theme: theme.css
 description: |
   Asier Moneva
 output_dir: "docs"
