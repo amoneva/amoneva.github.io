@@ -1,0 +1,48 @@
+---
+title: "Empty streets, busy internet: A time-series analysis of cybercrime and fraud trends during COVID-19"
+description: Journal article
+base_url: https://amoneva.github.io/
+author:
+  - name: Steven Kemp
+    affiliation: University of Girona & Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University & University of Manchester
+    orcid_id: https://orcid.org/0000-0001-8662-1913
+  - name: David Buil-Gil
+    affiliation: University of Manchester
+    orcid_id: https://orcid.org/0000-0002-7549-6317
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: Fernando Miró-Llinares
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+  - name: Nacho Díaz-Castaño
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+date: 2021-07-18
+categories:
+  - crime trends
+  - coronavirus
+  - ARIMA
+  - cybersecurity
+  - victims
+  - crime statistics
+doi: https://doi.org/10.1177/10439862211027986
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+The unprecedented changes in routine activities brought about by COVID-19 and the associated lockdown measures contributed to a reduction in opportunities for predatory crimes in outdoor physical spaces, while people spent more time connected to the internet, and opportunities for cybercrime and fraud increased. This article applies time-series analysis to historical data on cybercrime and fraud reported to Action Fraud in the United Kingdom to examine whether any potential increases are beyond normal crime variability. Furthermore, the discrepancies between fraud types and individual and organizational victims are also analyzed. The results show that while both total cybercrime and total fraud increased beyond predicted levels, the changes in victimization were not homogeneous across fraud types and victims. The implications of these findings on how changes in routine activities during COVID-19 have influenced cybercrime and fraud opportunities are discussed in relation to policy, practice, and academic debate.
+
+# Links
+
+-   [Read the paper online](https://journals.sagepub.com/doi/full/10.1177/10439862211027986)
+-   [Download the PDF](kemp_2021_empty_streets_busy_internet_a.pdf)
+-   [See the related ShinyApp](https://asiermoneva.shinyapps.io/trends_app/)
+-   [Access the R code for the ShinyApp](https://github.com/amoneva/trends_app)

@@ -40,6 +40,6 @@ Repeat victimization has been widely studied from the perspective of environment
 
 # Links
 
--   [Access the R code](https://github.com/amoneva/code_papers)
 -   [Read the paper online](https://www.sciencedirect.com/science/article/pii/S0747563221003071)
 -   [Download the PDF](moneva_2021_repeat_victimization_by_website_defacement.pdf)
+-   [Access the R code](https://github.com/amoneva/code_papers)

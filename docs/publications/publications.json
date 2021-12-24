@@ -30,9 +30,49 @@
       "website defacement",
       "zone-h"
     ],
-    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nRepeat victimization has been widely studied from the perspective of environmental criminology for several decades. During this period, criminologists have identified a set of repeat victimization premises that are observed for many crimes; however, it is unknown whether these premises are also valid for cybercrime. In this study we rely on more than 9 million Zone-H data records from 2010 to 2017 to test whether these premises apply for the cybercrime of website defacement. We show that the phenomenon of repeat victimization is also observed in defaced cyber places (i.e. websites). In particular, we found that repeats contributed little to crime rates, that repeats occurred even several years after the original incident, that they were committed disproportionately by prolific offenders, and that few offenders returned to victimize previous targets. The results suggest that some traditional premises of repeat victimization may also be valid for understanding cybercrime events such as website defacement, implying that environmental criminology theories also constitute a useful framework for cybercrime analysis. The implications of these results in terms of criminological theory, cybercrime prevention, and the limitations derived from the use of Zone-H data are discussed.\r\nLinks\r\nAccess the R code\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nRepeat victimization has been widely studied from the perspective of environmental criminology for several decades. During this period, criminologists have identified a set of repeat victimization premises that are observed for many crimes; however, it is unknown whether these premises are also valid for cybercrime. In this study we rely on more than 9 million Zone-H data records from 2010 to 2017 to test whether these premises apply for the cybercrime of website defacement. We show that the phenomenon of repeat victimization is also observed in defaced cyber places (i.e. websites). In particular, we found that repeats contributed little to crime rates, that repeats occurred even several years after the original incident, that they were committed disproportionately by prolific offenders, and that few offenders returned to victimize previous targets. The results suggest that some traditional premises of repeat victimization may also be valid for understanding cybercrime events such as website defacement, implying that environmental criminology theories also constitute a useful framework for cybercrime analysis. The implications of these results in terms of criminological theory, cybercrime prevention, and the limitations derived from the use of Zone-H data are discussed.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nAccess the R code\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-12-24T12:18:42+01:00",
-    "input_file": {}
+    "last_modified": "2021-12-24T12:49:58+01:00",
+    "input_file": "moneva_2021.knit.md"
+  },
+  {
+    "path": "publications/2021-07-18-empty-streets-busy-internet-a/",
+    "title": "Empty streets, busy internet: A time-series analysis of cybercrime and fraud trends during COVID-19",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Steven Kemp",
+        "url": {}
+      },
+      {
+        "name": "David Buil-Gil",
+        "url": {}
+      },
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      },
+      {
+        "name": "Fernando Miró-Llinares",
+        "url": {}
+      },
+      {
+        "name": "Nacho Díaz-Castaño",
+        "url": {}
+      }
+    ],
+    "date": "2021-07-18",
+    "categories": [
+      "crime trends",
+      "coronavirus",
+      "ARIMA",
+      "cybersecurity",
+      "victims",
+      "crime statistics"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThe unprecedented changes in routine activities brought about by COVID-19 and the associated lockdown measures contributed to a reduction in opportunities for predatory crimes in outdoor physical spaces, while people spent more time connected to the internet, and opportunities for cybercrime and fraud increased. This article applies time-series analysis to historical data on cybercrime and fraud reported to Action Fraud in the United Kingdom to examine whether any potential increases are beyond normal crime variability. Furthermore, the discrepancies between fraud types and individual and organizational victims are also analyzed. The results show that while both total cybercrime and total fraud increased beyond predicted levels, the changes in victimization were not homogeneous across fraud types and victims. The implications of these findings on how changes in routine activities during COVID-19 have influenced cybercrime and fraud opportunities are discussed in relation to policy, practice, and academic debate.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nSee the related ShinyApp\r\nAccess the R code for the ShinyApp\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-12-24T12:52:01+01:00",
+    "input_file": "kemp_2021.knit.md"
   }
 ]

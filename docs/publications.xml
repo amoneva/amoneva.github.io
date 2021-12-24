@@ -25,5 +25,23 @@
       <guid>https://amoneva.github.io/publications/2021-08-18-repeat-victimization-by-website-defacement</guid>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
     </item>
+    <item>
+      <title>Empty streets, busy internet: A time-series analysis of cybercrime and fraud trends during COVID-19</title>
+      <dc:creator>Steven Kemp</dc:creator>
+      <dc:creator>David Buil-Gil</dc:creator>
+      <dc:creator>Asier Moneva</dc:creator>
+      <dc:creator>Fernando Miró-Llinares</dc:creator>
+      <dc:creator>Nacho Díaz-Castaño</dc:creator>
+      <link>https://amoneva.github.io/publications/2021-07-18-empty-streets-busy-internet-a</link>
+      <description>Journal article</description>
+      <category>crime trends</category>
+      <category>coronavirus</category>
+      <category>ARIMA</category>
+      <category>cybersecurity</category>
+      <category>victims</category>
+      <category>crime statistics</category>
+      <guid>https://amoneva.github.io/publications/2021-07-18-empty-streets-busy-internet-a</guid>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
