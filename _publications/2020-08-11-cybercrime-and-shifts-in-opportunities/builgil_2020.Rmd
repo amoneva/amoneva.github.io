@@ -1,0 +1,46 @@
+---
+title: "Cybercrime and shifts in opportunities during COVID-19: A preliminary analysis in the UK"
+description: Journal article
+base_url: https://amoneva.github.io/
+author:
+  - name: David Buil-Gil
+    affiliation: University of Manchester
+    orcid_id: https://orcid.org/0000-0002-7549-6317
+  - name: Fernando Miró-Llinares
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+  - name: Asier Moneva
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: Steven Kemp
+    affiliation: University of Girona 
+    orcid_id: https://orcid.org/0000-0001-8662-1913
+  - name: Nacho Díaz-Castaño
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+date: 2020-08-11
+categories:
+  - crime trends
+  - internet
+  - cyber security
+  - fraud
+  - police statistics
+  - routine activities
+doi: https://doi.org/10.1080/14616696.2020.1804973
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+The COVID-19 outbreak and the far-reaching lockdown measures are having direct and indirect effects on complex social domains, including opportunities for crime offline and online. This paper presents preliminary analyses about the short-term effect of COVID-19 and lockdown measures on cyber-dependent crime and online fraud in the UK. Time series analyses from data about crimes known to police between May 2019 and May 2020 are used to explore the extent to which cybercrime has been affected by the COVID-19 outbreak. More specifically, we examine whether cybercrime has suffered an increase during the months with the strictest lockdown restrictions, as an effect of the displacement of crime opportunities from physical to online environments. Results indicate that reports of cybercrime have increased during the COVID-19 outbreak, and these were remarkably large during the two months with the strictest lockdown policies and measures. In particular, the number of frauds associated with online shopping and auctions, and the hacking of social media and email, which are the two most common cybercrime categories in the UK, have seen the largest increases in the number of incidents. The increase in cyber-dependent crimes has mainly been experienced by individual victims rather than organisations.
+
+# Links
+
+-   [Read the paper online](https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1804973)
+-   [Download the PDF](builgil_2020_cybercrime_and_shifts_in_opportunities.pdf)
