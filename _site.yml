@@ -25,6 +25,7 @@ navbar:
 collections:
   publications:
     categories: true
+    feed_items_max: 5
     share:
       - twitter
       - linkedin

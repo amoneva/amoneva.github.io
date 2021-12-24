@@ -37,11 +37,23 @@
       <category>crime trends</category>
       <category>coronavirus</category>
       <category>ARIMA</category>
-      <category>cybersecurity</category>
+      <category>cyber security</category>
       <category>victims</category>
       <category>crime statistics</category>
       <guid>https://amoneva.github.io/publications/2021-07-18-empty-streets-busy-internet-a</guid>
       <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Annual Conference on the Human Factor in Cybercrime: An analysis of participation in the 2018 and 2019 meetings</title>
+      <dc:creator>Asier Moneva</dc:creator>
+      <link>https://amoneva.github.io/publications/2021-06-04-the-annual-conference-on-the</link>
+      <description>Book chapter</description>
+      <category>conference</category>
+      <category>human factor</category>
+      <category>cybercrime</category>
+      <category>social network analysis</category>
+      <guid>https://amoneva.github.io/publications/2021-06-04-the-annual-conference-on-the</guid>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cybercrime and shifts in opportunities during COVID-19: A preliminary analysis in the UK</title>
@@ -59,7 +71,7 @@
       <category>police statistics</category>
       <category>routine activities</category>
       <guid>https://amoneva.github.io/publications/2020-08-11-cybercrime-and-shifts-in-opportunities</guid>
-      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

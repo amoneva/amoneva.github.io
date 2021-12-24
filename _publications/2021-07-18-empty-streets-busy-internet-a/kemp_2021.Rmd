@@ -21,7 +21,7 @@ categories:
   - crime trends
   - coronavirus
   - ARIMA
-  - cybersecurity
+  - cyber security
   - victims
   - crime statistics
 doi: https://doi.org/10.1177/10439862211027986

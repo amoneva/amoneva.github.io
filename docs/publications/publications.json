@@ -66,13 +66,35 @@
       "crime trends",
       "coronavirus",
       "ARIMA",
-      "cybersecurity",
+      "cyber security",
       "victims",
       "crime statistics"
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThe unprecedented changes in routine activities brought about by COVID-19 and the associated lockdown measures contributed to a reduction in opportunities for predatory crimes in outdoor physical spaces, while people spent more time connected to the internet, and opportunities for cybercrime and fraud increased. This article applies time-series analysis to historical data on cybercrime and fraud reported to Action Fraud in the United Kingdom to examine whether any potential increases are beyond normal crime variability. Furthermore, the discrepancies between fraud types and individual and organizational victims are also analyzed. The results show that while both total cybercrime and total fraud increased beyond predicted levels, the changes in victimization were not homogeneous across fraud types and victims. The implications of these findings on how changes in routine activities during COVID-19 have influenced cybercrime and fraud opportunities are discussed in relation to policy, practice, and academic debate.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nSee the related ShinyApp\r\nAccess the R code for the ShinyApp\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-12-24T12:52:04+01:00",
+    "last_modified": "2021-12-24T17:52:58+01:00",
+    "input_file": {}
+  },
+  {
+    "path": "publications/2021-06-04-the-annual-conference-on-the/",
+    "title": "The Annual Conference on the Human Factor in Cybercrime: An analysis of participation in the 2018 and 2019 meetings",
+    "description": "Book chapter",
+    "author": [
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      }
+    ],
+    "date": "2021-06-04",
+    "categories": [
+      "conference",
+      "human factor",
+      "cybercrime",
+      "social network analysis"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThe Annual Conference on the Human Factor in Cybercrime is a small and specialised scientific event that aims to bring together scholars from around the world to present their research advances to a select audience. Its dynamic and linear format favours group discussions since all contributions are heard by all the attendants. This, together with its tailored social scheme, promotes interaction between members, which—in turn—leads to new collaborations. However, it has not yet been analysed whether the design of the conference actually encourages varied participation and fosters collaborative networks among its participants. The purpose of this chapter is to assess participation in the 2018 and 2019 editions to determine whether this is the case. Using descriptive analyses, here we show how participation in the conference has varied and examine the composition of the collaboration networks among the participants. The results show an increased and more diverse participation in the 2019 meeting along with a greater presence of stakeholders. Furthermore, the findings reveal that members of previously established organisations play an important role in cohering the network. Yet few connections exist between academia and practice. A further analysis of the strengths and weaknesses identified in the two editions of the conference serves to elaborate a series of recommendations for future editions.\r\nLinks\r\nRead the chapter online\r\nDownload the PDF (post-print)\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-12-24T16:02:37+01:00",
     "input_file": {}
   },
   {
@@ -112,7 +134,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThe COVID-19 outbreak and the far-reaching lockdown measures are having direct and indirect effects on complex social domains, including opportunities for crime offline and online. This paper presents preliminary analyses about the short-term effect of COVID-19 and lockdown measures on cyber-dependent crime and online fraud in the UK. Time series analyses from data about crimes known to police between May 2019 and May 2020 are used to explore the extent to which cybercrime has been affected by the COVID-19 outbreak. More specifically, we examine whether cybercrime has suffered an increase during the months with the strictest lockdown restrictions, as an effect of the displacement of crime opportunities from physical to online environments. Results indicate that reports of cybercrime have increased during the COVID-19 outbreak, and these were remarkably large during the two months with the strictest lockdown policies and measures. In particular, the number of frauds associated with online shopping and auctions, and the hacking of social media and email, which are the two most common cybercrime categories in the UK, have seen the largest increases in the number of incidents. The increase in cyber-dependent crimes has mainly been experienced by individual victims rather than organisations.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-12-24T17:41:48+01:00",
-    "input_file": "builgil_2020.knit.md"
+    "last_modified": "2021-12-24T17:41:51+01:00",
+    "input_file": {}
   }
 ]
