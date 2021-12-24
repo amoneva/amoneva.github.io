@@ -1,0 +1,34 @@
+---
+title: "The Annual Conference on the Human Factor in Cybercrime: An analysis of participation in the 2018 and 2019 meetings"
+description: Book chapter
+base_url: https://amoneva.github.io/
+author:
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences & Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+date: 2021-06-04
+categories:
+  - conference
+  - human factor
+  - cybercrime
+  - social network analysis
+doi: https://doi.org/10.1007/978-3-030-60527-8_2
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+The Annual Conference on the Human Factor in Cybercrime is a small and specialised scientific event that aims to bring together scholars from around the world to present their research advances to a select audience. Its dynamic and linear format favours group discussions since all contributions are heard by all the attendants. This, together with its tailored social scheme, promotes interaction between members, which—in turn—leads to new collaborations. However, it has not yet been analysed whether the design of the conference actually encourages varied participation and fosters collaborative networks among its participants. The purpose of this chapter is to assess participation in the 2018 and 2019 editions to determine whether this is the case. Using descriptive analyses, here we show how participation in the conference has varied and examine the composition of the collaboration networks among the participants. The results show an increased and more diverse participation in the 2019 meeting along with a greater presence of stakeholders. Furthermore, the findings reveal that members of previously established organisations play an important role in cohering the network. Yet few connections exist between academia and practice. A further analysis of the strengths and weaknesses identified in the two editions of the conference serves to elaborate a series of recommendations for future editions.
+
+# Links
+
+-   [Read the chapter online](https://books.google.com/books?hl=en&lr=&id=eZosEAAAQBAJ&oi=fnd&pg=PA5&ots=Dtu36tRozu&sig=GTCbC6rgOp6mjv-EQmcWwrVzErI&redir_esc=y#v=onepage&q&f=false)
+-   [Download the PDF (post-print)](moneva_2021_the_annual_conference_on_the.pdf)
