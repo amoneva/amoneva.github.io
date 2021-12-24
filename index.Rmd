@@ -1,9 +1,11 @@
 ---
 title: "Welcome!"
 description: |
-  On this website you can find my publications in open access. Just click on [Publications](publications.html) in the navigation bar for an overview or use the search function if you are looking for something specific. There is an individual post for each publication. At the bottom of each post you will find a section called 'Links', which lists a number of actions you can take. For example, you might want to read an article online, take a look at the code I used for the analyses, or simply download their PDF. 
+  On this website you can find my publications in open access. Just click on [Publications](publications.html) in the navigation bar for an overview or use the search function if you are looking for something specific. There is an individual post for each publication. At the bottom of each post you will find a section called 'Links', which lists a number of actions you can take. For example, you might want to read an article online, take a look at the code I used for the analyses, or simply download the PDF. 
   
-  You may also visit the [About](about.html) section to learn a little more about me. There you can also download my curriculum vitae. If you have any questions, comments or requests, feel free to contact me. 
+  You may also visit the [About](about.html) section to learn a little more about me. There you can also download my curriculum vitae. 
+  
+  If you have any questions, comments or requests, feel free to contact me. 
   
   Enjoy your stay!
   

@@ -9,7 +9,7 @@ author:
   - name: E. Rutger Leukfeldt
     affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
     orcid_id: https://orcid.org/0000-0002-3051-0859
-  - name: Steve G.A. van de Weijer
+  - name: Steve G. A. van de Weijer
     affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR)
     orcid_id: https://orcid.org/0000-0001-5914-5966
   - name: Fernando Miró-Llinares
