@@ -26,6 +26,7 @@ doi: https://doi.org/10.1016/j.chb.2021.106984
 citation: false
 output:
   distill::distill_article:
+    toc: true
     self_contained: false
 ---
 
