@@ -2,7 +2,7 @@ name: "amoneva.github.io"
 title: "Asier Moneva"
 theme: theme.css
 description: |
-  My personal website.
+  The personal website of Asier Moneva.
 base_url: https://amoneva.github.io/
 output_dir: "docs"
 creative_commons: CC BY
