@@ -32,8 +32,8 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nRepeat victimization has been widely studied from the perspective of environmental criminology for several decades. During this period, criminologists have identified a set of repeat victimization premises that are observed for many crimes; however, it is unknown whether these premises are also valid for cybercrime. In this study we rely on more than 9 million Zone-H data records from 2010 to 2017 to test whether these premises apply for the cybercrime of website defacement. We show that the phenomenon of repeat victimization is also observed in defaced cyber places (i.e. websites). In particular, we found that repeats contributed little to crime rates, that repeats occurred even several years after the original incident, that they were committed disproportionately by prolific offenders, and that few offenders returned to victimize previous targets. The results suggest that some traditional premises of repeat victimization may also be valid for understanding cybercrime events such as website defacement, implying that environmental criminology theories also constitute a useful framework for cybercrime analysis. The implications of these results in terms of criminological theory, cybercrime prevention, and the limitations derived from the use of Zone-H data are discussed.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nAccess the R code\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-12-25T13:50:58+01:00",
-    "input_file": "moneva_2021.knit.md"
+    "last_modified": "2021-12-25T13:51:01+01:00",
+    "input_file": {}
   },
   {
     "path": "publications/2021-07-18-empty-streets-busy-internet-a/",
@@ -72,8 +72,8 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThe unprecedented changes in routine activities brought about by COVID-19 and the associated lockdown measures contributed to a reduction in opportunities for predatory crimes in outdoor physical spaces, while people spent more time connected to the internet, and opportunities for cybercrime and fraud increased. This article applies time-series analysis to historical data on cybercrime and fraud reported to Action Fraud in the United Kingdom to examine whether any potential increases are beyond normal crime variability. Furthermore, the discrepancies between fraud types and individual and organizational victims are also analyzed. The results show that while both total cybercrime and total fraud increased beyond predicted levels, the changes in victimization were not homogeneous across fraud types and victims. The implications of these findings on how changes in routine activities during COVID-19 have influenced cybercrime and fraud opportunities are discussed in relation to policy, practice, and academic debate.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nSee the related ShinyApp\r\nAccess the R code for the ShinyApp\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-12-25T13:51:20+01:00",
-    "input_file": "kemp_2021.knit.md"
+    "last_modified": "2021-12-25T13:51:22+01:00",
+    "input_file": {}
   },
   {
     "path": "publications/2021-06-04-the-annual-conference-on-the/",
@@ -134,8 +134,8 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThe COVID-19 outbreak and the far-reaching lockdown measures are having direct and indirect effects on complex social domains, including opportunities for crime offline and online. This paper presents preliminary analyses about the short-term effect of COVID-19 and lockdown measures on cyber-dependent crime and online fraud in the UK. Time series analyses from data about crimes known to police between May 2019 and May 2020 are used to explore the extent to which cybercrime has been affected by the COVID-19 outbreak. More specifically, we examine whether cybercrime has suffered an increase during the months with the strictest lockdown restrictions, as an effect of the displacement of crime opportunities from physical to online environments. Results indicate that reports of cybercrime have increased during the COVID-19 outbreak, and these were remarkably large during the two months with the strictest lockdown policies and measures. In particular, the number of frauds associated with online shopping and auctions, and the hacking of social media and email, which are the two most common cybercrime categories in the UK, have seen the largest increases in the number of incidents. The increase in cyber-dependent crimes has mainly been experienced by individual victims rather than organisations.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-12-25T13:51:39+01:00",
-    "input_file": "builgil_2020.knit.md"
+    "last_modified": "2021-12-25T13:51:42+01:00",
+    "input_file": {}
   },
   {
     "path": "publications/2020-04-03-hunter-or-prey-exploring-the/",
@@ -165,7 +165,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nData collected from a sample of Spanish non-university students (N = 4174) were used to identify unique situational profiles of self-identified repeated online harassment victims and offenders, through a Conjunctive Analysis of Case Configurations (CACC). Repeat victim and offender profiles were constructed using individual-level factors and variables related to the cyber “places” where students go online and their personal information they share while there. Clustering analysis demonstrates that students spent their time online in few situational contexts where online harassment occurs. Dominant situational profiles of students are then provided, along with their associated probabilities for experiencing repeat victimization or committing repeat offending, identifying those at relatively higher and lower risk. Results show that composite profiles associated with victims of repeated online harassment are dissimilar to those associated with offenders of repeated online harassment, suggesting that each form of online harassment occurs in different situational contexts and therefore requires different preventative measures. Our findings are discussed in terms of criminological theory, future online harassment research, cybercrime prevention, and policy implications.\r\nLinks\r\nDownload the PDF\r\nAccess the R code\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-12-25T13:56:02+01:00",
-    "input_file": "moneva_2020.knit.md"
+    "last_modified": "2021-12-25T13:56:05+01:00",
+    "input_file": {}
   }
 ]

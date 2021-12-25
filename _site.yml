@@ -16,6 +16,8 @@ navbar:
       href: publications.html
     - text: "About"
       href: about.html
+    - icon: fas fa-graduation-cap
+      href: https://scholar.google.es/citations?user=SNjqpq8AAAAJ
     - icon: fab fa-github
       href: https://github.com/amoneva
     - icon: fab fa-twitter
