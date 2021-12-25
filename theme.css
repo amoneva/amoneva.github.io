@@ -34,12 +34,6 @@ html {
   --navbar-font:     "Dosis", sans-serif;  /* websites + blogs only */
 }
 
-/*-- LINKS --*/
-a, d-article a {
-  color: #0E5477;
-  text-decoration: none;
-}
-
 /*-- ARTICLE METADATA --*/
 d-byline {
   --heading-size:    0.6rem;
@@ -81,5 +75,11 @@ d-appendix {
 }
 
 /*-- Additional custom styles --*/
-/* Add any additional CSS rules below                      */
+/* Add any additional CSS rules below */
 
+/*-- LINKS --*/
+a, d-article a {
+  color: #0E5477;
+  text-decoration: none;
+  border-bottom: none;
+}

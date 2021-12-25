@@ -89,7 +89,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_meta_tags-->
   <title>Asier Moneva: Welcome!</title>
 
-  <meta property="description" itemprop="description" content="On this website you can find my publications in open access. Just click on [Publications](publications.html) in the navigation bar for an overview or use the search function if you are looking for something specific. There is an individual post for each publication. At the bottom of each post you will find a section called &#39;Links&#39;, which lists a number of actions you can take. For example, you might want to read an article online, take a look at the code used for the analyses, or simply download the PDF. &#10;&#10;You may also visit the [About](about.html) section to learn a little more about me. There you can also download my curriculum vitae. &#10;&#10;If you have any questions, comments or requests, feel free to contact me. &#10;&#10;Enjoy your stay!&#10;&#10;I am currently busy building this site. Watch this space!"/>
+  <meta property="description" itemprop="description" content="Looking for open access publications? You&#39;re in the right place."/>
 
   <link rel="license" href="https://creativecommons.org/licenses/by/4.0/"/>
 
@@ -97,21 +97,21 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
   <meta property="og:title" content="Asier Moneva: Welcome!"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="On this website you can find my publications in open access. Just click on [Publications](publications.html) in the navigation bar for an overview or use the search function if you are looking for something specific. There is an individual post for each publication. At the bottom of each post you will find a section called &#39;Links&#39;, which lists a number of actions you can take. For example, you might want to read an article online, take a look at the code used for the analyses, or simply download the PDF. &#10;&#10;You may also visit the [About](about.html) section to learn a little more about me. There you can also download my curriculum vitae. &#10;&#10;If you have any questions, comments or requests, feel free to contact me. &#10;&#10;Enjoy your stay!&#10;&#10;I am currently busy building this site. Watch this space!"/>
+  <meta property="og:description" content="Looking for open access publications? You&#39;re in the right place."/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="Asier Moneva"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
   <meta property="twitter:title" content="Asier Moneva: Welcome!"/>
-  <meta property="twitter:description" content="On this website you can find my publications in open access. Just click on [Publications](publications.html) in the navigation bar for an overview or use the search function if you are looking for something specific. There is an individual post for each publication. At the bottom of each post you will find a section called &#39;Links&#39;, which lists a number of actions you can take. For example, you might want to read an article online, take a look at the code used for the analyses, or simply download the PDF. &#10;&#10;You may also visit the [About](about.html) section to learn a little more about me. There you can also download my curriculum vitae. &#10;&#10;If you have any questions, comments or requests, feel free to contact me. &#10;&#10;Enjoy your stay!&#10;&#10;I am currently busy building this site. Watch this space!"/>
+  <meta property="twitter:description" content="Looking for open access publications? You&#39;re in the right place."/>
   <meta property="twitter:site" content="@crimoneva"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","site"]}},"value":[{"type":"character","attributes":{},"value":["Welcome!"]},{"type":"character","attributes":{},"value":["On this website you can find my publications in open access. Just click on [Publications](publications.html) in the navigation bar for an overview or use the search function if you are looking for something specific. There is an individual post for each publication. At the bottom of each post you will find a section called 'Links', which lists a number of actions you can take. For example, you might want to read an article online, take a look at the code used for the analyses, or simply download the PDF. \n\nYou may also visit the [About](about.html) section to learn a little more about me. There you can also download my curriculum vitae. \n\nIf you have any questions, comments or requests, feel free to contact me. \n\nEnjoy your stay!\n\nI am currently busy building this site. Watch this space!\n"]},{"type":"character","attributes":{},"value":["distill::distill_website"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","site"]}},"value":[{"type":"character","attributes":{},"value":["Welcome!"]},{"type":"character","attributes":{},"value":["Looking for open access publications? You're in the right place."]},{"type":"character","attributes":{},"value":["distill::distill_website"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2152,12 +2152,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --navbar-font:     "Dosis", sans-serif;  /* websites + blogs only */
   }
 
-  /*-- LINKS --*/
-  a, d-article a {
-    color: #0E5477;
-    text-decoration: none;
-  }
-
   /*-- ARTICLE METADATA --*/
   d-byline {
     --heading-size:    0.6rem;
@@ -2199,8 +2193,14 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
 
   /*-- Additional custom styles --*/
-  /* Add any additional CSS rules below                      */
-  </style>
+  /* Add any additional CSS rules below */
+
+  /*-- LINKS --*/
+  a, d-article a {
+    color: #0E5477;
+    text-decoration: none;
+    border-bottom: none;
+  }</style>
   <style type="text/css">
   /* base style */
 
@@ -2376,7 +2376,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Welcome!","description":"On this website you can find my publications in open access. Just click on [Publications](publications.html) in the navigation bar for an overview or use the search function if you are looking for something specific. There is an individual post for each publication. At the bottom of each post you will find a section called 'Links', which lists a number of actions you can take. For example, you might want to read an article online, take a look at the code used for the analyses, or simply download the PDF. \n\nYou may also visit the [About](about.html) section to learn a little more about me. There you can also download my curriculum vitae. \n\nIf you have any questions, comments or requests, feel free to contact me. \n\nEnjoy your stay!\n\nI am currently busy building this site. Watch this space!","authors":[]}
+{"title":"Welcome!","description":"Looking for open access publications? You're in the right place.","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2415,15 +2415,20 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <h1>Welcome!</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>On this website you can find my publications in open access. Just click on <a href="publications.html">Publications</a> in the navigation bar for an overview or use the search function if you are looking for something specific. There is an individual post for each publication. At the bottom of each post you will find a section called ‘Links’, which lists a number of actions you can take. For example, you might want to read an article online, take a look at the code used for the analyses, or simply download the PDF.</p>
-<p>You may also visit the <a href="about.html">About</a> section to learn a little more about me. There you can also download my curriculum vitae.</p>
-<p>If you have any questions, comments or requests, feel free to contact me.</p>
-<p>Enjoy your stay!</p>
-<p>I am currently busy building this site. Watch this space!</p></p>
+<p>Looking for open access publications? You’re in the right place.</p>
 </div>
 
 
 <div class="d-article">
+<div class="layout-chunk" data-layout="l-body">
+<p><img src="images/banner.png" width="320" style="display: block; margin: auto;" /></p>
+</div>
+<center>
+<p>On this website you can find my publications in open access. Just click on <a href="publications.html">Publications</a> in the navigation bar for an overview or use the search function if you are looking for something specific. There is an individual post for each publication. At the bottom of each post you will find a section called ‘Links’, which lists a number of actions you can take. For example, you might want to read an article online, take a look at the code used for the analyses, or simply download the PDF.</p>
+<p>You may also visit the <a href="about.html">About</a> section to learn a little more about me. There you can also download my curriculum vitae.</p>
+<p>If you have any questions, comments or requests, feel free to contact me.</p>
+<p><strong>Enjoy your stay!</strong></p>
+</center>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
