@@ -1,0 +1,40 @@
+---
+title: "Hunter or prey? Exploring the situational profiles that define repeated online harassment victims and offenders"
+description: Journal article
+base_url: https://amoneva.github.io/
+author:
+  - name: Asier Moneva
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: Fernando Miró-Llinares
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+  - name: Timothy C. Hart
+    affiliation: University of Tampa
+    orcid_id: https://orcid.org/0000-0003-3274-3661
+date: 2020-04-03
+categories:
+  - online harassment
+  - cyber place
+  - CACC
+  - conjunctive analysis
+  - situational profile
+doi: https://doi.org/10.1080/01639625.2020.1746135
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+Data collected from a sample of Spanish non-university students (*N* = 4174) were used to identify unique situational profiles of self-identified repeated online harassment victims and offenders, through a Conjunctive Analysis of Case Configurations (CACC). Repeat victim and offender profiles were constructed using individual-level factors and variables related to the cyber “places” where students go online and their personal information they share while there. Clustering analysis demonstrates that students spent their time online in few situational contexts where online harassment occurs. Dominant situational profiles of students are then provided, along with their associated probabilities for experiencing repeat victimization or committing repeat offending, identifying those at relatively higher and lower risk. Results show that composite profiles associated with victims of repeated online harassment are dissimilar to those associated with offenders of repeated online harassment, suggesting that each form of online harassment occurs in different situational contexts and therefore requires different preventative measures. Our findings are discussed in terms of criminological theory, future online harassment research, cybercrime prevention, and policy implications.
+
+# Links
+
+-   [Download the PDF](moneva_2020_hunter_or_prey_exploring_the.pdf)
+-   [Access the R code](https://github.com/amoneva/code_papers)

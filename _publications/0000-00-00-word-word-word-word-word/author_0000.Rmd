@@ -1,0 +1,35 @@
+---
+title: "Title"
+description: [Journal article | Book chapter]
+base_url: https://amoneva.github.io/
+author:
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+# Publication date (online first)
+date: 0000-00-00
+categories:
+  - keyword
+doi: https://doi.org/*
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+# Remove to publish
+draft: true
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+Text
+
+# Links
+
+-   [Read the paper online](URL)
+-   [Download the PDF](file.pdf)
+-   [Access the R code](URL)
