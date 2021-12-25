@@ -1,0 +1,40 @@
+---
+title: "The dark figure and the cyber fraud Rise in Europe: Evidence from Spain"
+description: Journal article
+base_url: https://amoneva.github.io/
+author:
+  - name: Steven Kemp
+    affiliation: University of Girona 
+    orcid_id: https://orcid.org/0000-0001-8662-1913
+  - name: Fernando Miró-Llinares
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+  - name: Asier Moneva
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+date: 2020-03-04
+categories:
+  - dark figure
+  - cyber fraud
+  - crime trends
+  - crime drop
+  - evidence-based prevention
+  - crime reporting
+doi: https://doi.org/10.1007/s10610-020-09439-2
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+A reduction in property crime has been a central feature of criminological discussion in the last 25 years, and numerous studies have used police statistics to identify a drop throughout the Western world. However, fraud, which is included in a broad definition of property crime, has typically not been considered in the analysis. This study examines fraud in the Spanish and European context to further understanding of its nature, prevalence, evolution and role in the overall panorama of property crime. Furthermore, the present study explores the extent to which we are experiencing widespread fraud underreporting to police and the implications of this for crime control policy. To this end, the present paper analyses secondary data provided by the Spanish Ministry of Interior, Spanish and European central banking authorities as well as large-scale victimization surveys from a number of European countries. In contrast to other property crimes, the findings indicate that cyber fraud is rising and that reporting is considerably lower. Some of the main reasons for reporting or not reporting fraud victimization are also identified. The dark figure of fraud suggests the design and evaluation of policing and crime prevention policies based solely on police statistics may be inadequate.
+
+# Links
+
+-   [Download the PDF](kemp_2020_the_dark_figure_and_the.pdf)

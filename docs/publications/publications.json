@@ -67,12 +67,12 @@
       "coronavirus",
       "ARIMA",
       "cyber security",
-      "victims",
+      "victimization",
       "crime statistics"
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThe unprecedented changes in routine activities brought about by COVID-19 and the associated lockdown measures contributed to a reduction in opportunities for predatory crimes in outdoor physical spaces, while people spent more time connected to the internet, and opportunities for cybercrime and fraud increased. This article applies time-series analysis to historical data on cybercrime and fraud reported to Action Fraud in the United Kingdom to examine whether any potential increases are beyond normal crime variability. Furthermore, the discrepancies between fraud types and individual and organizational victims are also analyzed. The results show that while both total cybercrime and total fraud increased beyond predicted levels, the changes in victimization were not homogeneous across fraud types and victims. The implications of these findings on how changes in routine activities during COVID-19 have influenced cybercrime and fraud opportunities are discussed in relation to policy, practice, and academic debate.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nSee the related ShinyApp\r\nAccess the R code for the ShinyApp\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-12-25T13:51:22+01:00",
+    "last_modified": "2021-12-25T20:06:12+01:00",
     "input_file": {}
   },
   {
@@ -166,6 +166,65 @@
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nData collected from a sample of Spanish non-university students (N = 4174) were used to identify unique situational profiles of self-identified repeated online harassment victims and offenders, through a Conjunctive Analysis of Case Configurations (CACC). Repeat victim and offender profiles were constructed using individual-level factors and variables related to the cyber “places” where students go online and their personal information they share while there. Clustering analysis demonstrates that students spent their time online in few situational contexts where online harassment occurs. Dominant situational profiles of students are then provided, along with their associated probabilities for experiencing repeat victimization or committing repeat offending, identifying those at relatively higher and lower risk. Results show that composite profiles associated with victims of repeated online harassment are dissimilar to those associated with offenders of repeated online harassment, suggesting that each form of online harassment occurs in different situational contexts and therefore requires different preventative measures. Our findings are discussed in terms of criminological theory, future online harassment research, cybercrime prevention, and policy implications.\r\nLinks\r\nDownload the PDF\r\nAccess the R code\r\n\r\n\r\n\r\n",
     "preview": {},
     "last_modified": "2021-12-25T13:56:05+01:00",
+    "input_file": {}
+  },
+  {
+    "path": "publications/2020-03-04-the-dark-figure-and-the/",
+    "title": "The dark figure and the cyber fraud Rise in Europe: Evidence from Spain",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Steven Kemp",
+        "url": {}
+      },
+      {
+        "name": "Fernando Miró-Llinares",
+        "url": {}
+      },
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      }
+    ],
+    "date": "2020-03-04",
+    "categories": [
+      "dark figure",
+      "cyber fraud",
+      "crime trends",
+      "crime drop",
+      "evidence-based prevention",
+      "crime reporting"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nA reduction in property crime has been a central feature of criminological discussion in the last 25 years, and numerous studies have used police statistics to identify a drop throughout the Western world. However, fraud, which is included in a broad definition of property crime, has typically not been considered in the analysis. This study examines fraud in the Spanish and European context to further understanding of its nature, prevalence, evolution and role in the overall panorama of property crime. Furthermore, the present study explores the extent to which we are experiencing widespread fraud underreporting to police and the implications of this for crime control policy. To this end, the present paper analyses secondary data provided by the Spanish Ministry of Interior, Spanish and European central banking authorities as well as large-scale victimization surveys from a number of European countries. In contrast to other property crimes, the findings indicate that cyber fraud is rising and that reporting is considerably lower. Some of the main reasons for reporting or not reporting fraud victimization are also identified. The dark figure of fraud suggests the design and evaluation of policing and crime prevention policies based solely on police statistics may be inadequate.\r\nLinks\r\nDownload the PDF\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-12-25T19:38:32+01:00",
+    "input_file": {}
+  },
+  {
+    "path": "publications/2020-01-31-comparing-correlates-of-offline-and/",
+    "title": "Comparing correlates of offline and online fraud victimisation and impacts",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Steven Kemp",
+        "url": {}
+      },
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      }
+    ],
+    "date": "2020-01-31",
+    "categories": [
+      "Catalan Public Security Survey",
+      "fraud",
+      "cyber fraud",
+      "quantitative methodology",
+      "victimization"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nFraud is one of the archetypal crimes that founded the ‘old wine in new bottles’ cybercrime debate. However, it also constitutes an issue whose impacts are still often misunderstood or underestimated. In order to add to the debate and highlight the consequences suffered by fraud victims in the digital-era, this study preforms a series of regression models to analyse the differences in determinants of online and offline fraud and the factors associated with increased financial and psychological impacts as well as annoyance. This is carried out using data on fraud victims from 2 editions (2015 and 2017) of the Catalan Public Security Survey (n = 1177). The findings show that online fraud victims are younger and have a higher education level. Regarding impact, few significant determinants of financial losses are found, but annoyance and psychological consequences are higher in offline fraud and can be influenced by variables such as the victim’s sex, financial situation or opinion regarding safety in their local area. Interestingly, despite the consequences being lower, online fraud is more likely to be considered a crime by the victim. Finally, the implications for policy and practice are discussed.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-12-25T20:00:09+01:00",
     "input_file": {}
   }
 ]

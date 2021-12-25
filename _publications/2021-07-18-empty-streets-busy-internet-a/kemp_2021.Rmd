@@ -22,7 +22,7 @@ categories:
   - coronavirus
   - ARIMA
   - cyber security
-  - victims
+  - victimization
   - crime statistics
 doi: https://doi.org/10.1177/10439862211027986
 citation: false

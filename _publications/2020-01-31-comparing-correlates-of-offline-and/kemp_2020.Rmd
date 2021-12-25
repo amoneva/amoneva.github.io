@@ -1,0 +1,37 @@
+---
+title: "Comparing correlates of offline and online fraud victimisation and impacts"
+description: Journal article
+base_url: https://amoneva.github.io/
+author:
+  - name: Steven Kemp
+    affiliation: University of Girona 
+    orcid_id: https://orcid.org/0000-0001-8662-1913
+  - name: Asier Moneva
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+date: 2020-01-31
+categories:
+  - Catalan Public Security Survey
+  - fraud
+  - cyber fraud
+  - quantitative methodology
+  - victimization
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+Fraud is one of the archetypal crimes that founded the ‘old wine in new bottles’ cybercrime debate. However, it also constitutes an issue whose impacts are still often misunderstood or underestimated. In order to add to the debate and highlight the consequences suffered by fraud victims in the digital-era, this study preforms a series of regression models to analyse the differences in determinants of online and offline fraud and the factors associated with increased financial and psychological impacts as well as annoyance. This is carried out using data on fraud victims from 2 editions (2015 and 2017) of the Catalan Public Security Survey (*n* = 1177). The findings show that online fraud victims are younger and have a higher education level. Regarding impact, few significant determinants of financial losses are found, but annoyance and psychological consequences are higher in offline fraud and can be influenced by variables such as the victim’s sex, financial situation or opinion regarding safety in their local area. Interestingly, despite the consequences being lower, online fraud is more likely to be considered a crime by the victim. Finally, the implications for policy and practice are discussed.
+
+# Links
+
+-   [Read the paper online](https://indret.com/fraude-online-vs-offline-factores-predictores-de-victimizacion-y-su-impacto/?edicion=1.20)
+-   [Download the PDF](kemp_2020_comparing_correlates_of_online_and.pdf)
