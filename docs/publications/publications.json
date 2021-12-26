@@ -90,12 +90,12 @@
       "conference",
       "human factor",
       "cybercrime",
-      "social network analysis"
+      "network analysis"
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThe Annual Conference on the Human Factor in Cybercrime is a small and specialised scientific event that aims to bring together scholars from around the world to present their research advances to a select audience. Its dynamic and linear format favours group discussions since all contributions are heard by all the attendants. This, together with its tailored social scheme, promotes interaction between members, which—in turn—leads to new collaborations. However, it has not yet been analysed whether the design of the conference actually encourages varied participation and fosters collaborative networks among its participants. The purpose of this chapter is to assess participation in the 2018 and 2019 editions to determine whether this is the case. Using descriptive analyses, here we show how participation in the conference has varied and examine the composition of the collaboration networks among the participants. The results show an increased and more diverse participation in the 2019 meeting along with a greater presence of stakeholders. Furthermore, the findings reveal that members of previously established organisations play an important role in cohering the network. Yet few connections exist between academia and practice. A further analysis of the strengths and weaknesses identified in the two editions of the conference serves to elaborate a series of recommendations for future editions.\r\nLinks\r\nRead the chapter online\r\nDownload the PDF (post-print)\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-12-24T16:02:37+01:00",
-    "input_file": {}
+    "last_modified": "2021-12-26T11:15:43+01:00",
+    "input_file": "moneva_2021.knit.md"
   },
   {
     "path": "publications/2020-08-11-cybercrime-and-shifts-in-opportunities/",
@@ -136,6 +136,31 @@
     "preview": {},
     "last_modified": "2021-12-25T13:51:42+01:00",
     "input_file": {}
+  },
+  {
+    "path": "publications/2020-07-24-cyber-places-crime-patterns-and/",
+    "title": "Cyber places, crime patterns, and cybercrime prevention: An environmental criminology and crime analysis approach through data science",
+    "description": "Doctoral thesis",
+    "author": [
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-24",
+    "categories": [
+      "crime analysis",
+      "crime patterns",
+      "crime prevention",
+      "cyber place",
+      "cybercrime",
+      "data science",
+      "environmental criminology"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nFor years, academics have examined the potential usefulness of traditional criminological theories to explain and prevent cybercrime. Some analytical frameworks from Environmental Criminology and Crime Analysis (ECCA), such as the Routine Activities Approach and Situational Crime Prevention, are frequently used in theoretical and empirical research for this purpose. These efforts have led to a better understanding of how crime opportunities are generated in cyberspace, thus contributing to advancing the discipline. However, with a few exceptions, other ECCA analytical frameworks -especially those based on the idea of geographical place- have been largely ignored. The limited attention devoted to ECCA from a global perspective means its true potential to prevent cybercrime has remained unknown to date. In this thesis we aim to overcome this geographical gap in order to show the potential of some of the essential concepts that underpin the ECCA approach, such as places and crime patterns, to analyse and prevent four crimes committed in cyberspace. To this end, this dissertation is structured in two phases: firstly, a proposal for the transposition of ECCA’s fundamental propositions to cyberspace; and secondly, deriving from this approach some hypotheses are contrasted in four empirical studies through Data Science. The first study contrasts a number of premises of repeat victimization in a sample of more than nine million self-reported website defacements. The second examines the precipitators of crime at cyber places where allegedly fixed match results are advertised and the hyperlinked network they form. The third explores the situational contexts where repeated online harassment occurs among a sample of non-university students. And the fourth builds two metadata-driven machine learning models to detect online hate speech in a sample of Twitter messages collected after a terrorist attack. General results show (1) that cybercrimes are not randomly distributed in space, time, or among people; and (2) that the environmental features of the cyber places where they occur determine the emergence of crime opportunities. Overall, we conclude that the ECCA approach and, in particular, its place-based analytical frameworks can also be valid for analysing and preventing crime in cyberspace. We anticipate that this work can guide future research in this area including: the design of secure online environments, the allocation of preventive resources to high-risk cyber places, and the implementation of new evidence-based situational prevention measures.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-12-26T11:31:27+01:00",
+    "input_file": "moneva_2020.knit.md"
   },
   {
     "path": "publications/2020-04-03-hunter-or-prey-exploring-the/",
@@ -226,5 +251,32 @@
     "preview": {},
     "last_modified": "2021-12-25T20:00:09+01:00",
     "input_file": {}
+  },
+  {
+    "path": "publications/2019-12-11-100-sure-bets-exploring-the/",
+    "title": "100% sure bets? Exploring the precipitation-control strategies of fixed-match informing websites and the environmental features of their networks",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      },
+      {
+        "name": "Stefano Caneppele",
+        "url": {}
+      }
+    ],
+    "date": "2019-12-11",
+    "categories": [
+      "match-fixing",
+      "sport betting",
+      "cyber place",
+      "situational precipitators of crime",
+      "network analysis"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nIn recent years, many human activities have made cyberspace their preferred environment. This study focuses on the betting environment, specifically on fixed-match informing websites (FMIWs). These sites claim to be capable of selling tips about fixed sports events. They essentially act as vendors of confidential sources, allowing punters to place 100% sure bets. We hypothesize that cyber places for match-fixing tips facilitate deviant behaviors. Through systematic observation, we describe and quantify a set of 15 environmental features they share, which do not always belong to regulated online betting platforms. Findings from 78 FMIWs corroborate our hypothesis, as they support the relevance of Environmental Criminology theories applied to cybercrime. Additional exploration through hyperlink network analysis shows that FMIWs are highly homogeneous and have similar characteristics to the Tor network but differ from other illicit online environments such as sexual child exploitation networks or white supremacist communities. The characteristics of the network suggest that the business is more similar to a fraud scheme than an illicit market. Finally, the practical implications of the results for crime prevention and the directions for future research are outlined.\r\nLinks\r\nDownload the PDF\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-12-26T11:21:04+01:00",
+    "input_file": "moneva_2019.knit.md"
   }
 ]

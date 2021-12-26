@@ -1,0 +1,37 @@
+---
+title: "100% sure bets? Exploring the precipitation-control strategies of fixed-match informing websites and the environmental features of their networks"
+description: Journal article
+base_url: https://amoneva.github.io/
+author:
+  - name: Asier Moneva
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: Stefano Caneppele
+    affiliation: University of Lausanne
+    orcid_id: https://orcid.org/0000-0003-3924-4937
+date: 2019-12-11
+categories:
+  - match-fixing
+  - sport betting
+  - cyber place
+  - situational precipitators of crime
+  - network analysis
+doi: https://doi.org/10.1007/s10611-019-09871-4
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+In recent years, many human activities have made cyberspace their preferred environment. This study focuses on the betting environment, specifically on fixed-match informing websites (FMIWs). These sites claim to be capable of selling tips about fixed sports events. They essentially act as vendors of confidential sources, allowing punters to place 100% sure bets. We hypothesize that cyber places for match-fixing tips facilitate deviant behaviors. Through systematic observation, we describe and quantify a set of 15 environmental features they share, which do not always belong to regulated online betting platforms. Findings from 78 FMIWs corroborate our hypothesis, as they support the relevance of Environmental Criminology theories applied to cybercrime. Additional exploration through hyperlink network analysis shows that FMIWs are highly homogeneous and have similar characteristics to the Tor network but differ from other illicit online environments such as sexual child exploitation networks or white supremacist communities. The characteristics of the network suggest that the business is more similar to a fraud scheme than an illicit market. Finally, the practical implications of the results for crime prevention and the directions for future research are outlined.
+
+# Links
+
+-   [Download the PDF](moneva_2019_100_sure_bets_exploring_the.pdf)

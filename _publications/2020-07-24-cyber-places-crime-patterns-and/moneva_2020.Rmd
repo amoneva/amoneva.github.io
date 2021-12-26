@@ -1,0 +1,37 @@
+---
+title: "Cyber places, crime patterns, and cybercrime prevention: An environmental criminology and crime analysis approach through data science"
+description: Doctoral thesis
+base_url: https://amoneva.github.io/
+author:
+  - name: Asier Moneva
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+date: 2020-07-24
+categories:
+  - crime analysis
+  - crime patterns
+  - crime prevention
+  - cyber place
+  - cybercrime
+  - data science
+  - environmental criminology
+doi: http://dspace.umh.es/handle/11000/25539
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+For years, academics have examined the potential usefulness of traditional criminological theories to explain and prevent cybercrime. Some analytical frameworks from Environmental Criminology and Crime Analysis (ECCA), such as the Routine Activities Approach and Situational Crime Prevention, are frequently used in theoretical and empirical research for this purpose. These efforts have led to a better understanding of how crime opportunities are generated in cyberspace, thus contributing to advancing the discipline. However, with a few exceptions, other ECCA analytical frameworks -especially those based on the idea of geographical place- have been largely ignored. The limited attention devoted to ECCA from a global perspective means its true potential to prevent cybercrime has remained unknown to date. In this thesis we aim to overcome this geographical gap in order to show the potential of some of the essential concepts that underpin the ECCA approach, such as places and crime patterns, to analyse and prevent four crimes committed in cyberspace. To this end, this dissertation is structured in two phases: firstly, a proposal for the transposition of ECCA’s fundamental propositions to cyberspace; and secondly, deriving from this approach some hypotheses are contrasted in four empirical studies through Data Science. The first study contrasts a number of premises of repeat victimization in a sample of more than nine million self-reported website defacements. The second examines the precipitators of crime at cyber places where allegedly fixed match results are advertised and the hyperlinked network they form. The third explores the situational contexts where repeated online harassment occurs among a sample of non-university students. And the fourth builds two metadata-driven machine learning models to detect online hate speech in a sample of Twitter messages collected after a terrorist attack. General results show (1) that cybercrimes are not randomly distributed in space, time, or among people; and (2) that the environmental features of the cyber places where they occur determine the emergence of crime opportunities. Overall, we conclude that the ECCA approach and, in particular, its place-based analytical frameworks can also be valid for analysing and preventing crime in cyberspace. We anticipate that this work can guide future research in this area including: the design of secure online environments, the allocation of preventive resources to high-risk cyber places, and the implementation of new evidence-based situational prevention measures.
+
+# Links
+
+-   [Read the paper online](http://dspace.umh.es/handle/11000/25539)
+-   [Download the PDF](moneva_2020_cyber_places_crime_patterns_and.pdf)
