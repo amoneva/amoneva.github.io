@@ -3,11 +3,11 @@ title: "Welcome!"
 image: "images/asier.jpg"
 site: distill::distill_website
 links:
-  - label: "Publications"
+  - label: '<i class="far fa-file-alt"></i> Publications'
     url: https://amoneva.github.io/publications.html
-  - label: "About me"
+  - label: '<i class="far fa-id-badge"></i> About me'
     url: https://amoneva.github.io/about.html
-  - label: "CV"
+  - label: '<i class="fas fa-user-graduate"></i> CV'
     url: files/cv.pdf
 output:
   postcards::jolla
