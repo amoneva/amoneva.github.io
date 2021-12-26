@@ -4,6 +4,7 @@ theme: theme.css
 description: |
   The personal website of Asier Moneva.
 base_url: https://amoneva.github.io/
+google_analytics: "G-HCW67X9W2H"
 output_dir: "docs"
 creative_commons: CC BY
 twitter:
