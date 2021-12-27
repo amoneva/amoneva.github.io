@@ -1,0 +1,39 @@
+---
+title: "Can metadata be used to measure the anonymity of Twitter users? Results of a confirmatory factor analysis"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Zoraida Esteve-Bañón
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+  - name: Asier Moneva
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: Fernando Miró-Llinares
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+date: 2019-10-16
+categories:
+  - anonymity
+  - cyberspace
+  - metadata
+  - Twitter
+  - confirmatory factor analysis
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+Anonymity is one of the elements traditionally associated with criminal and antisocial behaviour. Anonymity depends on several factors, such as natural surveillance or the visibility created by the physical or digital environment. Certain digital environments, such as social networks, exhibit characteristics that facilitate or limit the degree of anonymity of their users. Social networks are places in cyberspace where people interact with each other and with the environment, where they increasingly carry out their daily activities and where they also commit crimes. This paper attempts to test the hypothesis that certain elements of the social network environment define the anonymity of their users. To this end, an empirical process for quantifying anonymity is proposed, which can be applied transversally to all places in cyberspace that permit user accounts. Subsequently, a data set of 162 users has been obtained from the social network Twitter which also collects the metadata associated to their accounts. To test this hypothesis, a Confirmatory Factor Analysis (CFA) has been conducted to determine whether the data obtained fit the model based on a theoretical concept proposed by the researchers. The results show a moderate fit for the model, suggesting that some metadata (i.e., geopositioning) do not contribute to defining the latent variable anonymity. We suggest the proposed model needs to be reconsidered and applied to a larger sample to improve its fit. Finally, the applicability of the proposed methodology for measuring anonymity and future lines of research are discussed.
+
+# Links
+
+-   [Read the paper online](https://ojs.ehu.eus/index.php/inecs/article/view/21157/19010)
+-   [Download the PDF](esteve_2019_can_metadata_be_used_to.pdf)

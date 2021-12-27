@@ -1,0 +1,39 @@
+---
+title: "Conjunctive analysis of case configurations: An introduction to configural thinking"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Timothy C. Hart
+    affiliation: Griffith University
+    orcid_id: https://orcid.org/0000-0003-3274-3661
+  - name: Asier Moneva
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+date: 2018-05-28
+categories:
+  - CACC
+  - exploratory data analysis
+  - multivariate analysis
+  - conjunctive analysis
+  - situational profile
+doi: https://doi.org/10.46381/reic.v16i0.148
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+This paper establishes the first Spanish step-by-step guide to carry out a Conjunctive Analysis of Case  Configurations. It is  defined  as  an  exploratory technique  for  multivariate  analysis  of  categorical data,  which is  an  alternative  to  other traditional methods. Through its logical development, we intend to show a systematic method for data preparation that allows a wide range of analysis to be conducted on them, showing both the advantages it offers and its inherent limitations. To clearly illustrate its application process, two databases managed by the University of Michigan Institute for Social Research have  been  used:  The  National  Incident  Based  Report  System  and  The  Law  Enforcement Management  and  Administrative  Statistics.  The  interpretation  of  results  obtained  by  this technique  allows  reaching  conclusions  that  may  have  important  implications  for  several evidence based decision-making processes.
+
+# Links
+
+-   [Read the paper online](https://reic.criminologia.net/index.php/journal/article/view/148)
+-   [Download the PDF](hart_2018_conjunctive_analysis_of_case_configurations.pdf)

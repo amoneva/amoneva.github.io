@@ -1,0 +1,40 @@
+---
+title: "Hate is in the air! But where? Introducing an algorithm to detect hate speech in digital microenvironments"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Fernando Miró-Llinares
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+  - name: Asier Moneva
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: Miriam Esteve
+    affiliation: Center of Operations Research at Miguel Hernández University
+date: 2018-11-15
+categories:
+  - metadata
+  - cyber place
+  - hate speech
+  - Twitter
+  - random forest
+doi: https://doi.org/10.1186/s40163-018-0089-1
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+With the objective of facilitating and reducing analysis tasks undergone by law enforcement agencies and service providers, and using a sample of digital messages (i.e., tweets) sent via Twitter following the June 2017 London Bridge terror attack (*N* = 200,880), the present study introduces a new algorithm designed to detect hate speech messages in cyberspace. Unlike traditional designs based on semantic and syntactic approaches, the algorithm hereby implemented feeds solely on metadata, achieving high level of precision. Through the application of the machine learning classification technique Random Forests, our analysis indicates that metadata associated with the interaction and structure of tweets are especially relevant to identify the content they contain. However, metadata of Twitter accounts are less useful in the classification process. Collectively, findings from the current study allow us to demonstrate how digital microenvironment patterns defined by metadata can be used to create a computer algorithm capable of detecting online hate speech. The application of the algorithm and the direction of future research in this area are discussed.
+
+# Links
+
+-   [Read the paper online](https://crimesciencejournal.biomedcentral.com/articles/10.1186/s40163-018-0089-1)
+-   [Download the PDF](mirollinares_2018_hate_is_in_the_air.pdf)

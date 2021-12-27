@@ -1,0 +1,38 @@
+---
+title: "What about cyberspace (and cybercrime alongside it)? A reply to Farrell and Birks “Did cybercrime cause the crime drop?”"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Fernando Miró-Llinares
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+  - name: Asier Moneva
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+date: 2019-10-21
+categories:
+  - crime drop
+  - security hypothesis
+  - cybercrime hypothesis
+  - cyberspace
+  - information technology
+doi: https://doi.org/10.1186/s40163-019-0107-y
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+In this paper we question Farrell and Birks’ assertion of the emergence of cybercrime as an invalid explanation for the crime drop. Alternatively to the “cybercrime hypothesis”, we propose two non-exclusive hypotheses that highlight the essential role of cyberspace as an environment that has shifted criminal opportunities from physical to virtual space, which reflects on crime trends. The first hypothesis posits that the more time spent at home by many young people due to video games and online leisure activities, among other factors, could have had an impact on the juvenile crime drop. The second hypothesis states that the appearance of cyberspace has led to a shift in opportunities from physical space to cyberspace. This could have led to an increase in property-related criminal activity connected to the Internet to the detriment of physical crime which would not be reflected in the statistics. Both premises are supported by empirical evidence.
+
+# Links
+
+-   [Read the paper online](https://crimesciencejournal.biomedcentral.com/articles/10.1186/s40163-019-0107-y)
+-   [Download the PDF](mirollinares_2019_what_about_cyberspace_and_cybercrime.pdf)
