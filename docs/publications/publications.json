@@ -173,6 +173,40 @@
     "preview_height": 742
   },
   {
+    "path": "publications/2020-06-06-environmental-criminology-and-cybercrime-shifting/",
+    "title": "Environmental Criminology and Cybercrime: Shifting Focus from the Wine to the Bottles",
+    "description": "Book chapter",
+    "author": [
+      {
+        "name": "Fernando Miró-Llinares",
+        "url": {}
+      },
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      }
+    ],
+    "date": "2020-06-06",
+    "categories": [
+      "environmental criminology",
+      "crime science",
+      "criminological theory",
+      "prevention",
+      "opportunity",
+      "geographical gap",
+      "cyber place",
+      "crime event",
+      "cybercrime",
+      "crime patterns"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThis chapter addresses the ability of the criminological approaches that comprise Environmental Criminology to constitute an adequate theoretical framework to analyze and understand the situational aspects of crimes committed through cyberspace and to define the most appropriate prevention strategies. The chapter begins by examining how these approaches have been applied. Subsequently, the reasons why the environmental approach can offer much more in this area if some apparent obstacles are overcome are presented. Finally, a method of applying these midrange theoretical frameworks to different cybercrimes is proposed. Relying on multiple empirical studies, it is stated that the essential premise of the environmental approach is also observed in cybercrime: the existence of situational patterns. These patterns are derived from the different ways in which offenders and targets, in the absence of guardians, converge in cyber places: digital interaction environments that shape the situational opportunities in which people interact. The chapter ends by summarizing the application possibilities of approaches such as the Crime Pattern Theory and Situational Crime Prevention in connection with the Routine Activity Theory and the Rational Choice Theory. It is proposed that many of the geographical applications derived from these approaches and some of their basic theoretical premises need to be adapted while seeking to enhance their strengths and mitigate the effects of their weaknesses.\r\nLinks\r\nPDF under embargo until 2020-06-06. Contact me to get a copy!\r\n\r\n\r\n\r\n",
+    "preview": "publications/2020-06-06-environmental-criminology-and-cybercrime-shifting/preview.png",
+    "last_modified": "2021-12-27T16:25:36+01:00",
+    "input_file": "mirollinares_2020.knit.md",
+    "preview_width": 1323,
+    "preview_height": 526
+  },
+  {
     "path": "publications/2020-04-03-hunter-or-prey-exploring-the/",
     "title": "Hunter or prey? Exploring the situational profiles that define repeated online harassment victims and offenders",
     "description": "Journal article",

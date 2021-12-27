@@ -1,0 +1,42 @@
+---
+title: "Environmental Criminology and Cybercrime: Shifting Focus from the Wine to the Bottles"
+description: Book chapter
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Fernando Miró-Llinares
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+  - name: Asier Moneva
+    affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+date: 2020-06-06
+categories:
+  - environmental criminology
+  - crime science
+  - criminological theory
+  - prevention
+  - opportunity
+  - geographical gap
+  - cyber place
+  - crime event
+  - cybercrime
+  - crime patterns
+doi: https://doi.org/10.1007/978-3-319-78440-3_30
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+This chapter addresses the ability of the criminological approaches that comprise Environmental Criminology to constitute an adequate theoretical framework to analyze and understand the situational aspects of crimes committed through cyberspace and to define the most appropriate prevention strategies. The chapter begins by examining how these approaches have been applied. Subsequently, the reasons why the environmental approach can offer much more in this area if some apparent obstacles are overcome are presented. Finally, a method of applying these midrange theoretical frameworks to different cybercrimes is proposed. Relying on multiple empirical studies, it is stated that the essential premise of the environmental approach is also observed in cybercrime: the existence of situational patterns. These patterns are derived from the different ways in which offenders and targets, in the absence of guardians, converge in cyber places: digital interaction environments that shape the situational opportunities in which people interact. The chapter ends by summarizing the application possibilities of approaches such as the Crime Pattern Theory and Situational Crime Prevention in connection with the Routine Activity Theory and the Rational Choice Theory. It is proposed that many of the geographical applications derived from these approaches and some of their basic theoretical premises need to be adapted while seeking to enhance their strengths and mitigate the effects of their weaknesses.
+
+# Links
+
+-   PDF under embargo until 2020-06-06. Contact me to get a copy!

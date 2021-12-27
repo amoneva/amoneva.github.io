@@ -33,4 +33,5 @@ Text
 
 -   [Read the paper online](URL)
 -   [Download the PDF](file.pdf)
+-   PDF under embargo until 0000-00-00. Contact me to get a copy!
 -   [Access the R code](URL)
