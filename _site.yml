@@ -5,11 +5,14 @@ description: |
   The personal website of Asier Moneva.
 base_url: https://amoneva.github.io/
 google_analytics: "G-HCW67X9W2H"
+favicon: images/logo_b.png
 output_dir: "docs"
 creative_commons: CC BY
 twitter:
   site: "@crimoneva"
 navbar:
+  logo:
+    image: images/logo_w.png
   right:
     - text: "Home"
       href: index.html

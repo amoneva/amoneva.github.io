@@ -201,8 +201,8 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThis chapter addresses the ability of the criminological approaches that comprise Environmental Criminology to constitute an adequate theoretical framework to analyze and understand the situational aspects of crimes committed through cyberspace and to define the most appropriate prevention strategies. The chapter begins by examining how these approaches have been applied. Subsequently, the reasons why the environmental approach can offer much more in this area if some apparent obstacles are overcome are presented. Finally, a method of applying these midrange theoretical frameworks to different cybercrimes is proposed. Relying on multiple empirical studies, it is stated that the essential premise of the environmental approach is also observed in cybercrime: the existence of situational patterns. These patterns are derived from the different ways in which offenders and targets, in the absence of guardians, converge in cyber places: digital interaction environments that shape the situational opportunities in which people interact. The chapter ends by summarizing the application possibilities of approaches such as the Crime Pattern Theory and Situational Crime Prevention in connection with the Routine Activity Theory and the Rational Choice Theory. It is proposed that many of the geographical applications derived from these approaches and some of their basic theoretical premises need to be adapted while seeking to enhance their strengths and mitigate the effects of their weaknesses.\r\nLinks\r\nPDF under embargo until 2020-06-06. Contact me to get a copy!\r\n\r\n\r\n\r\n",
     "preview": "publications/2020-06-06-environmental-criminology-and-cybercrime-shifting/preview.png",
-    "last_modified": "2021-12-27T16:25:36+01:00",
-    "input_file": "mirollinares_2020.knit.md",
+    "last_modified": "2021-12-27T16:25:39+01:00",
+    "input_file": {},
     "preview_width": 1323,
     "preview_height": 526
   },
@@ -355,8 +355,8 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nIn this paper we question Farrell and Birks’ assertion of the emergence of cybercrime as an invalid explanation for the crime drop. Alternatively to the “cybercrime hypothesis”, we propose two non-exclusive hypotheses that highlight the essential role of cyberspace as an environment that has shifted criminal opportunities from physical to virtual space, which reflects on crime trends. The first hypothesis posits that the more time spent at home by many young people due to video games and online leisure activities, among other factors, could have had an impact on the juvenile crime drop. The second hypothesis states that the appearance of cyberspace has led to a shift in opportunities from physical space to cyberspace. This could have led to an increase in property-related criminal activity connected to the Internet to the detriment of physical crime which would not be reflected in the statistics. Both premises are supported by empirical evidence.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": "publications/2019-10-21-what-about-cyberspace-and-cybercrime/preview.png",
-    "last_modified": "2021-12-27T15:26:34+01:00",
-    "input_file": "mirollinares_2019.knit.md",
+    "last_modified": "2021-12-27T15:26:38+01:00",
+    "input_file": {},
     "preview_width": 1078,
     "preview_height": 686
   },
@@ -388,8 +388,8 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nAnonymity is one of the elements traditionally associated with criminal and antisocial behaviour. Anonymity depends on several factors, such as natural surveillance or the visibility created by the physical or digital environment. Certain digital environments, such as social networks, exhibit characteristics that facilitate or limit the degree of anonymity of their users. Social networks are places in cyberspace where people interact with each other and with the environment, where they increasingly carry out their daily activities and where they also commit crimes. This paper attempts to test the hypothesis that certain elements of the social network environment define the anonymity of their users. To this end, an empirical process for quantifying anonymity is proposed, which can be applied transversally to all places in cyberspace that permit user accounts. Subsequently, a data set of 162 users has been obtained from the social network Twitter which also collects the metadata associated to their accounts. To test this hypothesis, a Confirmatory Factor Analysis (CFA) has been conducted to determine whether the data obtained fit the model based on a theoretical concept proposed by the researchers. The results show a moderate fit for the model, suggesting that some metadata (i.e., geopositioning) do not contribute to defining the latent variable anonymity. We suggest the proposed model needs to be reconsidered and applied to a larger sample to improve its fit. Finally, the applicability of the proposed methodology for measuring anonymity and future lines of research are discussed.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": "publications/2019-10-16-can-metadata-be-used-to/preview.png",
-    "last_modified": "2021-12-27T15:40:45+01:00",
-    "input_file": "esteve_2019.knit.md",
+    "last_modified": "2021-12-27T15:40:48+01:00",
+    "input_file": {},
     "preview_width": 1060,
     "preview_height": 188
   },
@@ -421,8 +421,8 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nWith the objective of facilitating and reducing analysis tasks undergone by law enforcement agencies and service providers, and using a sample of digital messages (i.e., tweets) sent via Twitter following the June 2017 London Bridge terror attack (N = 200,880), the present study introduces a new algorithm designed to detect hate speech messages in cyberspace. Unlike traditional designs based on semantic and syntactic approaches, the algorithm hereby implemented feeds solely on metadata, achieving high level of precision. Through the application of the machine learning classification technique Random Forests, our analysis indicates that metadata associated with the interaction and structure of tweets are especially relevant to identify the content they contain. However, metadata of Twitter accounts are less useful in the classification process. Collectively, findings from the current study allow us to demonstrate how digital microenvironment patterns defined by metadata can be used to create a computer algorithm capable of detecting online hate speech. The application of the algorithm and the direction of future research in this area are discussed.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": "publications/2018-11-15-hate-is-in-the-air/preview.png",
-    "last_modified": "2021-12-27T15:47:57+01:00",
-    "input_file": "mirollinares_2018.knit.md",
+    "last_modified": "2021-12-27T15:48:00+01:00",
+    "input_file": {},
     "preview_width": 1194,
     "preview_height": 711
   },
@@ -450,8 +450,8 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThis paper establishes the first Spanish step-by-step guide to carry out a Conjunctive Analysis of Case Configurations. It is defined as an exploratory technique for multivariate analysis of categorical data, which is an alternative to other traditional methods. Through its logical development, we intend to show a systematic method for data preparation that allows a wide range of analysis to be conducted on them, showing both the advantages it offers and its inherent limitations. To clearly illustrate its application process, two databases managed by the University of Michigan Institute for Social Research have been used: The National Incident Based Report System and The Law Enforcement Management and Administrative Statistics. The interpretation of results obtained by this technique allows reaching conclusions that may have important implications for several evidence based decision-making processes.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": "publications/2018-05-28-conjunctive-analysis-of-case-configurations/preview.png",
-    "last_modified": "2021-12-27T16:01:02+01:00",
-    "input_file": "hart_2018.knit.md",
+    "last_modified": "2021-12-27T16:01:05+01:00",
+    "input_file": {},
     "preview_width": 839,
     "preview_height": 673
   }

@@ -2,6 +2,7 @@
 title: "Welcome!"
 image: "images/asier.jpg"
 site: distill::distill_website
+favicon: images/logo_b.png
 links:
   - label: '<i class="far fa-file-alt"></i> Publications'
     url: https://amoneva.github.io/publications.html

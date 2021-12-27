@@ -6,6 +6,11 @@
     <atom:link href="https://amoneva.github.io/publications.xml" rel="self" type="application/rss+xml"/>
     <description>The personal website of Asier Moneva.
 </description>
+    <image>
+      <title>Asier Moneva</title>
+      <url>https://amoneva.github.io/images/logo_b.png</url>
+      <link>https://amoneva.github.io/</link>
+    </image>
     <generator>Distill</generator>
     <lastBuildDate>Wed, 18 Aug 2021 00:00:00 +0000</lastBuildDate>
     <item>
