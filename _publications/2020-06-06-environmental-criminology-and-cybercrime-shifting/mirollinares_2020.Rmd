@@ -1,5 +1,5 @@
 ---
-title: "Environmental Criminology and Cybercrime: Shifting Focus from the Wine to the Bottles"
+title: "Environmental criminology and cybercrime: Shifting focus from the wine to the bottles"
 description: Book chapter
 base_url: https://amoneva.github.io/
 preview: preview.png
