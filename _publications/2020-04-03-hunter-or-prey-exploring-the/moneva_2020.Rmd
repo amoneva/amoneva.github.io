@@ -2,6 +2,7 @@
 title: "Hunter or prey? Exploring the situational profiles that define repeated online harassment victims and offenders"
 description: Journal article
 base_url: https://amoneva.github.io/
+preview: preview.png
 author:
   - name: Asier Moneva
     affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University

@@ -2,6 +2,7 @@
 title: "Cyber places, crime patterns, and cybercrime prevention: An environmental criminology and crime analysis approach through data science"
 description: Doctoral thesis
 base_url: https://amoneva.github.io/
+preview: preview.png
 author:
   - name: Asier Moneva
     affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University

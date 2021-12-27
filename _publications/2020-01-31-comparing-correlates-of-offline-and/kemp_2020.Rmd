@@ -2,6 +2,7 @@
 title: "Comparing correlates of offline and online fraud victimisation and impacts"
 description: Journal article
 base_url: https://amoneva.github.io/
+preview: preview.png
 author:
   - name: Steven Kemp
     affiliation: University of Girona 

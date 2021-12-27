@@ -31,9 +31,11 @@
       "zone-h"
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nRepeat victimization has been widely studied from the perspective of environmental criminology for several decades. During this period, criminologists have identified a set of repeat victimization premises that are observed for many crimes; however, it is unknown whether these premises are also valid for cybercrime. In this study we rely on more than 9 million Zone-H data records from 2010 to 2017 to test whether these premises apply for the cybercrime of website defacement. We show that the phenomenon of repeat victimization is also observed in defaced cyber places (i.e. websites). In particular, we found that repeats contributed little to crime rates, that repeats occurred even several years after the original incident, that they were committed disproportionately by prolific offenders, and that few offenders returned to victimize previous targets. The results suggest that some traditional premises of repeat victimization may also be valid for understanding cybercrime events such as website defacement, implying that environmental criminology theories also constitute a useful framework for cybercrime analysis. The implications of these results in terms of criminological theory, cybercrime prevention, and the limitations derived from the use of Zone-H data are discussed.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nAccess the R code\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-12-25T13:51:01+01:00",
-    "input_file": {}
+    "preview": "publications/2021-08-18-repeat-victimization-by-website-defacement/preview.png",
+    "last_modified": "2021-12-27T13:07:48+01:00",
+    "input_file": {},
+    "preview_width": 1201,
+    "preview_height": 606
   },
   {
     "path": "publications/2021-07-18-empty-streets-busy-internet-a/",
@@ -71,9 +73,11 @@
       "crime statistics"
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThe unprecedented changes in routine activities brought about by COVID-19 and the associated lockdown measures contributed to a reduction in opportunities for predatory crimes in outdoor physical spaces, while people spent more time connected to the internet, and opportunities for cybercrime and fraud increased. This article applies time-series analysis to historical data on cybercrime and fraud reported to Action Fraud in the United Kingdom to examine whether any potential increases are beyond normal crime variability. Furthermore, the discrepancies between fraud types and individual and organizational victims are also analyzed. The results show that while both total cybercrime and total fraud increased beyond predicted levels, the changes in victimization were not homogeneous across fraud types and victims. The implications of these findings on how changes in routine activities during COVID-19 have influenced cybercrime and fraud opportunities are discussed in relation to policy, practice, and academic debate.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nSee the related ShinyApp\r\nAccess the R code for the ShinyApp\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-12-25T20:06:12+01:00",
-    "input_file": {}
+    "preview": "publications/2021-07-18-empty-streets-busy-internet-a/preview.png",
+    "last_modified": "2021-12-27T13:13:34+01:00",
+    "input_file": {},
+    "preview_width": 706,
+    "preview_height": 773
   },
   {
     "path": "publications/2021-06-04-the-annual-conference-on-the/",
@@ -93,9 +97,11 @@
       "network analysis"
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThe Annual Conference on the Human Factor in Cybercrime is a small and specialised scientific event that aims to bring together scholars from around the world to present their research advances to a select audience. Its dynamic and linear format favours group discussions since all contributions are heard by all the attendants. This, together with its tailored social scheme, promotes interaction between members, which—in turn—leads to new collaborations. However, it has not yet been analysed whether the design of the conference actually encourages varied participation and fosters collaborative networks among its participants. The purpose of this chapter is to assess participation in the 2018 and 2019 editions to determine whether this is the case. Using descriptive analyses, here we show how participation in the conference has varied and examine the composition of the collaboration networks among the participants. The results show an increased and more diverse participation in the 2019 meeting along with a greater presence of stakeholders. Furthermore, the findings reveal that members of previously established organisations play an important role in cohering the network. Yet few connections exist between academia and practice. A further analysis of the strengths and weaknesses identified in the two editions of the conference serves to elaborate a series of recommendations for future editions.\r\nLinks\r\nRead the chapter online\r\nDownload the PDF (post-print)\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-12-26T11:15:46+01:00",
-    "input_file": {}
+    "preview": "publications/2021-06-04-the-annual-conference-on-the/preview.png",
+    "last_modified": "2021-12-27T13:19:28+01:00",
+    "input_file": {},
+    "preview_width": 1013,
+    "preview_height": 524
   },
   {
     "path": "publications/2020-08-11-cybercrime-and-shifts-in-opportunities/",
@@ -133,9 +139,11 @@
       "routine activities"
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThe COVID-19 outbreak and the far-reaching lockdown measures are having direct and indirect effects on complex social domains, including opportunities for crime offline and online. This paper presents preliminary analyses about the short-term effect of COVID-19 and lockdown measures on cyber-dependent crime and online fraud in the UK. Time series analyses from data about crimes known to police between May 2019 and May 2020 are used to explore the extent to which cybercrime has been affected by the COVID-19 outbreak. More specifically, we examine whether cybercrime has suffered an increase during the months with the strictest lockdown restrictions, as an effect of the displacement of crime opportunities from physical to online environments. Results indicate that reports of cybercrime have increased during the COVID-19 outbreak, and these were remarkably large during the two months with the strictest lockdown policies and measures. In particular, the number of frauds associated with online shopping and auctions, and the hacking of social media and email, which are the two most common cybercrime categories in the UK, have seen the largest increases in the number of incidents. The increase in cyber-dependent crimes has mainly been experienced by individual victims rather than organisations.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-12-25T13:51:42+01:00",
-    "input_file": {}
+    "preview": "publications/2020-08-11-cybercrime-and-shifts-in-opportunities/preview.png",
+    "last_modified": "2021-12-27T13:21:26+01:00",
+    "input_file": {},
+    "preview_width": 888,
+    "preview_height": 698
   },
   {
     "path": "publications/2020-07-24-cyber-places-crime-patterns-and/",
@@ -158,9 +166,11 @@
       "environmental criminology"
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nFor years, academics have examined the potential usefulness of traditional criminological theories to explain and prevent cybercrime. Some analytical frameworks from Environmental Criminology and Crime Analysis (ECCA), such as the Routine Activities Approach and Situational Crime Prevention, are frequently used in theoretical and empirical research for this purpose. These efforts have led to a better understanding of how crime opportunities are generated in cyberspace, thus contributing to advancing the discipline. However, with a few exceptions, other ECCA analytical frameworks -especially those based on the idea of geographical place- have been largely ignored. The limited attention devoted to ECCA from a global perspective means its true potential to prevent cybercrime has remained unknown to date. In this thesis we aim to overcome this geographical gap in order to show the potential of some of the essential concepts that underpin the ECCA approach, such as places and crime patterns, to analyse and prevent four crimes committed in cyberspace. To this end, this dissertation is structured in two phases: firstly, a proposal for the transposition of ECCA’s fundamental propositions to cyberspace; and secondly, deriving from this approach some hypotheses are contrasted in four empirical studies through Data Science. The first study contrasts a number of premises of repeat victimization in a sample of more than nine million self-reported website defacements. The second examines the precipitators of crime at cyber places where allegedly fixed match results are advertised and the hyperlinked network they form. The third explores the situational contexts where repeated online harassment occurs among a sample of non-university students. And the fourth builds two metadata-driven machine learning models to detect online hate speech in a sample of Twitter messages collected after a terrorist attack. General results show (1) that cybercrimes are not randomly distributed in space, time, or among people; and (2) that the environmental features of the cyber places where they occur determine the emergence of crime opportunities. Overall, we conclude that the ECCA approach and, in particular, its place-based analytical frameworks can also be valid for analysing and preventing crime in cyberspace. We anticipate that this work can guide future research in this area including: the design of secure online environments, the allocation of preventive resources to high-risk cyber places, and the implementation of new evidence-based situational prevention measures.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-12-26T11:31:30+01:00",
-    "input_file": {}
+    "preview": "publications/2020-07-24-cyber-places-crime-patterns-and/preview.png",
+    "last_modified": "2021-12-27T13:23:36+01:00",
+    "input_file": {},
+    "preview_width": 972,
+    "preview_height": 742
   },
   {
     "path": "publications/2020-04-03-hunter-or-prey-exploring-the/",
@@ -189,9 +199,11 @@
       "situational profile"
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nData collected from a sample of Spanish non-university students (N = 4174) were used to identify unique situational profiles of self-identified repeated online harassment victims and offenders, through a Conjunctive Analysis of Case Configurations (CACC). Repeat victim and offender profiles were constructed using individual-level factors and variables related to the cyber “places” where students go online and their personal information they share while there. Clustering analysis demonstrates that students spent their time online in few situational contexts where online harassment occurs. Dominant situational profiles of students are then provided, along with their associated probabilities for experiencing repeat victimization or committing repeat offending, identifying those at relatively higher and lower risk. Results show that composite profiles associated with victims of repeated online harassment are dissimilar to those associated with offenders of repeated online harassment, suggesting that each form of online harassment occurs in different situational contexts and therefore requires different preventative measures. Our findings are discussed in terms of criminological theory, future online harassment research, cybercrime prevention, and policy implications.\r\nLinks\r\nDownload the PDF\r\nAccess the R code\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-12-25T13:56:05+01:00",
-    "input_file": {}
+    "preview": "publications/2020-04-03-hunter-or-prey-exploring-the/preview.png",
+    "last_modified": "2021-12-27T13:25:02+01:00",
+    "input_file": {},
+    "preview_width": 984,
+    "preview_height": 702
   },
   {
     "path": "publications/2020-03-04-the-dark-figure-and-the/",
@@ -221,9 +233,11 @@
       "crime reporting"
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nA reduction in property crime has been a central feature of criminological discussion in the last 25 years, and numerous studies have used police statistics to identify a drop throughout the Western world. However, fraud, which is included in a broad definition of property crime, has typically not been considered in the analysis. This study examines fraud in the Spanish and European context to further understanding of its nature, prevalence, evolution and role in the overall panorama of property crime. Furthermore, the present study explores the extent to which we are experiencing widespread fraud underreporting to police and the implications of this for crime control policy. To this end, the present paper analyses secondary data provided by the Spanish Ministry of Interior, Spanish and European central banking authorities as well as large-scale victimization surveys from a number of European countries. In contrast to other property crimes, the findings indicate that cyber fraud is rising and that reporting is considerably lower. Some of the main reasons for reporting or not reporting fraud victimization are also identified. The dark figure of fraud suggests the design and evaluation of policing and crime prevention policies based solely on police statistics may be inadequate.\r\nLinks\r\nDownload the PDF\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-12-25T19:38:32+01:00",
-    "input_file": {}
+    "preview": "publications/2020-03-04-the-dark-figure-and-the/preview.png",
+    "last_modified": "2021-12-27T13:26:57+01:00",
+    "input_file": {},
+    "preview_width": 1237,
+    "preview_height": 794
   },
   {
     "path": "publications/2020-01-31-comparing-correlates-of-offline-and/",
@@ -248,9 +262,11 @@
       "victimization"
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nFraud is one of the archetypal crimes that founded the ‘old wine in new bottles’ cybercrime debate. However, it also constitutes an issue whose impacts are still often misunderstood or underestimated. In order to add to the debate and highlight the consequences suffered by fraud victims in the digital-era, this study preforms a series of regression models to analyse the differences in determinants of online and offline fraud and the factors associated with increased financial and psychological impacts as well as annoyance. This is carried out using data on fraud victims from 2 editions (2015 and 2017) of the Catalan Public Security Survey (n = 1177). The findings show that online fraud victims are younger and have a higher education level. Regarding impact, few significant determinants of financial losses are found, but annoyance and psychological consequences are higher in offline fraud and can be influenced by variables such as the victim’s sex, financial situation or opinion regarding safety in their local area. Interestingly, despite the consequences being lower, online fraud is more likely to be considered a crime by the victim. Finally, the implications for policy and practice are discussed.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-12-25T20:00:09+01:00",
-    "input_file": {}
+    "preview": "publications/2020-01-31-comparing-correlates-of-offline-and/preview.png",
+    "last_modified": "2021-12-27T13:28:47+01:00",
+    "input_file": {},
+    "preview_width": 1000,
+    "preview_height": 730
   },
   {
     "path": "publications/2019-12-11-100-sure-bets-exploring-the/",
@@ -275,8 +291,10 @@
       "network analysis"
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nIn recent years, many human activities have made cyberspace their preferred environment. This study focuses on the betting environment, specifically on fixed-match informing websites (FMIWs). These sites claim to be capable of selling tips about fixed sports events. They essentially act as vendors of confidential sources, allowing punters to place 100% sure bets. We hypothesize that cyber places for match-fixing tips facilitate deviant behaviors. Through systematic observation, we describe and quantify a set of 15 environmental features they share, which do not always belong to regulated online betting platforms. Findings from 78 FMIWs corroborate our hypothesis, as they support the relevance of Environmental Criminology theories applied to cybercrime. Additional exploration through hyperlink network analysis shows that FMIWs are highly homogeneous and have similar characteristics to the Tor network but differ from other illicit online environments such as sexual child exploitation networks or white supremacist communities. The characteristics of the network suggest that the business is more similar to a fraud scheme than an illicit market. Finally, the practical implications of the results for crime prevention and the directions for future research are outlined.\r\nLinks\r\nDownload the PDF\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-12-26T11:21:06+01:00",
-    "input_file": {}
+    "preview": "publications/2019-12-11-100-sure-bets-exploring-the/preview.png",
+    "last_modified": "2021-12-27T13:30:30+01:00",
+    "input_file": {},
+    "preview_width": 738,
+    "preview_height": 745
   }
 ]

@@ -2,6 +2,7 @@
 title: "Repeat victimization by website defacement: An empirical test of premises from an environmental criminology perspective"
 description: Journal article
 base_url: https://amoneva.github.io/
+preview: preview.png
 author:
   - name: Asier Moneva
     affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences

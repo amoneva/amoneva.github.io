@@ -2,6 +2,7 @@
 title: "100% sure bets? Exploring the precipitation-control strategies of fixed-match informing websites and the environmental features of their networks"
 description: Journal article
 base_url: https://amoneva.github.io/
+preview: preview.png
 author:
   - name: Asier Moneva
     affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University

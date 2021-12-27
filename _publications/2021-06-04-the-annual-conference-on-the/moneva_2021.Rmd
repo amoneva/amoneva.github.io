@@ -2,6 +2,7 @@
 title: "The Annual Conference on the Human Factor in Cybercrime: An analysis of participation in the 2018 and 2019 meetings"
 description: Book chapter
 base_url: https://amoneva.github.io/
+preview: preview.png
 author:
   - name: Asier Moneva
     affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences & Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University

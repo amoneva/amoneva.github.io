@@ -2,6 +2,7 @@
 title: "Cybercrime and shifts in opportunities during COVID-19: A preliminary analysis in the UK"
 description: Journal article
 base_url: https://amoneva.github.io/
+preview: preview.png
 author:
   - name: David Buil-Gil
     affiliation: University of Manchester

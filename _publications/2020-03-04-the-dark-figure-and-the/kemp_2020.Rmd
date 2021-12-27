@@ -2,6 +2,7 @@
 title: "The dark figure and the cyber fraud Rise in Europe: Evidence from Spain"
 description: Journal article
 base_url: https://amoneva.github.io/
+preview: preview.png
 author:
   - name: Steven Kemp
     affiliation: University of Girona 

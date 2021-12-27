@@ -2,6 +2,7 @@
 title: "Empty streets, busy internet: A time-series analysis of cybercrime and fraud trends during COVID-19"
 description: Journal article
 base_url: https://amoneva.github.io/
+preview: preview.png
 author:
   - name: Steven Kemp
     affiliation: University of Girona & Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University & University of Manchester

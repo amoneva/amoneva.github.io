@@ -2,6 +2,7 @@
 title: "Title"
 description: [Journal article | Book chapter]
 base_url: https://amoneva.github.io/
+# preview: preview.png
 author:
   - name: Asier Moneva
     affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
