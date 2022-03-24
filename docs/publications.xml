@@ -11,7 +11,25 @@
       <link>https://amoneva.github.io/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 18 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Alerting consciences to reduce cybercrime: A quasi-experimental design using warning banners</title>
+      <dc:creator>Asier Moneva</dc:creator>
+      <dc:creator>E. Rutger Leukfeldt</dc:creator>
+      <dc:creator>Wouter Klijnsoon</dc:creator>
+      <link>https://amoneva.github.io/publications/2022-03-24-alerting-consciences-to-reduce-cybercrime</link>
+      <description>Journal article</description>
+      <category>cybercrime</category>
+      <category>DDoS</category>
+      <category>situational crime prevention</category>
+      <category>warning banners</category>
+      <category>online ads</category>
+      <category>quasi-experiment</category>
+      <category>factorial design</category>
+      <guid>https://amoneva.github.io/publications/2022-03-24-alerting-consciences-to-reduce-cybercrime</guid>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://amoneva.github.io/publications/2022-03-24-alerting-consciences-to-reduce-cybercrime/preview.png" medium="image" type="image/png" width="1033" height="627"/>
+    </item>
     <item>
       <title>Repeat victimization by website defacement: An empirical test of premises from an environmental criminology perspective</title>
       <dc:creator>Asier Moneva</dc:creator>
@@ -80,22 +98,6 @@
       <guid>https://amoneva.github.io/publications/2020-08-11-cybercrime-and-shifts-in-opportunities</guid>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       <media:content url="https://amoneva.github.io/publications/2020-08-11-cybercrime-and-shifts-in-opportunities/preview.png" medium="image" type="image/png" width="888" height="698"/>
-    </item>
-    <item>
-      <title>Cyber places, crime patterns, and cybercrime prevention: An environmental criminology and crime analysis approach through data science</title>
-      <dc:creator>Asier Moneva</dc:creator>
-      <link>https://amoneva.github.io/publications/2020-07-24-cyber-places-crime-patterns-and</link>
-      <description>Doctoral thesis</description>
-      <category>crime analysis</category>
-      <category>crime patterns</category>
-      <category>crime prevention</category>
-      <category>cyber place</category>
-      <category>cybercrime</category>
-      <category>data science</category>
-      <category>environmental criminology</category>
-      <guid>https://amoneva.github.io/publications/2020-07-24-cyber-places-crime-patterns-and</guid>
-      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
-      <media:content url="https://amoneva.github.io/publications/2020-07-24-cyber-places-crime-patterns-and/preview.png" medium="image" type="image/png" width="972" height="742"/>
     </item>
   </channel>
 </rss>
