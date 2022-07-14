@@ -50,16 +50,17 @@ pre.numberSource code > span > a:first-child::before
   }
 pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
 div.sourceCode
-  {   }
+  { color: #00769e; background-color: #f1f3f5; }
 @media screen {
 pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
+code span { color: #00769e; } /* Normal */
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { } /* Attribute */
+code span.at { color: #657422; } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
-code span.cf { color: #007ba5; } /* ControlFlow */
+code span.cf { color: #00769e; } /* ControlFlow */
 code span.ch { color: #20794d; } /* Char */
 code span.cn { color: #8f5902; } /* Constant */
 code span.co { color: #5e5e5e; } /* Comment */
@@ -73,9 +74,9 @@ code span.fl { color: #ad0000; } /* Float */
 code span.fu { color: #4758ab; } /* Function */
 code span.im { } /* Import */
 code span.in { color: #5e5e5e; } /* Information */
-code span.kw { color: #007ba5; } /* Keyword */
+code span.kw { color: #00769e; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
-code span.ot { color: #007ba5; } /* Other */
+code span.ot { color: #00769e; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
 code span.sc { color: #5e5e5e; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
@@ -124,7 +125,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"character","attributes":{},"value":["mirollinares_2020_files/anchor-4.2.2/anchor.min.js","mirollinares_2020_files/bowser-1.9.3/bowser.min.js","mirollinares_2020_files/distill-2.2.21/template.v2.js","mirollinares_2020_files/header-attrs-2.11/header-attrs.js","mirollinares_2020_files/jquery-3.6.0/jquery-3.6.0.js","mirollinares_2020_files/jquery-3.6.0/jquery-3.6.0.min.js","mirollinares_2020_files/jquery-3.6.0/jquery-3.6.0.min.map","mirollinares_2020_files/popper-2.6.0/popper.min.js","mirollinares_2020_files/tippy-6.2.7/tippy-bundle.umd.min.js","mirollinares_2020_files/tippy-6.2.7/tippy-light-border.css","mirollinares_2020_files/tippy-6.2.7/tippy.css","mirollinares_2020_files/tippy-6.2.7/tippy.umd.min.js","mirollinares_2020_files/webcomponents-2.0.0/webcomponents.js","preview.png"]}
+  {"type":"character","attributes":{},"value":["mirollinares_2020_environmental_criminology_and_cybercrime_shifting.pdf","mirollinares_2020_files/anchor-4.2.2/anchor.min.js","mirollinares_2020_files/bowser-1.9.3/bowser.min.js","mirollinares_2020_files/distill-2.2.21/template.v2.js","mirollinares_2020_files/header-attrs-2.11/header-attrs.js","mirollinares_2020_files/jquery-3.6.0/jquery-3.6.0.js","mirollinares_2020_files/jquery-3.6.0/jquery-3.6.0.min.js","mirollinares_2020_files/jquery-3.6.0/jquery-3.6.0.min.map","mirollinares_2020_files/popper-2.6.0/popper.min.js","mirollinares_2020_files/tippy-6.2.7/tippy-bundle.umd.min.js","mirollinares_2020_files/tippy-6.2.7/tippy-light-border.css","mirollinares_2020_files/tippy-6.2.7/tippy.css","mirollinares_2020_files/tippy-6.2.7/tippy.umd.min.js","mirollinares_2020_files/webcomponents-2.0.0/webcomponents.js","preview.png"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
   <!--/radix_placeholder_navigation_in_header-->
@@ -436,10 +437,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     position: relative;
     margin-bottom: 2.5em;
     margin-top: 1.5em;
-  }
-
-  .figure img {
-    width: 100%;
   }
 
   .figure .caption {
@@ -1271,6 +1268,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
+        if ($(this).children()[0].nodeName == "D-FOOTNOTE") {
+          var fn = $(this).children()[0]
+          $(this).html(fn.shadowRoot.querySelector("sup"))
+          $(this).id = fn.id
+          fn.remove()
+        }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
           return "<p>" + $('#ref-' + ref).html() + "</p>";
@@ -1285,6 +1288,31 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
           placement: 'bottom-start'
         });
       });
+
+      // fix footnotes in tables (#411)
+      // replacing broken distill.pub feature
+      $('table d-footnote').each(function() {
+        // we replace internal showAtNode methode which is triggered when hovering a footnote
+        this.hoverBox.showAtNode = function(node) {
+          // ported from https://github.com/distillpub/template/pull/105/files
+          calcOffset = function(elem) {
+              let x = elem.offsetLeft;
+              let y = elem.offsetTop;
+              // Traverse upwards until an `absolute` element is found or `elem`
+              // becomes null.
+              while (elem = elem.offsetParent && elem.style.position != 'absolute') {
+                  x += elem.offsetLeft;
+                  y += elem.offsetTop;
+              }
+
+              return { left: x, top: y };
+          }
+          // https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop
+          const bbox = node.getBoundingClientRect();
+          const offset = calcOffset(node);
+          this.show([offset.left + bbox.width, offset.top + bbox.height]);
+        }
+      })
 
       // clear polling timer
       clearInterval(tid);
@@ -1384,6 +1412,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     // mark non-body figures created by knitr chunks as 100% width
     $('.layout-chunk').each(function(i, val) {
       var figures = $(this).find('img, .html-widget');
+      // ignore leaflet img layers (#106)
+      figures = figures.filter(':not(img[class*="leaflet"])')
       if ($(this).attr('data-layout') !== "l-body") {
         figures.css('width', '100%');
       } else {
@@ -1406,7 +1436,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     // get rid of index.html references in header
     if (window.location.protocol !== "file:") {
       $('.distill-site-header a[href]').each(function(i,val) {
-        $(this).attr('href', $(this).attr('href').replace("index.html", "./"));
+        $(this).attr('href', $(this).attr('href').replace(/^index[.]html/, "./"));
       });
     }
 
@@ -1445,7 +1475,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </script>
 
   <!--/radix_placeholder_distill-->
-  <script src="mirollinares_2020_files/header-attrs-2.11/header-attrs.js"></script>
+  <script src="mirollinares_2020_files/header-attrs-2.14/header-attrs.js"></script>
   <script src="mirollinares_2020_files/jquery-3.6.0/jquery-3.6.0.min.js"></script>
   <script src="mirollinares_2020_files/popper-2.6.0/popper.min.js"></script>
   <link href="mirollinares_2020_files/tippy-6.2.7/tippy.css" rel="stylesheet" />
@@ -1479,25 +1509,27 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <h1>Environmental criminology and cybercrime: Shifting focus from the wine to the bottles</h1>
 <!--radix_placeholder_categories-->
 <div class="dt-tags">
-<div class="dt=tag">environmental criminology</div>
-<div class="dt=tag">crime science</div>
-<div class="dt=tag">criminological theory</div>
-<div class="dt=tag">prevention</div>
-<div class="dt=tag">opportunity</div>
-<div class="dt=tag">geographical gap</div>
-<div class="dt=tag">cyber place</div>
-<div class="dt=tag">crime event</div>
-<div class="dt=tag">cybercrime</div>
-<div class="dt=tag">crime patterns</div>
+<div class="dt-tag">environmental criminology</div>
+<div class="dt-tag">crime science</div>
+<div class="dt-tag">criminological theory</div>
+<div class="dt-tag">prevention</div>
+<div class="dt-tag">opportunity</div>
+<div class="dt-tag">geographical gap</div>
+<div class="dt-tag">cyber place</div>
+<div class="dt-tag">crime event</div>
+<div class="dt-tag">cybercrime</div>
+<div class="dt-tag">crime patterns</div>
 </div>
 <!--/radix_placeholder_categories-->
 <p>Book chapter</p>
 </div>
 
 <div class="d-byline">
-  Fernando Miró-Llinares  (Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University)
+  Fernando Miró-Llinares  (Crimina Center for the Study and Prevention
+of Crime at Miguel Hernandez University)
   
-,   Asier Moneva  (Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University)
+,   Asier Moneva  (Crimina Center for the Study and Prevention of Crime
+at Miguel Hernandez University)
   
 <br/>2020-06-06
 </div>
@@ -1513,12 +1545,36 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </nav>
 </div>
 <h1 id="abstract">Abstract</h1>
-<p>This chapter addresses the ability of the criminological approaches that comprise Environmental Criminology to constitute an adequate theoretical framework to analyze and understand the situational aspects of crimes committed through cyberspace and to define the most appropriate prevention strategies. The chapter begins by examining how these approaches have been applied. Subsequently, the reasons why the environmental approach can offer much more in this area if some apparent obstacles are overcome are presented. Finally, a method of applying these midrange theoretical frameworks to different cybercrimes is proposed. Relying on multiple empirical studies, it is stated that the essential premise of the environmental approach is also observed in cybercrime: the existence of situational patterns. These patterns are derived from the different ways in which offenders and targets, in the absence of guardians, converge in cyber places: digital interaction environments that shape the situational opportunities in which people interact. The chapter ends by summarizing the application possibilities of approaches such as the Crime Pattern Theory and Situational Crime Prevention in connection with the Routine Activity Theory and the Rational Choice Theory. It is proposed that many of the geographical applications derived from these approaches and some of their basic theoretical premises need to be adapted while seeking to enhance their strengths and mitigate the effects of their weaknesses.</p>
+<p>This chapter addresses the ability of the criminological approaches
+that comprise Environmental Criminology to constitute an adequate
+theoretical framework to analyze and understand the situational aspects
+of crimes committed through cyberspace and to define the most
+appropriate prevention strategies. The chapter begins by examining how
+these approaches have been applied. Subsequently, the reasons why the
+environmental approach can offer much more in this area if some apparent
+obstacles are overcome are presented. Finally, a method of applying
+these midrange theoretical frameworks to different cybercrimes is
+proposed. Relying on multiple empirical studies, it is stated that the
+essential premise of the environmental approach is also observed in
+cybercrime: the existence of situational patterns. These patterns are
+derived from the different ways in which offenders and targets, in the
+absence of guardians, converge in cyber places: digital interaction
+environments that shape the situational opportunities in which people
+interact. The chapter ends by summarizing the application possibilities
+of approaches such as the Crime Pattern Theory and Situational Crime
+Prevention in connection with the Routine Activity Theory and the
+Rational Choice Theory. It is proposed that many of the geographical
+applications derived from these approaches and some of their basic
+theoretical premises need to be adapted while seeking to enhance their
+strengths and mitigate the effects of their weaknesses.</p>
 <h1 id="links">Links</h1>
 <ul>
-<li>PDF under embargo until 2020-06-06. Contact me to get a copy!</li>
+<li><a
+href="mirollinares_2020_environmental_criminology_and_cybercrime_shifting.pdf">Download
+the PDF</a></li>
 </ul>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
