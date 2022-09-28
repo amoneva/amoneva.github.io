@@ -6,21 +6,21 @@
       "description": "Or... \"Who is this guy anyway?\"",
       "author": [],
       "contents": "\r\nHi! My name is Asier Moneva and I am a postdoc at the Netherlands Institute for the Study of Crime and\r\nLaw Enforcement (NSCR) and also at the Center\r\nof Expertise Cyber Security at The Hague University of Applied\r\nSciences. (Yes, I have two affiliations.) Asier is a Spanish\r\nname—Basque, actually—that sounds like ah-see-AIR, with a hard\r\n‘R’ at the end. But don’t worry, I won’t be mad if you don’t pronounce\r\nit right… the first time!\r\nMy background is in Criminology, which means I am a social scientist.\r\nIn particular, I research how, when, and\r\nwhere cybercrime occur, focusing on the human factors\r\ninvolved. To do so, I rely mainly on quantitative methods and data\r\nscience, and I enjoy collaborating with researchers from other\r\ndisciplines as well as with practitioners and professionals. The purpose\r\nof my research is twofold: to generate knowledge to better understand\r\ncybercrime, and to find solutions to reduce it or mitigate its\r\nimpact.\r\nI am committed to open science; that’s why I built this website: to\r\nprovide a portal to access my research without barriers.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-09-28T11:52:11+02:00"
+      "last_modified": "2022-09-28T11:57:10+02:00"
     },
     {
       "path": "index.html",
       "title": "Welcome!",
       "author": [],
       "contents": "\r\n\r\n          \r\n          \r\n          \r\n          \r\n          Asier Moneva\r\n          \r\n          \r\n          Home\r\n          Publications\r\n          About\r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Welcome!\r\n          \r\n          \r\n            \r\n              Looking for my publications in open access?\r\n              You’re in the right place.\r\n            \r\n            \r\n              Looking for my publications in open access?\r\n              You’re in the right place.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                       Publications\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                       About me\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                       CV\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                     Publications\r\n                  \r\n                \r\n                                \r\n                  \r\n                     About me\r\n                  \r\n                \r\n                                \r\n                  \r\n                     CV\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    \r\n          © Asier Moneva 2022\r\n          Made with the Distill R package in RStudio and hosted with GitHub pages.\r\n          \r\n          \r\n\r\n    \r\n  ",
-      "last_modified": "2022-09-28T11:52:11+02:00"
+      "last_modified": "2022-09-28T11:57:11+02:00"
     },
     {
       "path": "publications.html",
       "title": "Publications",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-14T13:58:21+02:00"
+      "last_modified": "2022-09-28T11:57:15+02:00"
     }
   ],
   "collections": ["publications/publications.json"]
