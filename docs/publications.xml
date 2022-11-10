@@ -11,7 +11,25 @@
       <link>https://amoneva.github.io/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Understanding cybercrime involvement: a quasi-experiment on engagement with money mule recruitment ads on Instagram</title>
+      <dc:creator>Luuk M. J. Bekkers</dc:creator>
+      <dc:creator>Asier Moneva</dc:creator>
+      <dc:creator>E. Rutger Leukfeldt</dc:creator>
+      <link>https://amoneva.github.io/publications/2022-11-04-understanding-cybercrime-involvement-a-quasiexperiment</link>
+      <description>Journal article</description>
+      <category>online ads</category>
+      <category>Instagram</category>
+      <category>cybercrime</category>
+      <category>involvement mechanisms</category>
+      <category>money mules</category>
+      <category>online recruitment</category>
+      <category>situational crime prevention</category>
+      <guid>https://amoneva.github.io/publications/2022-11-04-understanding-cybercrime-involvement-a-quasiexperiment</guid>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://amoneva.github.io/publications/2022-11-04-understanding-cybercrime-involvement-a-quasiexperiment/preview.png" medium="image" type="image/png" width="854" height="500"/>
+    </item>
     <item>
       <title>Alerting consciences to reduce cybercrime: A quasi-experimental design using warning banners</title>
       <dc:creator>Asier Moneva</dc:creator>
@@ -79,25 +97,6 @@
       <guid>https://amoneva.github.io/publications/2021-06-04-the-annual-conference-on-the</guid>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       <media:content url="https://amoneva.github.io/publications/2021-06-04-the-annual-conference-on-the/preview.png" medium="image" type="image/png" width="1013" height="524"/>
-    </item>
-    <item>
-      <title>Cybercrime and shifts in opportunities during COVID-19: A preliminary analysis in the UK</title>
-      <dc:creator>David Buil-Gil</dc:creator>
-      <dc:creator>Fernando Miró-Llinares</dc:creator>
-      <dc:creator>Asier Moneva</dc:creator>
-      <dc:creator>Steven Kemp</dc:creator>
-      <dc:creator>Nacho Díaz-Castaño</dc:creator>
-      <link>https://amoneva.github.io/publications/2020-08-11-cybercrime-and-shifts-in-opportunities</link>
-      <description>Journal article</description>
-      <category>crime trends</category>
-      <category>internet</category>
-      <category>cyber security</category>
-      <category>fraud</category>
-      <category>police statistics</category>
-      <category>routine activities</category>
-      <guid>https://amoneva.github.io/publications/2020-08-11-cybercrime-and-shifts-in-opportunities</guid>
-      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      <media:content url="https://amoneva.github.io/publications/2020-08-11-cybercrime-and-shifts-in-opportunities/preview.png" medium="image" type="image/png" width="888" height="698"/>
     </item>
   </channel>
 </rss>

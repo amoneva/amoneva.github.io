@@ -1,0 +1,51 @@
+---
+title: "Understanding cybercrime involvement: a quasi-experiment on engagement with money mule recruitment ads on Instagram"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Luuk M. J. Bekkers
+    affiliation: Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-3447-5245
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: E. Rutger Leukfeldt
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-3051-0859
+# Publication date (online first)
+date: 2022-11-04
+categories:
+  - online ads
+  - Instagram
+  - cybercrime
+  - involvement mechanisms
+  - money mules
+  - online recruitment
+  - situational crime prevention
+doi: https://doi.org/10.1007/s11292-022-09537-7
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+Objectives: Examine the level of engagement of young users with money mule recruitment ads on Instagram.
+
+Methods: Three ads reflecting key cybercrime involvement mechanisms and targeting Dutch user clusters were run on two Instagram placements. By means of this quasi-experimental 3 × 2 factorial design, we were able to analyze the reach and views of the ads, click-through rates, gender of the participants, and temporal distributions of user engagement.
+
+Results: Mimicking actual recruitment environments, analysis shows that up to 3% of young users engaged with the ads, especially those promoting a luxury lifestyle and using neutralization techniques. Men were more likely to engage, and click-through rates were higher at night.
+
+Conclusions: Some young Instagram users seem prone to making money through their bank cards and risk becoming involved in cybercrime online. We encourage future research to explore further the use of social media in criminological studies.
+
+# Links
+
+-   [Read the paper online](https://link.springer.com/article/10.1007/s11292-022-09537-7)
+-   [Download the PDF](bekkers_2022_understanding_cybercrime_involvement_a_quasiexperiment.pdf)
