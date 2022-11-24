@@ -1,0 +1,42 @@
+---
+title: "Familial concentration of crime in a digital era: Criminal behavior among family members of cyber offenders"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Steve G. A. van de Weijer
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR)
+    orcid_id: https://orcid.org/0000-0001-5914-5966 
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+# Publication date (online first)
+date: 2022-11-24
+categories:
+  - cybercrime
+  - hacker
+  - intergenerational
+  - family
+  - life-course
+doi: https://doi.org/10.1016/j.chbr.2022.100249
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+# Remove to publish
+draft: true
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+A vast and growing body of research has shown that crime tends to run in families. However, previous studies focused only on traditional crimes and research on familial risk factors for cyber offending is very scarce. To address this gap in the literature, the present study examines the criminal behavior of the family members of a sample of cyber offenders prosecuted in the Netherlands. The sample consists of 979 cyber offenders prosecuted for computer trespassing between 2001 and 2018, and two matched groups of 979 traditional offenders and 979 non-offenders. Judicial information and kinship data from Dutch Statistics were used to measure criminal behavior among family members. Both traditional offenders and cyber offenders were found to be more likely to have criminal fathers, mothers, and siblings than non-offenders. Additional analyses, however, showed different patterns between cyber offenders who were only prosecuted for cyber offenses and those who also committed traditional crimes. While the former group of cyber offenders were similar to non-offenders in terms of family offending, the latter group of cyber offenders were more similar to traditional offenders. Overall, these results suggest that the traditional mechanisms of intergenerational transmission of crime can only partially explain cybercrime involvement.
+
+# Links
+
+-   [Read the paper online](https://www.sciencedirect.com/science/article/pii/S2451958822000835)
+-   [Download the PDF](vandeweijer_2022_familial_concentration_of_crime_in.pdf)
