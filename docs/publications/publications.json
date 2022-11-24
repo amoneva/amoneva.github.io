@@ -1,5 +1,34 @@
 [
   {
+    "path": "publications/2022-11-24-familial-concentration-of-crime-in/",
+    "title": "Familial concentration of crime in a digital era: Criminal behavior among family members of cyber offenders",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Steve G. A. van de Weijer",
+        "url": {}
+      },
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      }
+    ],
+    "date": "2022-11-24",
+    "categories": [
+      "cybercrime",
+      "hacker",
+      "intergenerational",
+      "family",
+      "life-course"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nA vast and growing body of research has shown that crime tends to run in families. However, previous studies focused only on traditional crimes and research on familial risk factors for cyber offending is very scarce. To address this gap in the literature, the present study examines the criminal behavior of the family members of a sample of cyber offenders prosecuted in the Netherlands. The sample consists of 979 cyber offenders prosecuted for computer trespassing between 2001 and 2018, and two matched groups of 979 traditional offenders and 979 non-offenders. Judicial information and kinship data from Dutch Statistics were used to measure criminal behavior among family members. Both traditional offenders and cyber offenders were found to be more likely to have criminal fathers, mothers, and siblings than non-offenders. Additional analyses, however, showed different patterns between cyber offenders who were only prosecuted for cyber offenses and those who also committed traditional crimes. While the former group of cyber offenders were similar to non-offenders in terms of family offending, the latter group of cyber offenders were more similar to traditional offenders. Overall, these results suggest that the traditional mechanisms of intergenerational transmission of crime can only partially explain cybercrime involvement.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
+    "preview": "publications/2022-11-24-familial-concentration-of-crime-in/preview.png",
+    "last_modified": "2022-11-24T12:18:11+01:00",
+    "input_file": {},
+    "preview_width": 4000,
+    "preview_height": 2000
+  },
+  {
     "path": "publications/2022-11-04-understanding-cybercrime-involvement-a-quasiexperiment/",
     "title": "Understanding cybercrime involvement: a quasi-experiment on engagement with money mule recruitment ads on Instagram",
     "description": "Journal article",

@@ -24,8 +24,6 @@ output:
   distill::distill_article:
     toc: true
     self_contained: false
-# Remove to publish
-draft: true
 ---
 
 ```{r setup, include = FALSE}
