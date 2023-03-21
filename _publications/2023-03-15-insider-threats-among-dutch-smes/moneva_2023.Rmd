@@ -1,0 +1,42 @@
+---
+title: "Insider threats among Dutch SMEs: Nature and extent of incidents, and cyber security measures"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: E. Rutger Leukfeldt
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-3051-0859
+# Publication date (online first)
+date: 2023-03-15
+categories:
+  - insider threats
+  - insider incidents
+  - insiders
+  - SMEs
+  - organizations
+  - cyber security
+doi: https://doi.org/10.1177/26338076231161842
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+Insider threats represent a latent risk to all organizations, whether they are large companies or SMEs. Insiders, the individuals with privileged access to the assets of organizations, can compromise their proper functioning and cause serious consequences that can be direct—such as financial---or indirect---such as reputational. Insider incidents can have a negative impact on SMEs, as their resources are often limited, making it paramount to implement adequate cyber security measures. Despite its indisputable relevance, the empirical study of insider incidents from a criminological point of view has received little attention. This paper presents the results of an exploratory study that aims to understand the nature and extent of three type of insider incidents---malicious, negligent, and well-meaning---and how they are related to the adoption of cyber security measures. To that end, we administered a questionnaire among a panel of 496 Dutch SME entrepreneurs and managers and analyzed the results quantitatively and qualitatively. The results show that although the prevalence of insider incidents is relatively low among Dutch SMEs, few organizations report a disproportionate number of incidents that often entail serious consequences. A regression model shows that there are cyber security measures related to both higher and lower incident likelihood. The implications of these findings for the cyber security policies of SMEs are discussed.
+
+# Links
+
+-   [Read the paper online](https://journals.sagepub.com/doi/10.1177/26338076231161842)
+-   [Download the PDF](moneva_2023_insider-threats-among-dutch-smes.pdf)
+-   [Access the data and the R code](https://osf.io/dw9xb/)
