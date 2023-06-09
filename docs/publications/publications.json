@@ -1,5 +1,38 @@
 [
   {
+    "path": "publications/2023-03-24-conjunctive-analysis-of-case-configurations/",
+    "title": "Conjunctive Analysis of Case Configurations (CACC)",
+    "description": "Book chapter",
+    "author": [
+      {
+        "name": "Timothy C. Hart",
+        "url": {}
+      },
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      },
+      {
+        "name": "Miriam Esteve",
+        "url": {}
+      }
+    ],
+    "date": "2023-03-24",
+    "categories": [
+      "CACC",
+      "conjunctive analysis",
+      "crime and place",
+      "R",
+      "situational profile"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThis chapter introduces Conjunctive Analysis of Case Configurations (CACC) for the study of crime and place. After introducing CACC as an alternative approach to variable-oriented thinking, we present its conceptual underpinnings and limitations. We then provide a step-by-step tutorial on how to conduct a CACC, accompanied by an example using public data and R code. The chapter contains many references to other publications that developed the CACC method and applied it to different crime contexts.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nAccess the R code\r\nDownload the cacc R package from CRAN\r\n\r\n\r\n\r\n",
+    "preview": "publications/2023-03-24-conjunctive-analysis-of-case-configurations/preview.png",
+    "last_modified": "2023-06-09T09:45:23+02:00",
+    "input_file": {},
+    "preview_width": 684,
+    "preview_height": 420
+  },
+  {
     "path": "publications/2023-03-15-insider-threats-among-dutch-smes/",
     "title": "Insider threats among Dutch SMEs: Nature and extent of incidents, and cyber security measures",
     "description": "Journal article",

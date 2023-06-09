@@ -1,0 +1,44 @@
+---
+title: "Conjunctive Analysis of Case Configurations (CACC)"
+description: Book chapter
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Timothy C. Hart
+    affiliation: University of Tampa
+    orcid_id: https://orcid.org/0000-0003-3274-3661
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: Miriam Esteve
+    affiliation: Center of Operations Research at Miguel Hernández University
+# Publication date (online first)
+date: 2023-03-24
+categories:
+  - CACC
+  - conjunctive analysis
+  - crime and place
+  - R
+  - situational profile
+doi: https://doi.org/10.31219/osf.io/59xcy
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+This chapter introduces Conjunctive Analysis of Case Configurations (CACC) for the study of crime and place. After introducing CACC as an alternative approach to variable-oriented thinking, we present its conceptual underpinnings and limitations. We then provide a step-by-step tutorial on how to conduct a CACC, accompanied by an example using public data and R code. The chapter contains many references to other publications that developed the CACC method and applied it to different crime contexts.
+
+# Links
+
+-   [Read the paper online](https://osf.io/59xcy)
+-   [Download the PDF](hart_2023_conjunctive-analysis-of-case-configurations.pdf)
+-   [Access the R code](https://github.com/MiriamEsteve/CACC/blob/master/CACC_GitHub_v2.R)
+-   [Download the `cacc` R package from CRAN](https://cran.r-project.org/web/packages/cacc/index.html)
