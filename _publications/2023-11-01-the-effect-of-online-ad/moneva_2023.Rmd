@@ -1,0 +1,43 @@
+---
+title: "The effect of online ad campaigns on DDoS-attacks: A cross-national difference-in-differences quasi-experiment"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: E. Rutger Leukfeldt
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences & Institute of Security and Global Affairs and Institute of Criminal Law and Criminology at Leiden University
+    orcid_id: https://orcid.org/0000-0002-3051-0859
+# Publication date (online first)
+date: 2023-11-01
+categories:
+  - cybercrime
+  - DDoS
+  - difference-in-differences
+  - online ads
+  - quasi-experiment
+doi: https://doi.org/10.1111/1745-9133.12649
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+Research Summary: European law enforcement agencies have begun to use targeted online ad campaigns to raise cybercrime awareness among at-risk populations. Despite their rapid proliferation, there is little research to support their efficacy and effectiveness. This study uses a quasi-experimental difference-in-differences design to evaluate the effect of seven campaigns deployed in 2021 and 2022 on the volume of (distributed) denial-of-service or (D)DoS-attacks recorded in six European countries: Denmark, Finland, the Netherlands, Norway, Sweden, and Portugal. The results show mixed effects, suggesting that the campaigns are not clearly effective in reducing DDoS-attacks in the short term.
+
+Policy Implications: Law enforcement has partly justified the use of targeted online ad campaigns on the premise that they reduce DDoS-attacks. However, this study shows that the evidence in this regard is inconclusive. If public support for the use of such campaigns is to be secured in the long term, law enforcement will likely need to rely on stronger arguments. The effect of this type of campaigns needs to be further investigated.
+
+# Links
+
+-   [Read the paper online](https://onlinelibrary.wiley.com/doi/10.1111/1745-9133.12649)
+-   [Download the PDF](moneva_2023_the-effect-of-online-ad.pdf)
+-   [Access the R code](https://osf.io/xcwm7/)

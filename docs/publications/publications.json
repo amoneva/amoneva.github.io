@@ -1,5 +1,34 @@
 [
   {
+    "path": "publications/2023-11-01-the-effect-of-online-ad/",
+    "title": "The effect of online ad campaigns on DDoS-attacks: A cross-national difference-in-differences quasi-experiment",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      },
+      {
+        "name": "E. Rutger Leukfeldt",
+        "url": {}
+      }
+    ],
+    "date": "2023-11-01",
+    "categories": [
+      "cybercrime",
+      "DDoS",
+      "difference-in-differences",
+      "online ads",
+      "quasi-experiment"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nResearch Summary: European law enforcement agencies have begun to use targeted online ad campaigns to raise cybercrime awareness among at-risk populations. Despite their rapid proliferation, there is little research to support their efficacy and effectiveness. This study uses a quasi-experimental difference-in-differences design to evaluate the effect of seven campaigns deployed in 2021 and 2022 on the volume of (distributed) denial-of-service or (D)DoS-attacks recorded in six European countries: Denmark, Finland, the Netherlands, Norway, Sweden, and Portugal. The results show mixed effects, suggesting that the campaigns are not clearly effective in reducing DDoS-attacks in the short term.\r\nPolicy Implications: Law enforcement has partly justified the use of targeted online ad campaigns on the premise that they reduce DDoS-attacks. However, this study shows that the evidence in this regard is inconclusive. If public support for the use of such campaigns is to be secured in the long term, law enforcement will likely need to rely on stronger arguments. The effect of this type of campaigns needs to be further investigated.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nAccess the R code\r\n\r\n\r\n\r\n",
+    "preview": "publications/2023-11-01-the-effect-of-online-ad/preview.png",
+    "last_modified": "2023-11-05T09:50:07+01:00",
+    "input_file": {},
+    "preview_width": 1189,
+    "preview_height": 753
+  },
+  {
     "path": "publications/2023-03-24-conjunctive-analysis-of-case-configurations/",
     "title": "Conjunctive Analysis of Case Configurations (CACC)",
     "description": "Book chapter",
