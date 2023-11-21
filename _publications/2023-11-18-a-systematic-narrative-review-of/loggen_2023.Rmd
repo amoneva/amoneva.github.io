@@ -1,0 +1,45 @@
+---
+title: "A systematic narrative review of pathways into, desistance from, and risk factors of financial-economic cyber-enabled crime"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Joeri Loggen
+    affiliation: Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0001-9038-8931
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: E. Rutger Leukfeldt
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences & Institute of Security and Global Affairs and Institute of Criminal Law and Criminology at Leiden University
+    orcid_id: https://orcid.org/0000-0002-3051-0859
+# Publication date (online first)
+date: 2023-11-18
+categories:
+  - systematic review
+  - PRISMA
+  - pathways
+  - desistance
+  - risk factor
+  - cybercrime
+doi: https://doi.org/10.1016/j.clsr.2023.105858
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+Financial-economic cyber-enabled crime (hereinafter: financial cybercrime) has increased dramatically over the past years. However, research on financial cybercrime is still underdeveloped and highly heterogeneous, especially regarding the processes of initiation to and desistance from crime. This paper synthesizes existing knowledge on pathways into, desistance from, and risk factors related to financial cybercrime, and identifies research gaps. Adhering to PRISMA-ScR guidelines, we executed a systematic search and identified 37 eligible documents published as of February 2022, indicating two initiation points into financial cybercrime: involvement in traditional crime, and experiencing strain. Through social learning, individuals then learn the necessary skills and knowledge and engage in financial cybercrime, after which the decision to desist is influenced by a cost-benefit analysis, the use of neutralization techniques, and maturing. As for risk factors, we identified 33, with being male, unemployed, having low self-control and deviant peers, and wanting to earn money quickly being of potential importance. Regarding research gaps, there is a dearth of research related to the initiation and desistance processes of financial cybercrime, and the identified studies lacked a robust research designs, with 76 percent being of low or medium quality. More quality research is needed to address these issues.
+
+# Links
+
+-   [Read the paper online](https://www.sciencedirect.com/science/article/abs/pii/S0267364923000687)
+-   [Download the PDF (pre-print)](https://osf.io/ztfdw)
+-   [Download the protocol](https://osf.io/x6msh)

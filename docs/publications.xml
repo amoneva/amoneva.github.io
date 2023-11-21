@@ -11,7 +11,24 @@
       <link>https://amoneva.github.io/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>2023-11-01</lastBuildDate>
+    <lastBuildDate>2023-11-18</lastBuildDate>
+    <item>
+      <title>A systematic narrative review of pathways into, desistance from, and risk factors of financial-economic cyber-enabled crime</title>
+      <dc:creator>Joeri Loggen</dc:creator>
+      <dc:creator>Asier Moneva</dc:creator>
+      <dc:creator>E. Rutger Leukfeldt</dc:creator>
+      <link>https://amoneva.github.io/publications/2023-11-18-a-systematic-narrative-review-of</link>
+      <description>Journal article</description>
+      <category>systematic review</category>
+      <category>PRISMA</category>
+      <category>pathways</category>
+      <category>desistance</category>
+      <category>risk factor</category>
+      <category>cybercrime</category>
+      <guid>https://amoneva.github.io/publications/2023-11-18-a-systematic-narrative-review-of</guid>
+      <pubDate>2023-11-18</pubDate>
+      <media:content url="https://amoneva.github.io/publications/2023-11-18-a-systematic-narrative-review-of/preview.png" medium="image" type="image/png" width="1210" height="699"/>
+    </item>
     <item>
       <title>The effect of online ad campaigns on DDoS-attacks: A cross-national difference-in-differences quasi-experiment</title>
       <dc:creator>Asier Moneva</dc:creator>
@@ -73,24 +90,6 @@
       <guid>https://amoneva.github.io/publications/2022-11-24-familial-concentration-of-crime-in</guid>
       <pubDate>2022-11-24</pubDate>
       <media:content url="https://amoneva.github.io/publications/2022-11-24-familial-concentration-of-crime-in/preview.png" medium="image" type="image/png" width="4000" height="2000"/>
-    </item>
-    <item>
-      <title>Understanding cybercrime involvement: a quasi-experiment on engagement with money mule recruitment ads on Instagram</title>
-      <dc:creator>Luuk M. J. Bekkers</dc:creator>
-      <dc:creator>Asier Moneva</dc:creator>
-      <dc:creator>E. Rutger Leukfeldt</dc:creator>
-      <link>https://amoneva.github.io/publications/2022-11-04-understanding-cybercrime-involvement-a-quasiexperiment</link>
-      <description>Journal article</description>
-      <category>online ads</category>
-      <category>Instagram</category>
-      <category>cybercrime</category>
-      <category>involvement mechanisms</category>
-      <category>money mules</category>
-      <category>online recruitment</category>
-      <category>situational crime prevention</category>
-      <guid>https://amoneva.github.io/publications/2022-11-04-understanding-cybercrime-involvement-a-quasiexperiment</guid>
-      <pubDate>2022-11-04</pubDate>
-      <media:content url="https://amoneva.github.io/publications/2022-11-04-understanding-cybercrime-involvement-a-quasiexperiment/preview.png" medium="image" type="image/png" width="854" height="500"/>
     </item>
   </channel>
 </rss>

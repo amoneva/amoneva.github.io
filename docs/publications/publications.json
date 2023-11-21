@@ -1,5 +1,39 @@
 [
   {
+    "path": "publications/2023-11-18-a-systematic-narrative-review-of/",
+    "title": "A systematic narrative review of pathways into, desistance from, and risk factors of financial-economic cyber-enabled crime",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Joeri Loggen",
+        "url": {}
+      },
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      },
+      {
+        "name": "E. Rutger Leukfeldt",
+        "url": {}
+      }
+    ],
+    "date": "2023-11-18",
+    "categories": [
+      "systematic review",
+      "PRISMA",
+      "pathways",
+      "desistance",
+      "risk factor",
+      "cybercrime"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nFinancial-economic cyber-enabled crime (hereinafter: financial cybercrime) has increased dramatically over the past years. However, research on financial cybercrime is still underdeveloped and highly heterogeneous, especially regarding the processes of initiation to and desistance from crime. This paper synthesizes existing knowledge on pathways into, desistance from, and risk factors related to financial cybercrime, and identifies research gaps. Adhering to PRISMA-ScR guidelines, we executed a systematic search and identified 37 eligible documents published as of February 2022, indicating two initiation points into financial cybercrime: involvement in traditional crime, and experiencing strain. Through social learning, individuals then learn the necessary skills and knowledge and engage in financial cybercrime, after which the decision to desist is influenced by a cost-benefit analysis, the use of neutralization techniques, and maturing. As for risk factors, we identified 33, with being male, unemployed, having low self-control and deviant peers, and wanting to earn money quickly being of potential importance. Regarding research gaps, there is a dearth of research related to the initiation and desistance processes of financial cybercrime, and the identified studies lacked a robust research designs, with 76 percent being of low or medium quality. More quality research is needed to address these issues.\r\nLinks\r\nRead the paper online\r\nDownload the PDF (pre-print)\r\nDownload the protocol\r\n\r\n\r\n\r\n",
+    "preview": "publications/2023-11-18-a-systematic-narrative-review-of/preview.png",
+    "last_modified": "2023-11-21T15:11:22+01:00",
+    "input_file": {},
+    "preview_width": 1210,
+    "preview_height": 699
+  },
+  {
     "path": "publications/2023-11-01-the-effect-of-online-ad/",
     "title": "The effect of online ad campaigns on DDoS-attacks: A cross-national difference-in-differences quasi-experiment",
     "description": "Journal article",
