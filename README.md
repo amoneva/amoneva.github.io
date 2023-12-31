@@ -1,5 +1,5 @@
-# Asier Moneva's Personal Website
-Welcome to the repository of my academic website hosted on GitHub Pages. This website serves as a platform to share my publications in *open access*.
+# Welcome to my website!
+This is the repository of my academic website hosted on GitHub Pages. The website serves as a platform to share my publications in *open access*.
 
 ## Structure
 - [Home](#home)
