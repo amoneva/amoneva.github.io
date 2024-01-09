@@ -1,0 +1,45 @@
+---
+title: "Cybercrime during the COVID-19 pandemic: Prevalence, nature and impact of cybercrime for citizens and SME owners in the Netherlands"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Steve G. A. van de Weijer
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR)
+    orcid_id: https://orcid.org/0000-0001-5914-5966
+  - name: E. Rutger Leukfeldt
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences & Institute of Security and Global Affairs and Institute of Criminal Law and Criminology at Leiden University
+    orcid_id: https://orcid.org/0000-0002-3051-0859
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+# Publication date (online first)
+date: 2023-12-27
+categories:
+  - cybercrime
+  - internet
+  - remote work
+  - organizations
+  - victimization
+  - coronavirus
+doi: https://doi.org/10.1016/j.cose.2023.103693
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+The outbreak of the COVID-19 virus in December 2019 and the restrictive measures that were implemented to slow down the spread of the virus have had a significant impact on our way of life. The sudden shift from offline to online activities and work may have resulted in new cybersecurity risks. The present study therefore examined changes in the prevalence, nature and impact of cybercrime among Dutch citizens and SME owners, during the pandemic. Qualitative interviews with ten experts working at various public and private organizations in the Netherlands that have insights into cybercrime victimization and data from victim surveys administrated in 2019 and 2021 were analyzed. The results show that there was only a small, non-statistically significant increase in the prevalence of cybercrime during the pandemic among citizens and SME owners. Nevertheless, the COVID-19 pandemic did have an impact on the modus operandi of cybercriminals: victims indicated that a considerable proportion of the offenses was related to the COVID-19 pandemic, particularly in the case of online fraud. Moreover, the use of new applications and programs for work was associated with an increased risk of cybercrime victimization during the COVID-19 crisis. These results suggest that increases in rates of registered cybercrime that were found in previous studies might be the consequence of a reporting effect and that cybercriminals adapt their modus operandi to current societal developments.
+
+# Links
+
+-   [Read the paper online](https://www.sciencedirect.com/science/article/pii/S016740482300603X)
+-   [Download the PDF](vandeweijer_2023_cybercrime-during-the-covid-19.pdf)
+<!-- -   [Access the R code](URL) -->

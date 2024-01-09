@@ -1,5 +1,39 @@
 [
   {
+    "path": "publications/2023-12-27-cybercrime-during-the-covid-19/",
+    "title": "Cybercrime during the COVID-19 pandemic: Prevalence, nature and impact of cybercrime for citizens and SME owners in the Netherlands",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Steve G. A. van de Weijer",
+        "url": {}
+      },
+      {
+        "name": "E. Rutger Leukfeldt",
+        "url": {}
+      },
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      }
+    ],
+    "date": "2023-12-27",
+    "categories": [
+      "cybercrime",
+      "internet",
+      "remote work",
+      "organizations",
+      "victimization",
+      "coronavirus"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThe outbreak of the COVID-19 virus in December 2019 and the restrictive measures that were implemented to slow down the spread of the virus have had a significant impact on our way of life. The sudden shift from offline to online activities and work may have resulted in new cybersecurity risks. The present study therefore examined changes in the prevalence, nature and impact of cybercrime among Dutch citizens and SME owners, during the pandemic. Qualitative interviews with ten experts working at various public and private organizations in the Netherlands that have insights into cybercrime victimization and data from victim surveys administrated in 2019 and 2021 were analyzed. The results show that there was only a small, non-statistically significant increase in the prevalence of cybercrime during the pandemic among citizens and SME owners. Nevertheless, the COVID-19 pandemic did have an impact on the modus operandi of cybercriminals: victims indicated that a considerable proportion of the offenses was related to the COVID-19 pandemic, particularly in the case of online fraud. Moreover, the use of new applications and programs for work was associated with an increased risk of cybercrime victimization during the COVID-19 crisis. These results suggest that increases in rates of registered cybercrime that were found in previous studies might be the consequence of a reporting effect and that cybercriminals adapt their modus operandi to current societal developments.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n\r\n",
+    "preview": "publications/2023-12-27-cybercrime-during-the-covid-19/preview.png",
+    "last_modified": "2024-01-09T12:01:57+01:00",
+    "input_file": {},
+    "preview_width": 834,
+    "preview_height": 294
+  },
+  {
     "path": "publications/2023-12-20-fieldwork-experiences-researching-cybercriminals/",
     "title": "Fieldwork Experiences Researching Cybercriminals",
     "description": "Book chapter",

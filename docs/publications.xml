@@ -11,7 +11,24 @@
       <link>https://amoneva.github.io/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Cybercrime during the COVID-19 pandemic: Prevalence, nature and impact of cybercrime for citizens and SME owners in the Netherlands</title>
+      <dc:creator>Steve G. A. van de Weijer</dc:creator>
+      <dc:creator>E. Rutger Leukfeldt</dc:creator>
+      <dc:creator>Asier Moneva</dc:creator>
+      <link>https://amoneva.github.io/publications/2023-12-27-cybercrime-during-the-covid-19</link>
+      <description>Journal article</description>
+      <category>cybercrime</category>
+      <category>internet</category>
+      <category>remote work</category>
+      <category>organizations</category>
+      <category>victimization</category>
+      <category>coronavirus</category>
+      <guid>https://amoneva.github.io/publications/2023-12-27-cybercrime-during-the-covid-19</guid>
+      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+      <media:content url="https://amoneva.github.io/publications/2023-12-27-cybercrime-during-the-covid-19/preview.png" medium="image" type="image/png" width="834" height="294"/>
+    </item>
     <item>
       <title>Fieldwork Experiences Researching Cybercriminals</title>
       <dc:creator>Asier Moneva</dc:creator>
@@ -75,22 +92,6 @@
       <guid>https://amoneva.github.io/publications/2023-03-24-conjunctive-analysis-of-case-configurations</guid>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
       <media:content url="https://amoneva.github.io/publications/2023-03-24-conjunctive-analysis-of-case-configurations/preview.png" medium="image" type="image/png" width="684" height="420"/>
-    </item>
-    <item>
-      <title>Insider threats among Dutch SMEs: Nature and extent of incidents, and cyber security measures</title>
-      <dc:creator>Asier Moneva</dc:creator>
-      <dc:creator>E. Rutger Leukfeldt</dc:creator>
-      <link>https://amoneva.github.io/publications/2023-03-15-insider-threats-among-dutch-smes</link>
-      <description>Journal article</description>
-      <category>insider threats</category>
-      <category>insider incidents</category>
-      <category>insiders</category>
-      <category>SMEs</category>
-      <category>organizations</category>
-      <category>cyber security</category>
-      <guid>https://amoneva.github.io/publications/2023-03-15-insider-threats-among-dutch-smes</guid>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <media:content url="https://amoneva.github.io/publications/2023-03-15-insider-threats-among-dutch-smes/preview.png" medium="image" type="image/png" width="554" height="413"/>
     </item>
   </channel>
 </rss>
