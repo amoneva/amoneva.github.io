@@ -1,0 +1,43 @@
+---
+title: "Fieldwork Experiences Researching Cybercriminals"
+description: Book chapter
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: E. Rutger Leukfeldt
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences & Institute of Security and Global Affairs and Institute of Criminal Law and Criminology at Leiden University
+    orcid_id: https://orcid.org/0000-0002-3051-0859
+  - name: Marco Romagna
+    affiliation: Centre of Expertise Cyber Security at The Hague University of Applied Sciences & Institute of Security and Global Affairs at Leiden University
+    orcid_id: https://orcid.org/0000-0001-5634-7693
+# Publication date (online first)
+date: 2023-12-20
+categories:
+  - offenders
+  - cybercriminals
+  - hackers
+  - hacktivists
+  - fieldwork
+doi: https://doi.org/10.1007/978-3-031-41574-6_27
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+Cybercriminals are an elusive population to study. This makes social research with cybercriminals as valuable as it is scarce. To stimulate research on cybercriminals, it is important that researchers share their insights on successful and unsuccessful approaches, strategies, and techniques. This chapter collects our fieldwork experiences researching cybercriminals, potential cybercriminals, hackers, and hacktivists. After presenting the phases of our fieldwork, we outline six research techniques we have applied and discuss the ethical issues involved. We conclude with some lessons learned and methodological perspectives to guide future research.
+
+# Links
+
+-   [Read the paper online](https://link.springer.com/chapter/10.1007/978-3-031-41574-6_27)
+-   [Download the PDF](moneva_2023_fieldwork-experiences-researching-cybercriminals.pdf)

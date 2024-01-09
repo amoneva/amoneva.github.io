@@ -1,5 +1,38 @@
 [
   {
+    "path": "publications/2023-12-20-fieldwork-experiences-researching-cybercriminals/",
+    "title": "Fieldwork Experiences Researching Cybercriminals",
+    "description": "Book chapter",
+    "author": [
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      },
+      {
+        "name": "E. Rutger Leukfeldt",
+        "url": {}
+      },
+      {
+        "name": "Marco Romagna",
+        "url": {}
+      }
+    ],
+    "date": "2023-12-20",
+    "categories": [
+      "offenders",
+      "cybercriminals",
+      "hackers",
+      "hacktivists",
+      "fieldwork"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nCybercriminals are an elusive population to study. This makes social research with cybercriminals as valuable as it is scarce. To stimulate research on cybercriminals, it is important that researchers share their insights on successful and unsuccessful approaches, strategies, and techniques. This chapter collects our fieldwork experiences researching cybercriminals, potential cybercriminals, hackers, and hacktivists. After presenting the phases of our fieldwork, we outline six research techniques we have applied and discuss the ethical issues involved. We conclude with some lessons learned and methodological perspectives to guide future research.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
+    "preview": "publications/2023-12-20-fieldwork-experiences-researching-cybercriminals/preview.png",
+    "last_modified": "2024-01-09T11:40:08+01:00",
+    "input_file": {},
+    "preview_width": 960,
+    "preview_height": 678
+  },
+  {
     "path": "publications/2023-11-18-a-systematic-narrative-review-of/",
     "title": "A systematic narrative review of pathways into, desistance from, and risk factors of financial-economic cyber-enabled crime",
     "description": "Journal article",

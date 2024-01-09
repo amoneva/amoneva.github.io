@@ -11,7 +11,23 @@
       <link>https://amoneva.github.io/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>2023-11-18</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Fieldwork Experiences Researching Cybercriminals</title>
+      <dc:creator>Asier Moneva</dc:creator>
+      <dc:creator>E. Rutger Leukfeldt</dc:creator>
+      <dc:creator>Marco Romagna</dc:creator>
+      <link>https://amoneva.github.io/publications/2023-12-20-fieldwork-experiences-researching-cybercriminals</link>
+      <description>Book chapter</description>
+      <category>offenders</category>
+      <category>cybercriminals</category>
+      <category>hackers</category>
+      <category>hacktivists</category>
+      <category>fieldwork</category>
+      <guid>https://amoneva.github.io/publications/2023-12-20-fieldwork-experiences-researching-cybercriminals</guid>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <media:content url="https://amoneva.github.io/publications/2023-12-20-fieldwork-experiences-researching-cybercriminals/preview.png" medium="image" type="image/png" width="960" height="678"/>
+    </item>
     <item>
       <title>A systematic narrative review of pathways into, desistance from, and risk factors of financial-economic cyber-enabled crime</title>
       <dc:creator>Joeri Loggen</dc:creator>
@@ -26,7 +42,7 @@
       <category>risk factor</category>
       <category>cybercrime</category>
       <guid>https://amoneva.github.io/publications/2023-11-18-a-systematic-narrative-review-of</guid>
-      <pubDate>2023-11-18</pubDate>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
       <media:content url="https://amoneva.github.io/publications/2023-11-18-a-systematic-narrative-review-of/preview.png" medium="image" type="image/png" width="1210" height="699"/>
     </item>
     <item>
@@ -41,7 +57,7 @@
       <category>online ads</category>
       <category>quasi-experiment</category>
       <guid>https://amoneva.github.io/publications/2023-11-01-the-effect-of-online-ad</guid>
-      <pubDate>2023-11-01</pubDate>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       <media:content url="https://amoneva.github.io/publications/2023-11-01-the-effect-of-online-ad/preview.png" medium="image" type="image/png" width="1189" height="753"/>
     </item>
     <item>
@@ -57,7 +73,7 @@
       <category>R</category>
       <category>situational profile</category>
       <guid>https://amoneva.github.io/publications/2023-03-24-conjunctive-analysis-of-case-configurations</guid>
-      <pubDate>2023-03-24</pubDate>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
       <media:content url="https://amoneva.github.io/publications/2023-03-24-conjunctive-analysis-of-case-configurations/preview.png" medium="image" type="image/png" width="684" height="420"/>
     </item>
     <item>
@@ -73,23 +89,8 @@
       <category>organizations</category>
       <category>cyber security</category>
       <guid>https://amoneva.github.io/publications/2023-03-15-insider-threats-among-dutch-smes</guid>
-      <pubDate>2023-03-15</pubDate>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       <media:content url="https://amoneva.github.io/publications/2023-03-15-insider-threats-among-dutch-smes/preview.png" medium="image" type="image/png" width="554" height="413"/>
-    </item>
-    <item>
-      <title>Familial concentration of crime in a digital era: Criminal behavior among family members of cyber offenders</title>
-      <dc:creator>Steve G. A. van de Weijer</dc:creator>
-      <dc:creator>Asier Moneva</dc:creator>
-      <link>https://amoneva.github.io/publications/2022-11-24-familial-concentration-of-crime-in</link>
-      <description>Journal article</description>
-      <category>cybercrime</category>
-      <category>hacker</category>
-      <category>intergenerational</category>
-      <category>family</category>
-      <category>life-course</category>
-      <guid>https://amoneva.github.io/publications/2022-11-24-familial-concentration-of-crime-in</guid>
-      <pubDate>2022-11-24</pubDate>
-      <media:content url="https://amoneva.github.io/publications/2022-11-24-familial-concentration-of-crime-in/preview.png" medium="image" type="image/png" width="4000" height="2000"/>
     </item>
   </channel>
 </rss>
