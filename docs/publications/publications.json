@@ -1,5 +1,38 @@
 [
   {
+    "path": "publications/2024-03-01-criminal-expertise-and-hacking-efficiency/",
+    "title": "Criminal expertise and hacking efficiency",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      },
+      {
+        "name": "Stijn Ruiter",
+        "url": {}
+      },
+      {
+        "name": "Daniël Meinsma",
+        "url": {}
+      }
+    ],
+    "date": "2024-03-01",
+    "categories": [
+      "criminal decision-making",
+      "cyber kill chain",
+      "expertise paradigm",
+      "hacking",
+      "sequence analysis"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nCriminal expertise plays a crucial role in the choices offenders make when committing a crime, including their modus operandi. However, our knowledge about criminal decision making online remains limited. Drawing on insights from cyber security, we conceptualize the cybercrime commission process as the sequence of phases of the cyber kill chain that offenders go through. We assume that offenders who follow the sequence consecutively use the most efficient hacking method. Building upon the expertise paradigm, we hypothesize that participants with greater hacking experience and IT skills undertake more efficient hacks. To test this hypothesis, we analyzed data from 69 computer security and software engineering students who were invited to hack a vulnerable website in a computer lab equipped with monitoring software, which allowed to collect objective behavioral measures. Additionally, we collected individual measures regarding hacking expertise through an online questionnaire. After quantitatively measuring efficiency using sequence analysis, a regression model showed that the expertise paradigm may also apply to hackers. We discuss the implications of our novel research for the study of offender decision-making processes more broadly.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nAccess the Data\r\nAccess the R code\r\nCheck the pre-registration\r\nAccess the supplementary materials\r\n\r\n\r\n\r\n",
+    "preview": "publications/2024-03-01-criminal-expertise-and-hacking-efficiency/preview.png",
+    "last_modified": "2024-03-01T09:50:29+01:00",
+    "input_file": {},
+    "preview_width": 988,
+    "preview_height": 484
+  },
+  {
     "path": "publications/2023-12-27-cybercrime-during-the-covid-19/",
     "title": "Cybercrime during the COVID-19 pandemic: Prevalence, nature and impact of cybercrime for citizens and SME owners in the Netherlands",
     "description": "Journal article",

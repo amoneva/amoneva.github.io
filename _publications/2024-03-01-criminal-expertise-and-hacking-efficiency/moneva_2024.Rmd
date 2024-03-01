@@ -1,0 +1,48 @@
+---
+title: "Criminal expertise and hacking efficiency"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: Stijn Ruiter
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Department of Sociology, Utrecht University
+    orcid_id: https://orcid.org/0000-0003-2872-2710
+  - name: Daniël Meinsma
+    affiliation: Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+# Publication date (online first)
+date: 2024-03-01
+categories:
+  - criminal decision-making
+  - cyber kill chain
+  - expertise paradigm
+  - hacking
+  - sequence analysis
+doi: https://doi.org/10.1016/j.chb.2024.108180
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+# Remove to publish
+# draft: true
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+Criminal expertise plays a crucial role in the choices offenders make when committing a crime, including their modus operandi. However, our knowledge about criminal decision making online remains limited. Drawing on insights from cyber security, we conceptualize the cybercrime commission process as the sequence of phases of the cyber kill chain that offenders go through. We assume that offenders who follow the sequence consecutively use the most efficient hacking method. Building upon the expertise paradigm, we hypothesize that participants with greater hacking experience and IT skills undertake more efficient hacks. To test this hypothesis, we analyzed data from 69 computer security and software engineering students who were invited to hack a vulnerable website in a computer lab equipped with monitoring software, which allowed to collect objective behavioral measures. Additionally, we collected individual measures regarding hacking expertise through an online questionnaire. After quantitatively measuring efficiency using sequence analysis, a regression model showed that the expertise paradigm may also apply to hackers. We discuss the implications of our novel research for the study of offender decision-making processes more broadly.
+
+# Links
+
+-   [Read the paper online](https://www.sciencedirect.com/science/article/pii/S0747563224000487)
+-   [Download the PDF](moneva_2024_criminal-expertise-and-hacking-efficiency.pdf)
+-   [Access the Data](https://osf.io/v5kse/)
+-   [Access the R code](https://github.com/amoneva/criminal-expertise-and-hacking-efficiency)
+-   [Check the pre-registration](https://osf.io/ufdp8)
+-   [Access the supplementary materials](https://osf.io/tr6vy/)
