@@ -19,12 +19,11 @@ author:
     affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
 date: 2021-07-18
 categories:
+  - environmental criminology
   - crime trends
-  - coronavirus
-  - ARIMA
-  - cyber security
-  - victimization
-  - crime statistics
+  - general cybercrime
+  - fraud
+  - quantitative methods
 doi: https://doi.org/10.1177/10439862211027986
 citation: false
 output:

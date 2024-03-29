@@ -16,13 +16,11 @@ author:
 # Publication date (online first)
 date: 2022-03-24
 categories:
-  - cybercrime
-  - DDoS
-  - situational crime prevention
-  - warning banners
-  - online ads
-  - quasi-experiment
-  - factorial design
+  - environmental criminology
+  - individual offenders
+  - cyber-dependent crime
+  - DDoS-attacks
+  - quantitative methods
 doi: https://doi.org/10.1007/s11292-022-09504-2
 citation: false
 output:

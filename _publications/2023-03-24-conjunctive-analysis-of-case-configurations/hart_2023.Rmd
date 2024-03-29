@@ -15,11 +15,11 @@ author:
 # Publication date (online first)
 date: 2023-03-24
 categories:
-  - CACC
-  - conjunctive analysis
-  - crime and place
-  - R
-  - situational profile
+  - environmental criminology
+  - crime contexts
+  - traditional crime
+  # - 
+  - mixed methods
 doi: https://doi.org/10.31219/osf.io/59xcy
 citation: false
 output:

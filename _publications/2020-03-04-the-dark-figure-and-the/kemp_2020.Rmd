@@ -14,12 +14,11 @@ author:
     orcid_id: https://orcid.org/0000-0002-2156-0213
 date: 2020-03-04
 categories:
-  - dark figure
-  - cyber fraud
+  # - 
   - crime trends
-  - crime drop
-  - evidence-based prevention
-  - crime reporting
+  - cyber-enabled crime
+  - fraud
+  - quantitative methods
 doi: https://doi.org/10.1007/s10610-020-09439-2
 citation: false
 output:

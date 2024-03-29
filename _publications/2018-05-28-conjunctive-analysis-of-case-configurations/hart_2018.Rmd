@@ -12,11 +12,11 @@ author:
     orcid_id: https://orcid.org/0000-0002-2156-0213
 date: 2018-05-28
 categories:
-  - CACC
-  - exploratory data analysis
-  - multivariate analysis
-  - conjunctive analysis
-  - situational profile
+  # - 
+  - crime contexts
+  - traditional crime
+  - assault
+  - mixed methods
 doi: https://doi.org/10.46381/reic.v16i0.148
 citation: false
 output:

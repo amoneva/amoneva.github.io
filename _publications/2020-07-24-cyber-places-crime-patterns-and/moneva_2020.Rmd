@@ -9,13 +9,11 @@ author:
     orcid_id: https://orcid.org/0000-0002-2156-0213
 date: 2020-07-24
 categories:
-  - crime analysis
-  - crime patterns
-  - crime prevention
-  - cyber place
-  - cybercrime
-  - data science
   - environmental criminology
+  - crime contexts
+  - general cybercrime
+  # - 
+  - quantitative methods
 doi: http://dspace.umh.es/handle/11000/25539
 citation: false
 output:

@@ -19,12 +19,11 @@ author:
     affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
 date: 2020-08-11
 categories:
+  - environmental criminology
   - crime trends
-  - internet
-  - cyber security
-  - fraud
-  - police statistics
-  - routine activities
+  - general cybercrime
+  # - 
+  - quantitative methods
 doi: https://doi.org/10.1080/14616696.2020.1804973
 citation: false
 output:

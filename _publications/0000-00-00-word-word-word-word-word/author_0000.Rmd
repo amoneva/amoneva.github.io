@@ -10,7 +10,27 @@ author:
 # Publication date (online first)
 date: 0000-00-00
 categories:
-  - keyword
+  # Paradigm
+  ## Biological Criminology: Genetic Theories of Crime, Neurobiological Theories
+  ## Classical Criminology: Rational Choice Theory, Deterrence Theory
+  ## Critical Criminology: Marxist Criminology, Feminist Criminology
+  ## Cultural Criminology: Subcultural Theories, Media and Crime Theory
+  ## Developmental Criminology: Life-Course Theory
+  ## Environmental Criminology: Routine Activity Theory, Crime Pattern Theory
+  ## Integrated Criminology: Social Control Theory, General Strain Theory
+  ## Positivist Criminology: Biological Determinism
+  ## Psychological Criminology: Psychodynamic Theories, Learning Theories, Criminal Expertise Paradigm
+  ## Sociological Criminology: Social Disorganization Theory, Anomie/Strain Theory, Social Learning Theories
+  ## Behavioral Economics: Nudge Theory
+  - [classical criminology | developmental criminology | environmental criminology | sociological criminology | cultural criminology | behavioral economics]
+  # Main focus
+  - [indidivual offenders | criminal networks | general offenders | individual victims | organizations | general victims | individual offenders and victims | crime contexts | crime trends]
+  # Type of crime
+  - [general cybercrime | cyber-enabled crime | cyber-dependent crime | traditional crime]
+  # Main cybercrime type
+  - [hacking | hacktivism | DDoS-attacks | malware | ransomware | phishing | data theft | harassment | hate speech | fraud | money muling | insider threats]
+  # Main methodology
+  - [quantitative methods | qualitative methods | mixed methods | theoretical]
 doi: https://doi.org/*
 citation: false
 output:

@@ -12,15 +12,10 @@ author:
 date: 2020-06-06
 categories:
   - environmental criminology
-  - crime science
-  - criminological theory
-  - prevention
-  - opportunity
-  - geographical gap
-  - cyber place
-  - crime event
-  - cybercrime
-  - crime patterns
+  - crime contexts
+  - general cybercrime
+  # - 
+  - theoretical
 doi: https://doi.org/10.1007/978-3-319-78440-3_30
 citation: false
 output:

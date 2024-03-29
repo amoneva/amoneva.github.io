@@ -15,11 +15,11 @@ author:
 # Publication date (online first)
 date: 2024-03-01
 categories:
-  - criminal decision-making
-  - cyber kill chain
-  - expertise paradigm
+  - psychological criminology
+  - individual offenders
+  - cyber-dependent crime
   - hacking
-  - sequence analysis
+  - quantitative methods
 doi: https://doi.org/10.1016/j.chb.2024.108180
 citation: false
 output:

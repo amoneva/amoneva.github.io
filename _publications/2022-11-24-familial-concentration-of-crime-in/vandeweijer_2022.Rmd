@@ -13,11 +13,11 @@ author:
 # Publication date (online first)
 date: 2022-11-24
 categories:
-  - cybercrime
-  - hacker
-  - intergenerational
-  - family
-  - life-course
+  - biological criminology
+  - individual offenders
+  - general cybercrime
+  # - 
+  - quantitative methods
 doi: https://doi.org/10.1016/j.chbr.2022.100249
 citation: false
 output:

@@ -12,11 +12,11 @@ author:
     orcid_id: https://orcid.org/0000-0002-2156-0213
 date: 2020-01-31
 categories:
-  - Catalan Public Security Survey
+  # - 
+  - individual victims
+  - cyber-enabled crime
   - fraud
-  - cyber fraud
-  - quantitative methodology
-  - victimization
+  - quantitative methods
 citation: false
 output:
   distill::distill_article:

@@ -16,12 +16,11 @@ author:
 # Publication date (online first)
 date: 2023-11-18
 categories:
-  - systematic review
-  - PRISMA
-  - pathways
-  - desistance
-  - risk factor
-  - cybercrime
+  # - 
+  - individual offenders
+  - cyber-enabled crime
+  - fraud
+  - qualitative methods
 doi: https://doi.org/10.1016/j.clsr.2023.105858
 citation: false
 output:

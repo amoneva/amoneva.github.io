@@ -12,11 +12,11 @@ author:
     orcid_id: https://orcid.org/0000-0003-3924-4937
 date: 2019-12-11
 categories:
-  - match-fixing
-  - sport betting
-  - cyber place
-  - situational precipitators of crime
-  - network analysis
+  - environmental criminology
+  - crime contexts
+  - cyber-enabled crime
+  - fraud
+  - mixed methods
 doi: https://doi.org/10.1007/s10611-019-09871-4
 citation: false
 output:

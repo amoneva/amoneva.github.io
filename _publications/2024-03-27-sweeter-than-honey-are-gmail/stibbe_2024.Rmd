@@ -19,14 +19,11 @@ author:
 # Publication date (online first)
 date: 2024-03-27
 categories:
-  - account hijacking
-  - criminal decision-making  
-  - cybercriminals
+  - classical criminology
+  - individual offenders  
+  - cyber-enabled crime
   - data theft
-  - hacker forums
-  - honeypots
-  - rational choice
-  - target selection
+  - quantitative methods
 doi: https://doi.org/10.1016/j.chbr.2024.100410
 citation: false
 output:

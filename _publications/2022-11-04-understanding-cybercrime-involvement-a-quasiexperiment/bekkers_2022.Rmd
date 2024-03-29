@@ -16,13 +16,11 @@ author:
 # Publication date (online first)
 date: 2022-11-04
 categories:
-  - online ads
-  - Instagram
-  - cybercrime
-  - involvement mechanisms
-  - money mules
-  - online recruitment
-  - situational crime prevention
+  - cultural criminology
+  - criminal networks
+  - cyber-enabled crime
+  - money muling
+  - quantitative methods
 doi: https://doi.org/10.1007/s11292-022-09537-7
 citation: false
 output:

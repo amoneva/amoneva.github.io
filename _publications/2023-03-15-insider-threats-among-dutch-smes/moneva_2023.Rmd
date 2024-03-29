@@ -13,12 +13,11 @@ author:
 # Publication date (online first)
 date: 2023-03-15
 categories:
-  - insider threats
-  - insider incidents
-  - insiders
-  - SMEs
+  # - 
   - organizations
-  - cyber security
+  - general cybercrime
+  - insider threats
+  - mixed methods
 doi: https://doi.org/10.1177/26338076231161842
 citation: false
 output:

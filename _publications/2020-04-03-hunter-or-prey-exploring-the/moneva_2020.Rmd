@@ -14,11 +14,11 @@ author:
     orcid_id: https://orcid.org/0000-0003-3274-3661
 date: 2020-04-03
 categories:
-  - online harassment
-  - cyber place
-  - CACC
-  - conjunctive analysis
-  - situational profile
+  - environmental criminology
+  - individual offenders and victims
+  - cyber-enabled crime
+  - harassment
+  - mixed methods
 doi: https://doi.org/10.1080/01639625.2020.1746135
 citation: false
 output:

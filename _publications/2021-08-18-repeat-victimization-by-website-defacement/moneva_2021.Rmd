@@ -17,12 +17,11 @@ author:
     affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
 date: 2021-08-18
 categories:
-  - cybercrime
   - environmental criminology
+  - crime contexts
+  - cyber-dependent crime
   - hacking
-  - repeat victimization
-  - website defacement
-  - zone-h
+  - quantitative methods
 doi: https://doi.org/10.1016/j.chb.2021.106984
 citation: false
 output:

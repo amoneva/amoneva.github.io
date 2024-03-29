@@ -13,11 +13,11 @@ author:
     affiliation: Center of Operations Research at Miguel Hernández University
 date: 2018-11-15
 categories:
-  - metadata
-  - cyber place
+  - environmental criminology
+  - crime contexts
+  - cyber-enabled crime
   - hate speech
-  - Twitter
-  - random forest
+  - quantitative methods
 doi: https://doi.org/10.1186/s40163-018-0089-1
 citation: false
 output:

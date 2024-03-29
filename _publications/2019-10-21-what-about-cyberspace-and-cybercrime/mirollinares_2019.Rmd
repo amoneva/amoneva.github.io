@@ -11,11 +11,11 @@ author:
     orcid_id: https://orcid.org/0000-0002-2156-0213
 date: 2019-10-21
 categories:
-  - crime drop
-  - security hypothesis
-  - cybercrime hypothesis
-  - cyberspace
-  - information technology
+  - environmental criminology
+  - crime trends
+  - cyber-enabled crime
+  - fraud
+  - theoretical
 doi: https://doi.org/10.1186/s40163-019-0107-y
 citation: false
 output:

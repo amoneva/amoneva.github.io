@@ -13,11 +13,11 @@ author:
     affiliation: Crimina Center for the Study and Prevention of Crime at Miguel Hernandez University
 date: 2019-10-16
 categories:
-  - anonymity
-  - cyberspace
-  - metadata
-  - Twitter
-  - confirmatory factor analysis
+  - environmental criminology
+  - crime contexts
+  - cyber-enabled crime
+  # - 
+  - quantitative methods
 citation: false
 output:
   distill::distill_article:

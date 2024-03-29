@@ -13,11 +13,11 @@ author:
 # Publication date (online first)
 date: 2023-11-01
 categories:
-  - cybercrime
-  - DDoS
-  - difference-in-differences
-  - online ads
-  - quasi-experiment
+  - behavioral economics
+  - individual offenders
+  - cyber-dependent crime
+  - DDoS-attacks
+  - quantitative methods
 doi: https://doi.org/10.1111/1745-9133.12649
 citation: false
 output:

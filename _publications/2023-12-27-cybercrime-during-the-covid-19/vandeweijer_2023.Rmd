@@ -16,12 +16,11 @@ author:
 # Publication date (online first)
 date: 2023-12-27
 categories:
-  - cybercrime
-  - internet
-  - remote work
-  - organizations
-  - victimization
-  - coronavirus
+  # - 
+  - general victims
+  - general cybercrime
+  # - 
+  - mixed methods
 doi: https://doi.org/10.1016/j.cose.2023.103693
 citation: false
 output:
