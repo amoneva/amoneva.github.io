@@ -1,0 +1,56 @@
+---
+title: "Sweeter than honey: Are Gmail accounts associated with greater rewards at a higher risk of hijacking?"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Danielle Stibbe
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Department of Sociology, Utrecht University
+    orcid_id: https://orcid.org/0000-0002-7834-495X
+  - name: Stijn Ruiter
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Department of Sociology, Utrecht University
+    orcid_id: https://orcid.org/0000-0003-2872-2710
+  - name: Wouter Steenbeek
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR)
+    orcid_id: https://orcid.org/0000-0003-0529-3175  
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+# Publication date (online first)
+date: 2024-03-27
+categories:
+  - account hijacking
+  - criminal decision-making  
+  - cybercriminals
+  - data theft
+  - hacker forums
+  - honeypots
+  - rational choice
+  - target selection
+doi: https://doi.org/10.1016/j.chbr.2024.100410
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+Objectives: This study investigates the effect of advertised rewards in credential leaks on the likelihood and speed of account hijacking.
+
+Methods: In an online field experiment, we created 176 honey Gmail accounts and randomly assigned them to eight different posts containing account credential leaks. We used a 2 × 2 experimental design, manipulating two key variables within the post titles: the number of accounts (5 K or 1.5 M) and the promise of access to additional platforms (absent or present). We then monitored the accounts for any subsequent activity.
+
+Results: Our findings indicate that the promise of access to additional platforms increased the likelihood and speed of an attempted access. Only 12 accounts were fully accessed, however, because most hijackers did not complete the second-factor authentication (2FA) process required for gaining full access. It seems that the 2FA acted as a deterrent to complete Gmail account hijacking.
+
+Conclusions: The study aligns with the rational choice perspective of crime, showing that the prospect of greater rewards leads to more attempted account accesses.
+
+# Links
+
+-   [Read the paper online](https://www.sciencedirect.com/science/article/pii/S2451958824000435)
+-   [Download the PDF](stibbe_2024_sweeter-than-honey-are-gmail.pdf)
+-   [Access the data, R code, and supplementary materials](osf.io/kqtue/)

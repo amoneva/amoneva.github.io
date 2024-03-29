@@ -1,5 +1,45 @@
 [
   {
+    "path": "publications/2024-03-27-sweeter-than-honey-are-gmail/",
+    "title": "Sweeter than honey: Are Gmail accounts associated with greater rewards at a higher risk of hijacking?",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Danielle Stibbe",
+        "url": {}
+      },
+      {
+        "name": "Stijn Ruiter",
+        "url": {}
+      },
+      {
+        "name": "Wouter Steenbeek",
+        "url": {}
+      },
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      }
+    ],
+    "date": "2024-03-27",
+    "categories": [
+      "account hijacking",
+      "criminal decision-making",
+      "cybercriminals",
+      "data theft",
+      "hacker forums",
+      "honeypots",
+      "rational choice",
+      "target selection"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nObjectives: This study investigates the effect of advertised rewards in credential leaks on the likelihood and speed of account hijacking.\r\nMethods: In an online field experiment, we created 176 honey Gmail accounts and randomly assigned them to eight different posts containing account credential leaks. We used a 2 × 2 experimental design, manipulating two key variables within the post titles: the number of accounts (5 K or 1.5 M) and the promise of access to additional platforms (absent or present). We then monitored the accounts for any subsequent activity.\r\nResults: Our findings indicate that the promise of access to additional platforms increased the likelihood and speed of an attempted access. Only 12 accounts were fully accessed, however, because most hijackers did not complete the second-factor authentication (2FA) process required for gaining full access. It seems that the 2FA acted as a deterrent to complete Gmail account hijacking.\r\nConclusions: The study aligns with the rational choice perspective of crime, showing that the prospect of greater rewards leads to more attempted account accesses.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nAccess the data, R code, and supplementary materials\r\n\r\n\r\n\r\n",
+    "preview": "publications/2024-03-27-sweeter-than-honey-are-gmail/preview.png",
+    "last_modified": "2024-03-29T10:08:06+01:00",
+    "input_file": {},
+    "preview_width": 908,
+    "preview_height": 458
+  },
+  {
     "path": "publications/2024-03-01-criminal-expertise-and-hacking-efficiency/",
     "title": "Criminal expertise and hacking efficiency",
     "description": "Journal article",
@@ -27,8 +67,8 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nCriminal expertise plays a crucial role in the choices offenders make when committing a crime, including their modus operandi. However, our knowledge about criminal decision making online remains limited. Drawing on insights from cyber security, we conceptualize the cybercrime commission process as the sequence of phases of the cyber kill chain that offenders go through. We assume that offenders who follow the sequence consecutively use the most efficient hacking method. Building upon the expertise paradigm, we hypothesize that participants with greater hacking experience and IT skills undertake more efficient hacks. To test this hypothesis, we analyzed data from 69 computer security and software engineering students who were invited to hack a vulnerable website in a computer lab equipped with monitoring software, which allowed to collect objective behavioral measures. Additionally, we collected individual measures regarding hacking expertise through an online questionnaire. After quantitatively measuring efficiency using sequence analysis, a regression model showed that the expertise paradigm may also apply to hackers. We discuss the implications of our novel research for the study of offender decision-making processes more broadly.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nAccess the Data\r\nAccess the R code\r\nCheck the pre-registration\r\nAccess the supplementary materials\r\n\r\n\r\n\r\n",
     "preview": "publications/2024-03-01-criminal-expertise-and-hacking-efficiency/preview.png",
-    "last_modified": "2024-03-01T10:39:48+01:00",
-    "input_file": "moneva_2024.knit.md",
+    "last_modified": "2024-03-01T10:39:49+01:00",
+    "input_file": {},
     "preview_width": 988,
     "preview_height": 484
   },
