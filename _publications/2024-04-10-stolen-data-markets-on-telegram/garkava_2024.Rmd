@@ -1,0 +1,60 @@
+---
+title: "Stolen data markets on Telegram: a crime script analysis and situational crime prevention measures"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Taisiia Garkava
+    affiliation: Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-4330-4739
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: E. Rutger Leukfeldt
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences & Institute of Security and Global Affairs and Institute of Criminal Law and Criminology at Leiden University
+    orcid_id: https://orcid.org/0000-0002-3051-0859
+# Publication date (online first)
+date: 2024-04-10
+categories:
+  # Paradigm
+  ## Biological Criminology: Genetic Theories of Crime, Neurobiological Theories
+  ## Classical Criminology: Rational Choice Theory, Deterrence Theory
+  ## Critical Criminology: Marxist Criminology, Feminist Criminology
+  ## Cultural Criminology: Subcultural Theories, Media and Crime Theory
+  ## Developmental Criminology: Life-Course Theory
+  ## Environmental Criminology: Routine Activity Theory, Crime Pattern Theory, Situational Crime Prevention
+  ## Integrated Criminology: Social Control Theory, General Strain Theory
+  ## Positivist Criminology: Biological Determinism
+  ## Psychological Criminology: Psychodynamic Theories, Learning Theories, Criminal Expertise Paradigm
+  ## Sociological Criminology: Social Disorganization Theory, Anomie/Strain Theory, Social Learning Theories
+  ## Behavioral Economics: Nudge Theory
+  - environmental criminology
+  # Main focus
+  - criminal networks
+  # Type of crime
+  - cyber-enabled crime
+  # Main cybercrime type
+  - data theft
+  # Main methodology
+  - qualitative methods
+doi: https://doi.org/10.1007/s12117-024-09532-6
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+Illicit data markets have emerged on Telegram, a popular online instant messaging application, bringing together thousands of users worldwide in an unregulated exchange of sensitive data. These markets operate through vendors who offer enormous quantities of such data, from personally identifiable information to financial data, while potential customers bid for these valuable assets. This study describes how Telegram data markets operate and discusses what interventions could be used to disrupt them. Using crime script analysis, we observed 16 Telegram meeting places encompassing public and private channels and groups. We obtained information about how the different meeting places function, what are their inside rules, and what tactics are employed by users to advertise and trade data. Based on the crime script, we suggest four feasible situational crime prevention measures to help disrupt these markets. These include taking down the marketplaces, reporting them, spamming and flooding techniques, and using warning banners.
+
+# Links
+
+-   [Read the paper online](https://link.springer.com/article/10.1007/s12117-024-09532-6)
+-   [Read the view-only full-text (SharedIt)](https://rdcu.be/dEpi3)
+-   [Download the PDF (postprint)](garkava_2024_stolen-data-markets-on-telegram.pdf)

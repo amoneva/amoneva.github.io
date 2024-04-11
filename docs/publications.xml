@@ -11,7 +11,23 @@
       <link>https://amoneva.github.io/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Stolen data markets on Telegram: a crime script analysis and situational crime prevention measures</title>
+      <dc:creator>Taisiia Garkava</dc:creator>
+      <dc:creator>Asier Moneva</dc:creator>
+      <dc:creator>E. Rutger Leukfeldt</dc:creator>
+      <link>https://amoneva.github.io/publications/2024-04-10-stolen-data-markets-on-telegram</link>
+      <description>Journal article</description>
+      <category>environmental criminology</category>
+      <category>criminal networks</category>
+      <category>cyber-enabled crime</category>
+      <category>data theft</category>
+      <category>qualitative methods</category>
+      <guid>https://amoneva.github.io/publications/2024-04-10-stolen-data-markets-on-telegram</guid>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <media:content url="https://amoneva.github.io/publications/2024-04-10-stolen-data-markets-on-telegram/preview.png" medium="image" type="image/png" width="411" height="463"/>
+    </item>
     <item>
       <title>Sweeter than honey: Are Gmail accounts associated with greater rewards at a higher risk of hijacking?</title>
       <dc:creator>Danielle Stibbe</dc:creator>
@@ -72,21 +88,6 @@
       <guid>https://amoneva.github.io/publications/2023-12-20-fieldwork-experiences-researching-cybercriminals</guid>
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
       <media:content url="https://amoneva.github.io/publications/2023-12-20-fieldwork-experiences-researching-cybercriminals/preview.png" medium="image" type="image/png" width="960" height="678"/>
-    </item>
-    <item>
-      <title>A systematic narrative review of pathways into, desistance from, and risk factors of financial-economic cyber-enabled crime</title>
-      <dc:creator>Joeri Loggen</dc:creator>
-      <dc:creator>Asier Moneva</dc:creator>
-      <dc:creator>E. Rutger Leukfeldt</dc:creator>
-      <link>https://amoneva.github.io/publications/2023-11-18-a-systematic-narrative-review-of</link>
-      <description>Journal article</description>
-      <category>individual offenders</category>
-      <category>cyber-enabled crime</category>
-      <category>fraud</category>
-      <category>qualitative methods</category>
-      <guid>https://amoneva.github.io/publications/2023-11-18-a-systematic-narrative-review-of</guid>
-      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      <media:content url="https://amoneva.github.io/publications/2023-11-18-a-systematic-narrative-review-of/preview.png" medium="image" type="image/png" width="1210" height="699"/>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,38 @@
 [
   {
+    "path": "publications/2024-04-10-stolen-data-markets-on-telegram/",
+    "title": "Stolen data markets on Telegram: a crime script analysis and situational crime prevention measures",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Taisiia Garkava",
+        "url": {}
+      },
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      },
+      {
+        "name": "E. Rutger Leukfeldt",
+        "url": {}
+      }
+    ],
+    "date": "2024-04-10",
+    "categories": [
+      "environmental criminology",
+      "criminal networks",
+      "cyber-enabled crime",
+      "data theft",
+      "qualitative methods"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nIllicit data markets have emerged on Telegram, a popular online instant messaging application, bringing together thousands of users worldwide in an unregulated exchange of sensitive data. These markets operate through vendors who offer enormous quantities of such data, from personally identifiable information to financial data, while potential customers bid for these valuable assets. This study describes how Telegram data markets operate and discusses what interventions could be used to disrupt them. Using crime script analysis, we observed 16 Telegram meeting places encompassing public and private channels and groups. We obtained information about how the different meeting places function, what are their inside rules, and what tactics are employed by users to advertise and trade data. Based on the crime script, we suggest four feasible situational crime prevention measures to help disrupt these markets. These include taking down the marketplaces, reporting them, spamming and flooding techniques, and using warning banners.\r\nLinks\r\nRead the paper online\r\nRead the view-only full-text (SharedIt)\r\nDownload the PDF (postprint)\r\n\r\n\r\n\r\n",
+    "preview": "publications/2024-04-10-stolen-data-markets-on-telegram/preview.png",
+    "last_modified": "2024-04-11T09:51:11+02:00",
+    "input_file": {},
+    "preview_width": 411,
+    "preview_height": 463
+  },
+  {
     "path": "publications/2024-03-27-sweeter-than-honey-are-gmail/",
     "title": "Sweeter than honey: Are Gmail accounts associated with greater rewards at a higher risk of hijacking?",
     "description": "Journal article",

@@ -16,7 +16,7 @@ categories:
   ## Critical Criminology: Marxist Criminology, Feminist Criminology
   ## Cultural Criminology: Subcultural Theories, Media and Crime Theory
   ## Developmental Criminology: Life-Course Theory
-  ## Environmental Criminology: Routine Activity Theory, Crime Pattern Theory
+  ## Environmental Criminology: Routine Activity Theory, Crime Pattern Theory, Situational Crime Prevention
   ## Integrated Criminology: Social Control Theory, General Strain Theory
   ## Positivist Criminology: Biological Determinism
   ## Psychological Criminology: Psychodynamic Theories, Learning Theories, Criminal Expertise Paradigm
