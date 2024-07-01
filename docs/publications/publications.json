@@ -1,5 +1,38 @@
 [
   {
+    "path": "publications/2024-06-28-pathways-into-desistance-from-and/",
+    "title": "Pathways Into, Desistance From, and Risk Factors Related to Cyber-Dependent Crime: A Systematic Narrative Review",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Joeri Loggen",
+        "url": {}
+      },
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      },
+      {
+        "name": "E. Rutger Leukfeldt",
+        "url": {}
+      }
+    ],
+    "date": "2024-06-28",
+    "categories": [
+      "developmental criminology",
+      "individual offenders",
+      "cyber-dependent crime",
+      "hacking",
+      "qualitative methods"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nCyber-dependent crime is a growing global threat. However, research on cybercrime offending throughout the life course, especially on the factors leading to initiation and desistance of cyber-dependent crime remains underdeveloped. This paper synthesizes the literature on pathways into, desistance from, and risk factors related to cyber-dependent crime (hacking, malware, and DDoS attacks), and identifies research gaps. Following PRISMA-ScR guidelines, we conducted a systematic search and identified 86 eligible documents published as of February 2022. Results reveal a pathway into hacking through interest in technology and online videogames, which continues with social learning from peers involved in hacking activities, and thus leads to the world of cybercrime. Desistance from this pathway is influenced by a cost-benefit analysis and maturing. We also identified 27 risk factors for the initiation process in cyber-offending that are consistent in the literature. The most significant ones were being young, male, having low self-control, deviant peers, and frequently using the Internet.\r\nLinks\r\nRead the paper online\r\nDownload the PDF (pre-print)\r\nRead the protocol online\r\n\r\n\r\n\r\n",
+    "preview": "publications/2024-06-28-pathways-into-desistance-from-and/preview.png",
+    "last_modified": "2024-07-01T14:37:22+02:00",
+    "input_file": {},
+    "preview_width": 901,
+    "preview_height": 721
+  },
+  {
     "path": "publications/2024-04-10-stolen-data-markets-on-telegram/",
     "title": "Stolen data markets on Telegram: a crime script analysis and situational crime prevention measures",
     "description": "Journal article",
@@ -184,6 +217,7 @@
     ],
     "date": "2023-11-18",
     "categories": [
+      "developmental criminology",
       "individual offenders",
       "cyber-enabled crime",
       "fraud",
@@ -191,7 +225,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nFinancial-economic cyber-enabled crime (hereinafter: financial cybercrime) has increased dramatically over the past years. However, research on financial cybercrime is still underdeveloped and highly heterogeneous, especially regarding the processes of initiation to and desistance from crime. This paper synthesizes existing knowledge on pathways into, desistance from, and risk factors related to financial cybercrime, and identifies research gaps. Adhering to PRISMA-ScR guidelines, we executed a systematic search and identified 37 eligible documents published as of February 2022, indicating two initiation points into financial cybercrime: involvement in traditional crime, and experiencing strain. Through social learning, individuals then learn the necessary skills and knowledge and engage in financial cybercrime, after which the decision to desist is influenced by a cost-benefit analysis, the use of neutralization techniques, and maturing. As for risk factors, we identified 33, with being male, unemployed, having low self-control and deviant peers, and wanting to earn money quickly being of potential importance. Regarding research gaps, there is a dearth of research related to the initiation and desistance processes of financial cybercrime, and the identified studies lacked a robust research designs, with 76 percent being of low or medium quality. More quality research is needed to address these issues.\r\nLinks\r\nRead the paper online\r\nDownload the PDF (pre-print)\r\nDownload the protocol\r\n\r\n\r\n\r\n",
     "preview": "publications/2023-11-18-a-systematic-narrative-review-of/preview.png",
-    "last_modified": "2024-03-29T13:32:00+01:00",
+    "last_modified": "2024-07-01T14:37:05+02:00",
     "input_file": {},
     "preview_width": 1210,
     "preview_height": 699
