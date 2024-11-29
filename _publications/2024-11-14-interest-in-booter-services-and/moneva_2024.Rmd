@@ -1,0 +1,60 @@
+---
+title: "Interest in booter services and distributed denial of service attacks: Insight from Google search data"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: E. Rutger Leukfeldt
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences & Institute of Security and Global Affairs and Institute of Criminal Law and Criminology at Leiden University
+    orcid_id: https://orcid.org/0000-0002-3051-0859
+# Publication date (online first)
+date: 2024-11-14
+categories:
+  # Paradigm
+  ## Biological Criminology: Genetic Theories of Crime, Neurobiological Theories
+  ## Classical Criminology: Rational Choice Theory, Deterrence Theory
+  ## Critical Criminology: Marxist Criminology, Feminist Criminology
+  ## Cultural Criminology: Subcultural Theories, Media and Crime Theory
+  ## Developmental Criminology: Life-Course Theory
+  ## Environmental Criminology: Routine Activity Theory, Crime Pattern Theory, Situational Crime Prevention
+  ## Integrated Criminology: Social Control Theory, General Strain Theory
+  ## Positivist Criminology: Biological Determinism
+  ## Psychological Criminology: Psychodynamic Theories, Learning Theories, Criminal Expertise Paradigm
+  ## Sociological Criminology: Social Disorganization Theory, Anomie/Strain Theory, Social Learning Theories
+  ## Behavioral Economics: Nudge Theory
+  # - [classical criminology | developmental criminology | environmental criminology | sociological criminology | cultural criminology | behavioral economics]
+  # Main focus
+  - indidivual offenders
+  # Type of crime
+  - cyber-dependent crime
+  # Main cybercrime type
+  - DDoS-attacks
+  # Main methodology
+  - mixed methods
+doi: https://doi.org/10.1177/14773708241275424
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+# Remove to publish
+# draft: true
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+Cybercrime as a service is lowering the barrier to entry for crime. Aspiring criminals can access cybercrime services through the clear web using search engines. One such cybercrime service is booters, web platforms that offer affordable distributed denial of service attacks for hire. Law enforcement agencies have tried to counter this trend by running online ad campaigns on platforms like Google. For these campaigns to effectively divert and deter potential cybercriminals, they must first reach the intended audience. Yet, it remains uncertain whether this is the case. This study assesses Google online search data from two campaigns deployed in the Netherlands in 2021 to determine whether the campaigns actually reached potential cybercriminals. The results indicate that certain online searches likely had criminal intent, implying that the campaigns---to some extent---successfully reached the intended population. Furthermore, the findings reveal that online searches can serve to identify active booters, providing valuable assistance to law enforcement agencies in taking down such services.
+
+# Links
+
+-   [Read the paper online](https://journals.sagepub.com/doi/10.1177/14773708241275424)
+-   [Download the PDF](https://osf.io/preprints/osf/x857s)
+<!-- -   PDF under embargo until 0000-00-00. Contact me to get a copy! -->
+-   [Access the data and R code](https://osf.io/p3yqm/)

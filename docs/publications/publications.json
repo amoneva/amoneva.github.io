@@ -1,5 +1,33 @@
 [
   {
+    "path": "publications/2024-11-14-interest-in-booter-services-and/",
+    "title": "Interest in booter services and distributed denial of service attacks: Insight from Google search data",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      },
+      {
+        "name": "E. Rutger Leukfeldt",
+        "url": {}
+      }
+    ],
+    "date": "2024-11-14",
+    "categories": [
+      "indidivual offenders",
+      "cyber-dependent crime",
+      "DDoS-attacks",
+      "mixed methods"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nCybercrime as a service is lowering the barrier to entry for crime. Aspiring criminals can access cybercrime services through the clear web using search engines. One such cybercrime service is booters, web platforms that offer affordable distributed denial of service attacks for hire. Law enforcement agencies have tried to counter this trend by running online ad campaigns on platforms like Google. For these campaigns to effectively divert and deter potential cybercriminals, they must first reach the intended audience. Yet, it remains uncertain whether this is the case. This study assesses Google online search data from two campaigns deployed in the Netherlands in 2021 to determine whether the campaigns actually reached potential cybercriminals. The results indicate that certain online searches likely had criminal intent, implying that the campaigns—to some extent—successfully reached the intended population. Furthermore, the findings reveal that online searches can serve to identify active booters, providing valuable assistance to law enforcement agencies in taking down such services.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\nAccess the data and R code\r\n\r\n\r\n\r\n",
+    "preview": "publications/2024-11-14-interest-in-booter-services-and/preview.png",
+    "last_modified": "2024-11-29T15:55:17+01:00",
+    "input_file": {},
+    "preview_width": 1086,
+    "preview_height": 519
+  },
+  {
     "path": "publications/2024-06-28-pathways-into-desistance-from-and/",
     "title": "Pathways Into, Desistance From, and Risk Factors Related to Cyber-Dependent Crime: A Systematic Narrative Review",
     "description": "Journal article",
