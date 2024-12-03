@@ -1,5 +1,41 @@
 [
   {
+    "path": "publications/2024-11-14-examining-ransomware-payment-decision-making/",
+    "title": "Examining ransomware payment decision-making among small- and medium-sized enterprises",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Sifra R. Matthijsse",
+        "url": {}
+      },
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      },
+      {
+        "name": "M/ Susanne van 't Hoff-de Goede",
+        "url": {}
+      },
+      {
+        "name": "E. Rutger Leukfeldt",
+        "url": {}
+      }
+    ],
+    "date": "2024-11-14",
+    "categories": [
+      "organizations",
+      "cyber-dependent crime",
+      "ransomware",
+      "quantitative methods"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nRansomware is currently one of the most prominent cyberthreats for organizations. Small- and medium-sized enterprises are particularly vulnerable to ransomware victimization and more inclined toward paying the ransom. However, while a few studies have been conducted on victimization of ransomware, little is known about how small- and medium-sized enterprises respond to victimization and what factors contribute to the decision to pay the ransom. This study uses a survey with a vignette experiment conducted among 445 owners and managers of Dutch small- and medium-sized enterprises to gain more insight into the factors that are related to the decision to pay the ransom in the event of ransomware victimization. Findings show that the likelihood that the ransom is paid is low. While the affordability of the ransom demand seems unrelated to the likelihood of paying, being advised by a cybersecurity company to pay the ransom and not having a back-up significantly increases the likelihood of the ransom being paid. The findings provide insight into factors that make ransomware victims vulnerable to extortion. Furthermore, implications for how ransomware attacks can be mitigated are discussed.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "publications/2024-11-14-examining-ransomware-payment-decision-making/preview.png",
+    "last_modified": "2024-12-03T10:24:38+01:00",
+    "input_file": {},
+    "preview_width": 838,
+    "preview_height": 652
+  },
+  {
     "path": "publications/2024-11-14-interest-in-booter-services-and/",
     "title": "Interest in booter services and distributed denial of service attacks: Insight from Google search data",
     "description": "Journal article",

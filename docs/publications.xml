@@ -13,6 +13,22 @@
     <generator>Distill</generator>
     <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
     <item>
+      <title>Examining ransomware payment decision-making among small- and medium-sized enterprises</title>
+      <dc:creator>Sifra R. Matthijsse</dc:creator>
+      <dc:creator>Asier Moneva</dc:creator>
+      <dc:creator>M/ Susanne van 't Hoff-de Goede</dc:creator>
+      <dc:creator>E. Rutger Leukfeldt</dc:creator>
+      <link>https://amoneva.github.io/publications/2024-11-14-examining-ransomware-payment-decision-making</link>
+      <description>Journal article</description>
+      <category>organizations</category>
+      <category>cyber-dependent crime</category>
+      <category>ransomware</category>
+      <category>quantitative methods</category>
+      <guid>https://amoneva.github.io/publications/2024-11-14-examining-ransomware-payment-decision-making</guid>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <media:content url="https://amoneva.github.io/publications/2024-11-14-examining-ransomware-payment-decision-making/preview.png" medium="image" type="image/png" width="838" height="652"/>
+    </item>
+    <item>
       <title>Interest in booter services and distributed denial of service attacks: Insight from Google search data</title>
       <dc:creator>Asier Moneva</dc:creator>
       <dc:creator>E. Rutger Leukfeldt</dc:creator>
@@ -74,22 +90,6 @@
       <guid>https://amoneva.github.io/publications/2024-03-27-sweeter-than-honey-are-gmail</guid>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
       <media:content url="https://amoneva.github.io/publications/2024-03-27-sweeter-than-honey-are-gmail/preview.png" medium="image" type="image/png" width="908" height="458"/>
-    </item>
-    <item>
-      <title>Criminal expertise and hacking efficiency</title>
-      <dc:creator>Asier Moneva</dc:creator>
-      <dc:creator>Stijn Ruiter</dc:creator>
-      <dc:creator>Daniël Meinsma</dc:creator>
-      <link>https://amoneva.github.io/publications/2024-03-01-criminal-expertise-and-hacking-efficiency</link>
-      <description>Journal article</description>
-      <category>psychological criminology</category>
-      <category>individual offenders</category>
-      <category>cyber-dependent crime</category>
-      <category>hacking</category>
-      <category>quantitative methods</category>
-      <guid>https://amoneva.github.io/publications/2024-03-01-criminal-expertise-and-hacking-efficiency</guid>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <media:content url="https://amoneva.github.io/publications/2024-03-01-criminal-expertise-and-hacking-efficiency/preview.png" medium="image" type="image/png" width="988" height="484"/>
     </item>
   </channel>
 </rss>

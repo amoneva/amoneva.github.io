@@ -1,0 +1,64 @@
+---
+title: "Examining ransomware payment decision-making among small- and medium-sized enterprises"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Sifra R. Matthijsse
+    affiliation: Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-7325-0735
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: M/ Susanne van 't Hoff-de Goede
+    affiliation: Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0003-0758-0143
+  - name: E. Rutger Leukfeldt
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences & Institute of Security and Global Affairs and Institute of Criminal Law and Criminology at Leiden University
+    orcid_id: https://orcid.org/0000-0002-3051-0859
+# Publication date (online first)
+date: 2024-11-14
+categories:
+  # Paradigm
+  ## Biological Criminology: Genetic Theories of Crime, Neurobiological Theories
+  ## Classical Criminology: Rational Choice Theory, Deterrence Theory
+  ## Critical Criminology: Marxist Criminology, Feminist Criminology
+  ## Cultural Criminology: Subcultural Theories, Media and Crime Theory
+  ## Developmental Criminology: Life-Course Theory
+  ## Environmental Criminology: Routine Activity Theory, Crime Pattern Theory, Situational Crime Prevention
+  ## Integrated Criminology: Social Control Theory, General Strain Theory
+  ## Positivist Criminology: Biological Determinism
+  ## Psychological Criminology: Psychodynamic Theories, Learning Theories, Criminal Expertise Paradigm
+  ## Sociological Criminology: Social Disorganization Theory, Anomie/Strain Theory, Social Learning Theories
+  ## Behavioral Economics: Nudge Theory
+  # - [classical criminology | developmental criminology | environmental criminology | sociological criminology | cultural criminology | behavioral economics]
+  # Main focus
+  - organizations
+  # Type of crime
+  - cyber-dependent crime
+  # Main cybercrime type
+  - ransomware
+  # Main methodology
+  - quantitative methods
+doi: https://doi.org/10.1177/14773708241285671
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+Ransomware is currently one of the most prominent cyberthreats for organizations. Small- and medium-sized enterprises are particularly vulnerable to ransomware victimization and more inclined toward paying the ransom. However, while a few studies have been conducted on victimization of ransomware, little is known about how small- and medium-sized enterprises respond to victimization and what factors contribute to the decision to pay the ransom. This study uses a survey with a vignette experiment conducted among 445 owners and managers of Dutch small- and medium-sized enterprises to gain more insight into the factors that are related to the decision to pay the ransom in the event of ransomware victimization. Findings show that the likelihood that the ransom is paid is low. While the affordability of the ransom demand seems unrelated to the likelihood of paying, being advised by a cybersecurity company to pay the ransom and not having a back-up significantly increases the likelihood of the ransom being paid. The findings provide insight into factors that make ransomware victims vulnerable to extortion. Furthermore, implications for how ransomware attacks can be mitigated are discussed.
+
+# Links
+
+-   [Read the paper online](https://journals.sagepub.com/doi/10.1177/14773708241285671)
+-   [Download the PDF](matthijsse_2024_examining-ransomware-payment-decision-making.pdf)
+<!-- -   PDF under embargo until 0000-00-00. Contact me to get a copy! -->
+<!-- -   [Access the R code](URL) -->
