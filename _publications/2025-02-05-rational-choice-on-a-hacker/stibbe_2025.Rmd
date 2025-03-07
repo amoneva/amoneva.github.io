@@ -1,0 +1,65 @@
+---
+title: "Rational choice on a hacker forum: The effect of risk and reward cues on target selection for account hijacking"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Danielle Stibbe
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Department of Sociology, Utrecht University
+    orcid_id: https://orcid.org/0000-0002-7834-495X
+  - name: Stijn Ruiter
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Department of Sociology, Utrecht University
+    orcid_id: https://orcid.org/0000-0003-2872-2710
+  - name: Wouter Steenbeek
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR)
+    orcid_id: https://orcid.org/0000-0003-0529-3175  
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+# Publication date (online first)
+date: 2025-02-05
+categories:
+  # Paradigm
+  ## Biological Criminology: Genetic Theories of Crime, Neurobiological Theories
+  ## Classical Criminology: Rational Choice Theory, Deterrence Theory
+  ## Critical Criminology: Marxist Criminology, Feminist Criminology
+  ## Cultural Criminology: Subcultural Theories, Media and Crime Theory
+  ## Developmental Criminology: Life-Course Theory
+  ## Environmental Criminology: Routine Activity Theory, Crime Pattern Theory, Situational Crime Prevention
+  ## Integrated Criminology: Social Control Theory, General Strain Theory
+  ## Positivist Criminology: Biological Determinism
+  ## Psychological Criminology: Psychodynamic Theories, Learning Theories, Criminal Expertise Paradigm
+  ## Sociological Criminology: Social Disorganization Theory, Anomie/Strain Theory, Social Learning Theories
+  ## Behavioral Economics: Nudge Theory
+  - classical criminology
+  # Main focus
+  - indidivual offenders
+  # Type of crime
+  - cyber-dependent crime
+  # Main cybercrime type
+  - hacking
+  # Main methodology
+  - quantitative methods
+doi: https://doi.org/10.1080/01639625.2025.2459699
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+This online field experiment tested how risk and reward cues in (fake) account credential ads on a hacker forum influence target selection for account hijacking. High-risk posts, warning of account monitoring, received fewer views, while high-reward posts, promising benefits, attracted more. An unexpected law enforcement operation targeting an illicit marketplace created a natural experiment, triggering increased removals of high-risk posts by forum administrators, which slowed over time. These findings suggest hacker forum users respond rationally to risk and reward cues in target selection, and forum administrators adapt their moderation efforts in response to external threats to reduce perceived risk.
+
+# Links
+
+-   [Read the paper online](https://www.tandfonline.com/doi/full/10.1080/01639625.2025.2459699)
+<!-- -   [Download the PDF](file.pdf) -->
+<!-- -   PDF under embargo until 0000-00-00. Contact me to get a copy! -->
+-   [Access the data, R code, and supplementary materials](https://osf.io/yvfq5/)
+-   [Check the pre-registration](https://osf.io/6qbtr)

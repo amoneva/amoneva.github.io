@@ -11,7 +11,24 @@
       <link>https://amoneva.github.io/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Rational choice on a hacker forum: The effect of risk and reward cues on target selection for account hijacking</title>
+      <dc:creator>Danielle Stibbe</dc:creator>
+      <dc:creator>Stijn Ruiter</dc:creator>
+      <dc:creator>Wouter Steenbeek</dc:creator>
+      <dc:creator>Asier Moneva</dc:creator>
+      <link>https://amoneva.github.io/publications/2025-02-05-rational-choice-on-a-hacker</link>
+      <description>Journal article</description>
+      <category>classical criminology</category>
+      <category>indidivual offenders</category>
+      <category>cyber-dependent crime</category>
+      <category>hacking</category>
+      <category>quantitative methods</category>
+      <guid>https://amoneva.github.io/publications/2025-02-05-rational-choice-on-a-hacker</guid>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://amoneva.github.io/publications/2025-02-05-rational-choice-on-a-hacker/preview.png" medium="image" type="image/png" width="898" height="523"/>
+    </item>
     <item>
       <title>Examining ransomware payment decision-making among small- and medium-sized enterprises</title>
       <dc:creator>Sifra R. Matthijsse</dc:creator>
@@ -73,23 +90,6 @@
       <guid>https://amoneva.github.io/publications/2024-04-10-stolen-data-markets-on-telegram</guid>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       <media:content url="https://amoneva.github.io/publications/2024-04-10-stolen-data-markets-on-telegram/preview.png" medium="image" type="image/png" width="411" height="463"/>
-    </item>
-    <item>
-      <title>Sweeter than honey: Are Gmail accounts associated with greater rewards at a higher risk of hijacking?</title>
-      <dc:creator>Danielle Stibbe</dc:creator>
-      <dc:creator>Stijn Ruiter</dc:creator>
-      <dc:creator>Wouter Steenbeek</dc:creator>
-      <dc:creator>Asier Moneva</dc:creator>
-      <link>https://amoneva.github.io/publications/2024-03-27-sweeter-than-honey-are-gmail</link>
-      <description>Journal article</description>
-      <category>classical criminology</category>
-      <category>individual offenders</category>
-      <category>cyber-enabled crime</category>
-      <category>data theft</category>
-      <category>quantitative methods</category>
-      <guid>https://amoneva.github.io/publications/2024-03-27-sweeter-than-honey-are-gmail</guid>
-      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <media:content url="https://amoneva.github.io/publications/2024-03-27-sweeter-than-honey-are-gmail/preview.png" medium="image" type="image/png" width="908" height="458"/>
     </item>
   </channel>
 </rss>

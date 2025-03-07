@@ -1,5 +1,42 @@
 [
   {
+    "path": "publications/2025-02-05-rational-choice-on-a-hacker/",
+    "title": "Rational choice on a hacker forum: The effect of risk and reward cues on target selection for account hijacking",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Danielle Stibbe",
+        "url": {}
+      },
+      {
+        "name": "Stijn Ruiter",
+        "url": {}
+      },
+      {
+        "name": "Wouter Steenbeek",
+        "url": {}
+      },
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      }
+    ],
+    "date": "2025-02-05",
+    "categories": [
+      "classical criminology",
+      "indidivual offenders",
+      "cyber-dependent crime",
+      "hacking",
+      "quantitative methods"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThis online field experiment tested how risk and reward cues in (fake) account credential ads on a hacker forum influence target selection for account hijacking. High-risk posts, warning of account monitoring, received fewer views, while high-reward posts, promising benefits, attracted more. An unexpected law enforcement operation targeting an illicit marketplace created a natural experiment, triggering increased removals of high-risk posts by forum administrators, which slowed over time. These findings suggest hacker forum users respond rationally to risk and reward cues in target selection, and forum administrators adapt their moderation efforts in response to external threats to reduce perceived risk.\r\nLinks\r\nRead the paper online\r\n\r\n\r\nAccess the data, R code, and supplementary materials\r\nCheck the pre-registration\r\n\r\n\r\n\r\n",
+    "preview": "publications/2025-02-05-rational-choice-on-a-hacker/preview.png",
+    "last_modified": "2025-03-07T10:31:41+01:00",
+    "input_file": {},
+    "preview_width": 898,
+    "preview_height": 523
+  },
+  {
     "path": "publications/2024-11-14-examining-ransomware-payment-decision-making/",
     "title": "Examining ransomware payment decision-making among small- and medium-sized enterprises",
     "description": "Journal article",
@@ -30,7 +67,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nRansomware is currently one of the most prominent cyberthreats for organizations. Small- and medium-sized enterprises are particularly vulnerable to ransomware victimization and more inclined toward paying the ransom. However, while a few studies have been conducted on victimization of ransomware, little is known about how small- and medium-sized enterprises respond to victimization and what factors contribute to the decision to pay the ransom. This study uses a survey with a vignette experiment conducted among 445 owners and managers of Dutch small- and medium-sized enterprises to gain more insight into the factors that are related to the decision to pay the ransom in the event of ransomware victimization. Findings show that the likelihood that the ransom is paid is low. While the affordability of the ransom demand seems unrelated to the likelihood of paying, being advised by a cybersecurity company to pay the ransom and not having a back-up significantly increases the likelihood of the ransom being paid. The findings provide insight into factors that make ransomware victims vulnerable to extortion. Furthermore, implications for how ransomware attacks can be mitigated are discussed.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "publications/2024-11-14-examining-ransomware-payment-decision-making/preview.png",
-    "last_modified": "2024-12-03T10:24:38+01:00",
+    "last_modified": "2025-03-07T10:03:21+01:00",
     "input_file": {},
     "preview_width": 838,
     "preview_height": 652
@@ -58,7 +95,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nCybercrime as a service is lowering the barrier to entry for crime. Aspiring criminals can access cybercrime services through the clear web using search engines. One such cybercrime service is booters, web platforms that offer affordable distributed denial of service attacks for hire. Law enforcement agencies have tried to counter this trend by running online ad campaigns on platforms like Google. For these campaigns to effectively divert and deter potential cybercriminals, they must first reach the intended audience. Yet, it remains uncertain whether this is the case. This study assesses Google online search data from two campaigns deployed in the Netherlands in 2021 to determine whether the campaigns actually reached potential cybercriminals. The results indicate that certain online searches likely had criminal intent, implying that the campaigns—to some extent—successfully reached the intended population. Furthermore, the findings reveal that online searches can serve to identify active booters, providing valuable assistance to law enforcement agencies in taking down such services.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\nAccess the data and R code\r\n\r\n\r\n\r\n",
     "preview": "publications/2024-11-14-interest-in-booter-services-and/preview.png",
-    "last_modified": "2024-11-29T15:55:17+01:00",
+    "last_modified": "2025-03-07T10:03:21+01:00",
     "input_file": {},
     "preview_width": 1086,
     "preview_height": 519
@@ -91,7 +128,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nCyber-dependent crime is a growing global threat. However, research on cybercrime offending throughout the life course, especially on the factors leading to initiation and desistance of cyber-dependent crime remains underdeveloped. This paper synthesizes the literature on pathways into, desistance from, and risk factors related to cyber-dependent crime (hacking, malware, and DDoS attacks), and identifies research gaps. Following PRISMA-ScR guidelines, we conducted a systematic search and identified 86 eligible documents published as of February 2022. Results reveal a pathway into hacking through interest in technology and online videogames, which continues with social learning from peers involved in hacking activities, and thus leads to the world of cybercrime. Desistance from this pathway is influenced by a cost-benefit analysis and maturing. We also identified 27 risk factors for the initiation process in cyber-offending that are consistent in the literature. The most significant ones were being young, male, having low self-control, deviant peers, and frequently using the Internet.\r\nLinks\r\nRead the paper online\r\nDownload the PDF (pre-print)\r\nRead the protocol online\r\n\r\n\r\n\r\n",
     "preview": "publications/2024-06-28-pathways-into-desistance-from-and/preview.png",
-    "last_modified": "2024-07-01T14:37:22+02:00",
+    "last_modified": "2025-03-07T10:03:21+01:00",
     "input_file": {},
     "preview_width": 901,
     "preview_height": 721
@@ -124,7 +161,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nIllicit data markets have emerged on Telegram, a popular online instant messaging application, bringing together thousands of users worldwide in an unregulated exchange of sensitive data. These markets operate through vendors who offer enormous quantities of such data, from personally identifiable information to financial data, while potential customers bid for these valuable assets. This study describes how Telegram data markets operate and discusses what interventions could be used to disrupt them. Using crime script analysis, we observed 16 Telegram meeting places encompassing public and private channels and groups. We obtained information about how the different meeting places function, what are their inside rules, and what tactics are employed by users to advertise and trade data. Based on the crime script, we suggest four feasible situational crime prevention measures to help disrupt these markets. These include taking down the marketplaces, reporting them, spamming and flooding techniques, and using warning banners.\r\nLinks\r\nRead the paper online\r\nRead the view-only full-text (SharedIt)\r\nDownload the PDF (postprint)\r\n\r\n\r\n\r\n",
     "preview": "publications/2024-04-10-stolen-data-markets-on-telegram/preview.png",
-    "last_modified": "2024-04-11T09:51:11+02:00",
+    "last_modified": "2025-03-07T10:03:21+01:00",
     "input_file": {},
     "preview_width": 411,
     "preview_height": 463
@@ -161,7 +198,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nObjectives: This study investigates the effect of advertised rewards in credential leaks on the likelihood and speed of account hijacking.\r\nMethods: In an online field experiment, we created 176 honey Gmail accounts and randomly assigned them to eight different posts containing account credential leaks. We used a 2 × 2 experimental design, manipulating two key variables within the post titles: the number of accounts (5 K or 1.5 M) and the promise of access to additional platforms (absent or present). We then monitored the accounts for any subsequent activity.\r\nResults: Our findings indicate that the promise of access to additional platforms increased the likelihood and speed of an attempted access. Only 12 accounts were fully accessed, however, because most hijackers did not complete the second-factor authentication (2FA) process required for gaining full access. It seems that the 2FA acted as a deterrent to complete Gmail account hijacking.\r\nConclusions: The study aligns with the rational choice perspective of crime, showing that the prospect of greater rewards leads to more attempted account accesses.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nAccess the data, R code, and supplementary materials\r\n\r\n\r\n\r\n",
     "preview": "publications/2024-03-27-sweeter-than-honey-are-gmail/preview.png",
-    "last_modified": "2024-03-29T13:47:48+01:00",
+    "last_modified": "2025-03-07T10:03:21+01:00",
     "input_file": {},
     "preview_width": 908,
     "preview_height": 458
@@ -194,7 +231,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nCriminal expertise plays a crucial role in the choices offenders make when committing a crime, including their modus operandi. However, our knowledge about criminal decision making online remains limited. Drawing on insights from cyber security, we conceptualize the cybercrime commission process as the sequence of phases of the cyber kill chain that offenders go through. We assume that offenders who follow the sequence consecutively use the most efficient hacking method. Building upon the expertise paradigm, we hypothesize that participants with greater hacking experience and IT skills undertake more efficient hacks. To test this hypothesis, we analyzed data from 69 computer security and software engineering students who were invited to hack a vulnerable website in a computer lab equipped with monitoring software, which allowed to collect objective behavioral measures. Additionally, we collected individual measures regarding hacking expertise through an online questionnaire. After quantitatively measuring efficiency using sequence analysis, a regression model showed that the expertise paradigm may also apply to hackers. We discuss the implications of our novel research for the study of offender decision-making processes more broadly.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nAccess the Data\r\nAccess the R code\r\nCheck the pre-registration\r\nAccess the supplementary materials\r\n\r\n\r\n\r\n",
     "preview": "publications/2024-03-01-criminal-expertise-and-hacking-efficiency/preview.png",
-    "last_modified": "2024-03-29T13:43:38+01:00",
+    "last_modified": "2025-03-07T10:03:21+01:00",
     "input_file": {},
     "preview_width": 988,
     "preview_height": 484
@@ -225,7 +262,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThe outbreak of the COVID-19 virus in December 2019 and the restrictive measures that were implemented to slow down the spread of the virus have had a significant impact on our way of life. The sudden shift from offline to online activities and work may have resulted in new cybersecurity risks. The present study therefore examined changes in the prevalence, nature and impact of cybercrime among Dutch citizens and SME owners, during the pandemic. Qualitative interviews with ten experts working at various public and private organizations in the Netherlands that have insights into cybercrime victimization and data from victim surveys administrated in 2019 and 2021 were analyzed. The results show that there was only a small, non-statistically significant increase in the prevalence of cybercrime during the pandemic among citizens and SME owners. Nevertheless, the COVID-19 pandemic did have an impact on the modus operandi of cybercriminals: victims indicated that a considerable proportion of the offenses was related to the COVID-19 pandemic, particularly in the case of online fraud. Moreover, the use of new applications and programs for work was associated with an increased risk of cybercrime victimization during the COVID-19 crisis. These results suggest that increases in rates of registered cybercrime that were found in previous studies might be the consequence of a reporting effect and that cybercriminals adapt their modus operandi to current societal developments.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n\r\n",
     "preview": "publications/2023-12-27-cybercrime-during-the-covid-19/preview.png",
-    "last_modified": "2024-03-29T13:38:01+01:00",
+    "last_modified": "2025-03-07T10:03:21+01:00",
     "input_file": {},
     "preview_width": 834,
     "preview_height": 294
@@ -256,7 +293,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nCybercriminals are an elusive population to study. This makes social research with cybercriminals as valuable as it is scarce. To stimulate research on cybercriminals, it is important that researchers share their insights on successful and unsuccessful approaches, strategies, and techniques. This chapter collects our fieldwork experiences researching cybercriminals, potential cybercriminals, hackers, and hacktivists. After presenting the phases of our fieldwork, we outline six research techniques we have applied and discuss the ethical issues involved. We conclude with some lessons learned and methodological perspectives to guide future research.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": "publications/2023-12-20-fieldwork-experiences-researching-cybercriminals/preview.png",
-    "last_modified": "2024-03-29T13:36:24+01:00",
+    "last_modified": "2025-03-07T10:03:21+01:00",
     "input_file": {},
     "preview_width": 960,
     "preview_height": 678
@@ -289,7 +326,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nFinancial-economic cyber-enabled crime (hereinafter: financial cybercrime) has increased dramatically over the past years. However, research on financial cybercrime is still underdeveloped and highly heterogeneous, especially regarding the processes of initiation to and desistance from crime. This paper synthesizes existing knowledge on pathways into, desistance from, and risk factors related to financial cybercrime, and identifies research gaps. Adhering to PRISMA-ScR guidelines, we executed a systematic search and identified 37 eligible documents published as of February 2022, indicating two initiation points into financial cybercrime: involvement in traditional crime, and experiencing strain. Through social learning, individuals then learn the necessary skills and knowledge and engage in financial cybercrime, after which the decision to desist is influenced by a cost-benefit analysis, the use of neutralization techniques, and maturing. As for risk factors, we identified 33, with being male, unemployed, having low self-control and deviant peers, and wanting to earn money quickly being of potential importance. Regarding research gaps, there is a dearth of research related to the initiation and desistance processes of financial cybercrime, and the identified studies lacked a robust research designs, with 76 percent being of low or medium quality. More quality research is needed to address these issues.\r\nLinks\r\nRead the paper online\r\nDownload the PDF (pre-print)\r\nDownload the protocol\r\n\r\n\r\n\r\n",
     "preview": "publications/2023-11-18-a-systematic-narrative-review-of/preview.png",
-    "last_modified": "2024-07-01T14:37:05+02:00",
+    "last_modified": "2025-03-07T10:03:21+01:00",
     "input_file": {},
     "preview_width": 1210,
     "preview_height": 699
@@ -318,7 +355,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nResearch Summary: European law enforcement agencies have begun to use targeted online ad campaigns to raise cybercrime awareness among at-risk populations. Despite their rapid proliferation, there is little research to support their efficacy and effectiveness. This study uses a quasi-experimental difference-in-differences design to evaluate the effect of seven campaigns deployed in 2021 and 2022 on the volume of (distributed) denial-of-service or (D)DoS-attacks recorded in six European countries: Denmark, Finland, the Netherlands, Norway, Sweden, and Portugal. The results show mixed effects, suggesting that the campaigns are not clearly effective in reducing DDoS-attacks in the short term.\r\nPolicy Implications: Law enforcement has partly justified the use of targeted online ad campaigns on the premise that they reduce DDoS-attacks. However, this study shows that the evidence in this regard is inconclusive. If public support for the use of such campaigns is to be secured in the long term, law enforcement will likely need to rely on stronger arguments. The effect of this type of campaigns needs to be further investigated.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nAccess the R code\r\n\r\n\r\n\r\n",
     "preview": "publications/2023-11-01-the-effect-of-online-ad/preview.png",
-    "last_modified": "2024-03-29T13:29:07+01:00",
+    "last_modified": "2025-03-07T10:03:21+01:00",
     "input_file": {},
     "preview_width": 1189,
     "preview_height": 753
@@ -350,7 +387,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThis chapter introduces Conjunctive Analysis of Case Configurations (CACC) for the study of crime and place. After introducing CACC as an alternative approach to variable-oriented thinking, we present its conceptual underpinnings and limitations. We then provide a step-by-step tutorial on how to conduct a CACC, accompanied by an example using public data and R code. The chapter contains many references to other publications that developed the CACC method and applied it to different crime contexts.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nAccess the R code\r\nDownload the cacc R package from CRAN\r\n\r\n\r\n\r\n",
     "preview": "publications/2023-03-24-conjunctive-analysis-of-case-configurations/preview.png",
-    "last_modified": "2024-03-29T13:24:58+01:00",
+    "last_modified": "2025-03-07T10:03:21+01:00",
     "input_file": {},
     "preview_width": 684,
     "preview_height": 420
@@ -378,7 +415,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nInsider threats represent a latent risk to all organizations, whether they are large companies or SMEs. Insiders, the individuals with privileged access to the assets of organizations, can compromise their proper functioning and cause serious consequences that can be direct—such as financial—or indirect—such as reputational. Insider incidents can have a negative impact on SMEs, as their resources are often limited, making it paramount to implement adequate cyber security measures. Despite its indisputable relevance, the empirical study of insider incidents from a criminological point of view has received little attention. This paper presents the results of an exploratory study that aims to understand the nature and extent of three type of insider incidents—malicious, negligent, and well-meaning—and how they are related to the adoption of cyber security measures. To that end, we administered a questionnaire among a panel of 496 Dutch SME entrepreneurs and managers and analyzed the results quantitatively and qualitatively. The results show that although the prevalence of insider incidents is relatively low among Dutch SMEs, few organizations report a disproportionate number of incidents that often entail serious consequences. A regression model shows that there are cyber security measures related to both higher and lower incident likelihood. The implications of these findings for the cyber security policies of SMEs are discussed.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nAccess the data and the R code\r\n\r\n\r\n\r\n",
     "preview": "publications/2023-03-15-insider-threats-among-dutch-smes/preview.png",
-    "last_modified": "2024-03-29T13:21:56+01:00",
+    "last_modified": "2025-03-07T10:03:21+01:00",
     "input_file": {},
     "preview_width": 554,
     "preview_height": 413
@@ -406,7 +443,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nA vast and growing body of research has shown that crime tends to run in families. However, previous studies focused only on traditional crimes and research on familial risk factors for cyber offending is very scarce. To address this gap in the literature, the present study examines the criminal behavior of the family members of a sample of cyber offenders prosecuted in the Netherlands. The sample consists of 979 cyber offenders prosecuted for computer trespassing between 2001 and 2018, and two matched groups of 979 traditional offenders and 979 non-offenders. Judicial information and kinship data from Dutch Statistics were used to measure criminal behavior among family members. Both traditional offenders and cyber offenders were found to be more likely to have criminal fathers, mothers, and siblings than non-offenders. Additional analyses, however, showed different patterns between cyber offenders who were only prosecuted for cyber offenses and those who also committed traditional crimes. While the former group of cyber offenders were similar to non-offenders in terms of family offending, the latter group of cyber offenders were more similar to traditional offenders. Overall, these results suggest that the traditional mechanisms of intergenerational transmission of crime can only partially explain cybercrime involvement.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": "publications/2022-11-24-familial-concentration-of-crime-in/preview.png",
-    "last_modified": "2024-03-29T13:16:01+01:00",
+    "last_modified": "2025-03-07T10:03:21+01:00",
     "input_file": {},
     "preview_width": 4000,
     "preview_height": 2000
@@ -439,7 +476,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nObjectives: Examine the level of engagement of young users with money mule recruitment ads on Instagram.\r\nMethods: Three ads reflecting key cybercrime involvement mechanisms and targeting Dutch user clusters were run on two Instagram placements. By means of this quasi-experimental 3 × 2 factorial design, we were able to analyze the reach and views of the ads, click-through rates, gender of the participants, and temporal distributions of user engagement.\r\nResults: Mimicking actual recruitment environments, analysis shows that up to 3% of young users engaged with the ads, especially those promoting a luxury lifestyle and using neutralization techniques. Men were more likely to engage, and click-through rates were higher at night.\r\nConclusions: Some young Instagram users seem prone to making money through their bank cards and risk becoming involved in cybercrime online. We encourage future research to explore further the use of social media in criminological studies.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": "publications/2022-11-04-understanding-cybercrime-involvement-a-quasiexperiment/preview.png",
-    "last_modified": "2024-03-29T13:13:30+01:00",
+    "last_modified": "2025-03-07T10:03:21+01:00",
     "input_file": {},
     "preview_width": 854,
     "preview_height": 500
@@ -472,7 +509,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nObjective: Aiming to reduce distributed denial-of-service (DDoS) attacks by alerting the consciences of Internet users, this paper evaluates the effectiveness of four warning banners displayed as online ads (deterrent—control, social, informative, and reorienting) and the contents of their two linked landing pages.\r\nMethods: We implement a 4 × 2 quasi-experimental design on a self-selected sample of Internet users to measure the engagement generated by the ads and the pages. Engagement is measured on the ads as the ratio of clicks to impressions and on the pages as percentage of page scrolled, average session duration, video interaction rate, and URLs click rate.\r\nResults: Social ads generate significantly more engagement than the rest with low to medium effect sizes. Data reveal no differences in engagement between both landing page designs.\r\nConclusions: Social messages may be a better alternative for engaging with potential cyber offenders than the traditional deterrent messages.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nAccess the data and the R code\r\n\r\n\r\n\r\n",
     "preview": "publications/2022-03-24-alerting-consciences-to-reduce-cybercrime/preview.png",
-    "last_modified": "2024-03-29T13:00:37+01:00",
+    "last_modified": "2025-03-07T10:03:20+01:00",
     "input_file": {},
     "preview_width": 1044,
     "preview_height": 619
@@ -509,7 +546,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nRepeat victimization has been widely studied from the perspective of environmental criminology for several decades. During this period, criminologists have identified a set of repeat victimization premises that are observed for many crimes; however, it is unknown whether these premises are also valid for cybercrime. In this study we rely on more than 9 million Zone-H data records from 2010 to 2017 to test whether these premises apply for the cybercrime of website defacement. We show that the phenomenon of repeat victimization is also observed in defaced cyber places (i.e. websites). In particular, we found that repeats contributed little to crime rates, that repeats occurred even several years after the original incident, that they were committed disproportionately by prolific offenders, and that few offenders returned to victimize previous targets. The results suggest that some traditional premises of repeat victimization may also be valid for understanding cybercrime events such as website defacement, implying that environmental criminology theories also constitute a useful framework for cybercrime analysis. The implications of these results in terms of criminological theory, cybercrime prevention, and the limitations derived from the use of Zone-H data are discussed.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nAccess the R code\r\n\r\n\r\n\r\n",
     "preview": "publications/2021-08-18-repeat-victimization-by-website-defacement/preview.png",
-    "last_modified": "2024-03-29T12:56:34+01:00",
+    "last_modified": "2025-03-07T10:03:20+01:00",
     "input_file": {},
     "preview_width": 1201,
     "preview_height": 606
@@ -550,7 +587,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThe unprecedented changes in routine activities brought about by COVID-19 and the associated lockdown measures contributed to a reduction in opportunities for predatory crimes in outdoor physical spaces, while people spent more time connected to the internet, and opportunities for cybercrime and fraud increased. This article applies time-series analysis to historical data on cybercrime and fraud reported to Action Fraud in the United Kingdom to examine whether any potential increases are beyond normal crime variability. Furthermore, the discrepancies between fraud types and individual and organizational victims are also analyzed. The results show that while both total cybercrime and total fraud increased beyond predicted levels, the changes in victimization were not homogeneous across fraud types and victims. The implications of these findings on how changes in routine activities during COVID-19 have influenced cybercrime and fraud opportunities are discussed in relation to policy, practice, and academic debate.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nSee the related ShinyApp\r\nAccess the R code for the ShinyApp\r\n\r\n\r\n\r\n",
     "preview": "publications/2021-07-18-empty-streets-busy-internet-a/preview.png",
-    "last_modified": "2024-03-29T12:51:09+01:00",
+    "last_modified": "2025-03-07T10:03:20+01:00",
     "input_file": {},
     "preview_width": 706,
     "preview_height": 773
@@ -573,7 +610,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThe Annual Conference on the Human Factor in Cybercrime is a small and specialised scientific event that aims to bring together scholars from around the world to present their research advances to a select audience. Its dynamic and linear format favours group discussions since all contributions are heard by all the attendants. This, together with its tailored social scheme, promotes interaction between members, which—in turn—leads to new collaborations. However, it has not yet been analysed whether the design of the conference actually encourages varied participation and fosters collaborative networks among its participants. The purpose of this chapter is to assess participation in the 2018 and 2019 editions to determine whether this is the case. Using descriptive analyses, here we show how participation in the conference has varied and examine the composition of the collaboration networks among the participants. The results show an increased and more diverse participation in the 2019 meeting along with a greater presence of stakeholders. Furthermore, the findings reveal that members of previously established organisations play an important role in cohering the network. Yet few connections exist between academia and practice. A further analysis of the strengths and weaknesses identified in the two editions of the conference serves to elaborate a series of recommendations for future editions.\r\nLinks\r\nRead the chapter online\r\nDownload the PDF (post-print)\r\n\r\n\r\n\r\n",
     "preview": "publications/2021-06-04-the-annual-conference-on-the/preview.png",
-    "last_modified": "2024-03-29T12:48:43+01:00",
+    "last_modified": "2025-03-07T10:03:20+01:00",
     "input_file": {},
     "preview_width": 1013,
     "preview_height": 524
@@ -613,7 +650,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThe COVID-19 outbreak and the far-reaching lockdown measures are having direct and indirect effects on complex social domains, including opportunities for crime offline and online. This paper presents preliminary analyses about the short-term effect of COVID-19 and lockdown measures on cyber-dependent crime and online fraud in the UK. Time series analyses from data about crimes known to police between May 2019 and May 2020 are used to explore the extent to which cybercrime has been affected by the COVID-19 outbreak. More specifically, we examine whether cybercrime has suffered an increase during the months with the strictest lockdown restrictions, as an effect of the displacement of crime opportunities from physical to online environments. Results indicate that reports of cybercrime have increased during the COVID-19 outbreak, and these were remarkably large during the two months with the strictest lockdown policies and measures. In particular, the number of frauds associated with online shopping and auctions, and the hacking of social media and email, which are the two most common cybercrime categories in the UK, have seen the largest increases in the number of incidents. The increase in cyber-dependent crimes has mainly been experienced by individual victims rather than organisations.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": "publications/2020-08-11-cybercrime-and-shifts-in-opportunities/preview.png",
-    "last_modified": "2024-03-29T12:47:10+01:00",
+    "last_modified": "2025-03-07T10:03:20+01:00",
     "input_file": {},
     "preview_width": 888,
     "preview_height": 698
@@ -637,7 +674,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nFor years, academics have examined the potential usefulness of traditional criminological theories to explain and prevent cybercrime. Some analytical frameworks from Environmental Criminology and Crime Analysis (ECCA), such as the Routine Activities Approach and Situational Crime Prevention, are frequently used in theoretical and empirical research for this purpose. These efforts have led to a better understanding of how crime opportunities are generated in cyberspace, thus contributing to advancing the discipline. However, with a few exceptions, other ECCA analytical frameworks -especially those based on the idea of geographical place- have been largely ignored. The limited attention devoted to ECCA from a global perspective means its true potential to prevent cybercrime has remained unknown to date. In this thesis we aim to overcome this geographical gap in order to show the potential of some of the essential concepts that underpin the ECCA approach, such as places and crime patterns, to analyse and prevent four crimes committed in cyberspace. To this end, this dissertation is structured in two phases: firstly, a proposal for the transposition of ECCA’s fundamental propositions to cyberspace; and secondly, deriving from this approach some hypotheses are contrasted in four empirical studies through Data Science. The first study contrasts a number of premises of repeat victimization in a sample of more than nine million self-reported website defacements. The second examines the precipitators of crime at cyber places where allegedly fixed match results are advertised and the hyperlinked network they form. The third explores the situational contexts where repeated online harassment occurs among a sample of non-university students. And the fourth builds two metadata-driven machine learning models to detect online hate speech in a sample of Twitter messages collected after a terrorist attack. General results show (1) that cybercrimes are not randomly distributed in space, time, or among people; and (2) that the environmental features of the cyber places where they occur determine the emergence of crime opportunities. Overall, we conclude that the ECCA approach and, in particular, its place-based analytical frameworks can also be valid for analysing and preventing crime in cyberspace. We anticipate that this work can guide future research in this area including: the design of secure online environments, the allocation of preventive resources to high-risk cyber places, and the implementation of new evidence-based situational prevention measures.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": "publications/2020-07-24-cyber-places-crime-patterns-and/preview.png",
-    "last_modified": "2024-03-29T12:45:39+01:00",
+    "last_modified": "2025-03-07T10:03:20+01:00",
     "input_file": {},
     "preview_width": 972,
     "preview_height": 742
@@ -665,7 +702,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThis chapter addresses the ability of the criminological approaches that comprise Environmental Criminology to constitute an adequate theoretical framework to analyze and understand the situational aspects of crimes committed through cyberspace and to define the most appropriate prevention strategies. The chapter begins by examining how these approaches have been applied. Subsequently, the reasons why the environmental approach can offer much more in this area if some apparent obstacles are overcome are presented. Finally, a method of applying these midrange theoretical frameworks to different cybercrimes is proposed. Relying on multiple empirical studies, it is stated that the essential premise of the environmental approach is also observed in cybercrime: the existence of situational patterns. These patterns are derived from the different ways in which offenders and targets, in the absence of guardians, converge in cyber places: digital interaction environments that shape the situational opportunities in which people interact. The chapter ends by summarizing the application possibilities of approaches such as the Crime Pattern Theory and Situational Crime Prevention in connection with the Routine Activity Theory and the Rational Choice Theory. It is proposed that many of the geographical applications derived from these approaches and some of their basic theoretical premises need to be adapted while seeking to enhance their strengths and mitigate the effects of their weaknesses.\r\nLinks\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": "publications/2020-06-06-environmental-criminology-and-cybercrime-shifting/preview.png",
-    "last_modified": "2024-03-29T12:44:06+01:00",
+    "last_modified": "2025-03-07T10:03:20+01:00",
     "input_file": {},
     "preview_width": 1323,
     "preview_height": 526
@@ -698,7 +735,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nData collected from a sample of Spanish non-university students (N = 4174) were used to identify unique situational profiles of self-identified repeated online harassment victims and offenders, through a Conjunctive Analysis of Case Configurations (CACC). Repeat victim and offender profiles were constructed using individual-level factors and variables related to the cyber “places” where students go online and their personal information they share while there. Clustering analysis demonstrates that students spent their time online in few situational contexts where online harassment occurs. Dominant situational profiles of students are then provided, along with their associated probabilities for experiencing repeat victimization or committing repeat offending, identifying those at relatively higher and lower risk. Results show that composite profiles associated with victims of repeated online harassment are dissimilar to those associated with offenders of repeated online harassment, suggesting that each form of online harassment occurs in different situational contexts and therefore requires different preventative measures. Our findings are discussed in terms of criminological theory, future online harassment research, cybercrime prevention, and policy implications.\r\nLinks\r\nDownload the PDF\r\nAccess the R code\r\n\r\n\r\n\r\n",
     "preview": "publications/2020-04-03-hunter-or-prey-exploring-the/preview.png",
-    "last_modified": "2024-03-29T12:41:35+01:00",
+    "last_modified": "2025-03-07T10:03:20+01:00",
     "input_file": {},
     "preview_width": 984,
     "preview_height": 702
@@ -730,7 +767,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nA reduction in property crime has been a central feature of criminological discussion in the last 25 years, and numerous studies have used police statistics to identify a drop throughout the Western world. However, fraud, which is included in a broad definition of property crime, has typically not been considered in the analysis. This study examines fraud in the Spanish and European context to further understanding of its nature, prevalence, evolution and role in the overall panorama of property crime. Furthermore, the present study explores the extent to which we are experiencing widespread fraud underreporting to police and the implications of this for crime control policy. To this end, the present paper analyses secondary data provided by the Spanish Ministry of Interior, Spanish and European central banking authorities as well as large-scale victimization surveys from a number of European countries. In contrast to other property crimes, the findings indicate that cyber fraud is rising and that reporting is considerably lower. Some of the main reasons for reporting or not reporting fraud victimization are also identified. The dark figure of fraud suggests the design and evaluation of policing and crime prevention policies based solely on police statistics may be inadequate.\r\nLinks\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": "publications/2020-03-04-the-dark-figure-and-the/preview.png",
-    "last_modified": "2024-03-29T12:39:18+01:00",
+    "last_modified": "2025-03-07T10:03:20+01:00",
     "input_file": {},
     "preview_width": 1237,
     "preview_height": 794
@@ -758,7 +795,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nFraud is one of the archetypal crimes that founded the ‘old wine in new bottles’ cybercrime debate. However, it also constitutes an issue whose impacts are still often misunderstood or underestimated. In order to add to the debate and highlight the consequences suffered by fraud victims in the digital-era, this study preforms a series of regression models to analyse the differences in determinants of online and offline fraud and the factors associated with increased financial and psychological impacts as well as annoyance. This is carried out using data on fraud victims from 2 editions (2015 and 2017) of the Catalan Public Security Survey (n = 1177). The findings show that online fraud victims are younger and have a higher education level. Regarding impact, few significant determinants of financial losses are found, but annoyance and psychological consequences are higher in offline fraud and can be influenced by variables such as the victim’s sex, financial situation or opinion regarding safety in their local area. Interestingly, despite the consequences being lower, online fraud is more likely to be considered a crime by the victim. Finally, the implications for policy and practice are discussed.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": "publications/2020-01-31-comparing-correlates-of-offline-and/preview.png",
-    "last_modified": "2024-03-29T12:37:22+01:00",
+    "last_modified": "2025-03-07T10:03:20+01:00",
     "input_file": {},
     "preview_width": 1000,
     "preview_height": 730
@@ -787,7 +824,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nIn recent years, many human activities have made cyberspace their preferred environment. This study focuses on the betting environment, specifically on fixed-match informing websites (FMIWs). These sites claim to be capable of selling tips about fixed sports events. They essentially act as vendors of confidential sources, allowing punters to place 100% sure bets. We hypothesize that cyber places for match-fixing tips facilitate deviant behaviors. Through systematic observation, we describe and quantify a set of 15 environmental features they share, which do not always belong to regulated online betting platforms. Findings from 78 FMIWs corroborate our hypothesis, as they support the relevance of Environmental Criminology theories applied to cybercrime. Additional exploration through hyperlink network analysis shows that FMIWs are highly homogeneous and have similar characteristics to the Tor network but differ from other illicit online environments such as sexual child exploitation networks or white supremacist communities. The characteristics of the network suggest that the business is more similar to a fraud scheme than an illicit market. Finally, the practical implications of the results for crime prevention and the directions for future research are outlined.\r\nLinks\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": "publications/2019-12-11-100-sure-bets-exploring-the/preview.png",
-    "last_modified": "2024-03-29T12:35:17+01:00",
+    "last_modified": "2025-03-07T10:03:20+01:00",
     "input_file": {},
     "preview_width": 738,
     "preview_height": 745
@@ -816,7 +853,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nIn this paper we question Farrell and Birks’ assertion of the emergence of cybercrime as an invalid explanation for the crime drop. Alternatively to the “cybercrime hypothesis”, we propose two non-exclusive hypotheses that highlight the essential role of cyberspace as an environment that has shifted criminal opportunities from physical to virtual space, which reflects on crime trends. The first hypothesis posits that the more time spent at home by many young people due to video games and online leisure activities, among other factors, could have had an impact on the juvenile crime drop. The second hypothesis states that the appearance of cyberspace has led to a shift in opportunities from physical space to cyberspace. This could have led to an increase in property-related criminal activity connected to the Internet to the detriment of physical crime which would not be reflected in the statistics. Both premises are supported by empirical evidence.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": "publications/2019-10-21-what-about-cyberspace-and-cybercrime/preview.png",
-    "last_modified": "2024-03-29T12:33:50+01:00",
+    "last_modified": "2025-03-07T10:03:20+01:00",
     "input_file": {},
     "preview_width": 1078,
     "preview_height": 686
@@ -848,7 +885,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nAnonymity is one of the elements traditionally associated with criminal and antisocial behaviour. Anonymity depends on several factors, such as natural surveillance or the visibility created by the physical or digital environment. Certain digital environments, such as social networks, exhibit characteristics that facilitate or limit the degree of anonymity of their users. Social networks are places in cyberspace where people interact with each other and with the environment, where they increasingly carry out their daily activities and where they also commit crimes. This paper attempts to test the hypothesis that certain elements of the social network environment define the anonymity of their users. To this end, an empirical process for quantifying anonymity is proposed, which can be applied transversally to all places in cyberspace that permit user accounts. Subsequently, a data set of 162 users has been obtained from the social network Twitter which also collects the metadata associated to their accounts. To test this hypothesis, a Confirmatory Factor Analysis (CFA) has been conducted to determine whether the data obtained fit the model based on a theoretical concept proposed by the researchers. The results show a moderate fit for the model, suggesting that some metadata (i.e., geopositioning) do not contribute to defining the latent variable anonymity. We suggest the proposed model needs to be reconsidered and applied to a larger sample to improve its fit. Finally, the applicability of the proposed methodology for measuring anonymity and future lines of research are discussed.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": "publications/2019-10-16-can-metadata-be-used-to/preview.png",
-    "last_modified": "2024-03-29T12:30:41+01:00",
+    "last_modified": "2025-03-07T10:03:20+01:00",
     "input_file": {},
     "preview_width": 1060,
     "preview_height": 188
@@ -881,7 +918,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nWith the objective of facilitating and reducing analysis tasks undergone by law enforcement agencies and service providers, and using a sample of digital messages (i.e., tweets) sent via Twitter following the June 2017 London Bridge terror attack (N = 200,880), the present study introduces a new algorithm designed to detect hate speech messages in cyberspace. Unlike traditional designs based on semantic and syntactic approaches, the algorithm hereby implemented feeds solely on metadata, achieving high level of precision. Through the application of the machine learning classification technique Random Forests, our analysis indicates that metadata associated with the interaction and structure of tweets are especially relevant to identify the content they contain. However, metadata of Twitter accounts are less useful in the classification process. Collectively, findings from the current study allow us to demonstrate how digital microenvironment patterns defined by metadata can be used to create a computer algorithm capable of detecting online hate speech. The application of the algorithm and the direction of future research in this area are discussed.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": "publications/2018-11-15-hate-is-in-the-air/preview.png",
-    "last_modified": "2024-03-29T12:27:15+01:00",
+    "last_modified": "2025-03-07T10:03:20+01:00",
     "input_file": {},
     "preview_width": 1194,
     "preview_height": 711
@@ -909,7 +946,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThis paper establishes the first Spanish step-by-step guide to carry out a Conjunctive Analysis of Case Configurations. It is defined as an exploratory technique for multivariate analysis of categorical data, which is an alternative to other traditional methods. Through its logical development, we intend to show a systematic method for data preparation that allows a wide range of analysis to be conducted on them, showing both the advantages it offers and its inherent limitations. To clearly illustrate its application process, two databases managed by the University of Michigan Institute for Social Research have been used: The National Incident Based Report System and The Law Enforcement Management and Administrative Statistics. The interpretation of results obtained by this technique allows reaching conclusions that may have important implications for several evidence based decision-making processes.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n",
     "preview": "publications/2018-05-28-conjunctive-analysis-of-case-configurations/preview.png",
-    "last_modified": "2024-03-29T12:26:57+01:00",
+    "last_modified": "2025-03-07T10:03:20+01:00",
     "input_file": {},
     "preview_width": 839,
     "preview_height": 673
