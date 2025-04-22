@@ -1,5 +1,37 @@
 [
   {
+    "path": "publications/2025-04-11-risk-profiles-for-cybercrime-victimization/",
+    "title": "Risk Profiles for Cybercrime Victimization: A Conjunctive Analysis of Case Configurations",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Susanne M. van 't Hoff-de Goede",
+        "url": {}
+      },
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      },
+      {
+        "name": "E. Rutger Leukfeldt",
+        "url": {}
+      }
+    ],
+    "date": "2025-04-11",
+    "categories": [
+      "psychological criminology",
+      "individual victims",
+      "general cybercrime",
+      "mixed methods"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nIt is crucial to understand who is at risk for cybercrime victimization. This study draws on longitudinal data from the Online Behavior and Victimization Study (n = 1886) to establish high-risk victimization profiles for cybercrime in general, hacking, malware infection, and fraud. We use Conjunctive Analysis of Case Configurations (CACC) to identify 64 dominant profiles describing personal characteristics (e.g., age, self-control), routine activities (e.g., exposure) and actual self-protective online behavior (e.g., password management) in 1330 respondents. After noting that observations moderately and statistically significantly cluster around dominant profiles, we identify ten high-risk profiles associated with an 18–50% probability of cybercrime victimization within the next year. Examining contextual variability in profiles reveals that self-control is most associated with malware infection, and fraud victimization.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "publications/2025-04-11-risk-profiles-for-cybercrime-victimization/preview.png",
+    "last_modified": "2025-04-22T10:23:24+02:00",
+    "input_file": {},
+    "preview_width": 910,
+    "preview_height": 570
+  },
+  {
     "path": "publications/2025-02-05-rational-choice-on-a-hacker/",
     "title": "Rational choice on a hacker forum: The effect of risk and reward cues on target selection for account hijacking",
     "description": "Journal article",
@@ -102,7 +134,7 @@
   },
   {
     "path": "publications/2024-06-28-pathways-into-desistance-from-and/",
-    "title": "Pathways Into, Desistance From, and Risk Factors Related to Cyber-Dependent Crime: A Systematic Narrative Review",
+    "title": "Pathways into, desistance from, and risk factors related to cyber-dependent crime: a systematic narrative review",
     "description": "Journal article",
     "author": [
       {
@@ -128,7 +160,7 @@
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nCyber-dependent crime is a growing global threat. However, research on cybercrime offending throughout the life course, especially on the factors leading to initiation and desistance of cyber-dependent crime remains underdeveloped. This paper synthesizes the literature on pathways into, desistance from, and risk factors related to cyber-dependent crime (hacking, malware, and DDoS attacks), and identifies research gaps. Following PRISMA-ScR guidelines, we conducted a systematic search and identified 86 eligible documents published as of February 2022. Results reveal a pathway into hacking through interest in technology and online videogames, which continues with social learning from peers involved in hacking activities, and thus leads to the world of cybercrime. Desistance from this pathway is influenced by a cost-benefit analysis and maturing. We also identified 27 risk factors for the initiation process in cyber-offending that are consistent in the literature. The most significant ones were being young, male, having low self-control, deviant peers, and frequently using the Internet.\r\nLinks\r\nRead the paper online\r\nDownload the PDF (pre-print)\r\nRead the protocol online\r\n\r\n\r\n\r\n",
     "preview": "publications/2024-06-28-pathways-into-desistance-from-and/preview.png",
-    "last_modified": "2025-03-07T10:03:21+01:00",
+    "last_modified": "2025-04-22T10:25:29+02:00",
     "input_file": {},
     "preview_width": 901,
     "preview_height": 721

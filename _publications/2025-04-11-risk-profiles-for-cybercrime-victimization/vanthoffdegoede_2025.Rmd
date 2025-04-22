@@ -1,0 +1,61 @@
+---
+title: "Risk profiles for cybercrime victimization: A Conjunctive Analysis of Case Configurations"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Susanne M. van 't Hoff-de Goede
+    affiliation: Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: E. Rutger Leukfeldt
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-3051-0859
+# Publication date (online first)
+date: 2025-04-11
+categories:
+  # Paradigm
+  ## Biological Criminology: Genetic Theories of Crime, Neurobiological Theories
+  ## Classical Criminology: Rational Choice Theory, Deterrence Theory
+  ## Critical Criminology: Marxist Criminology, Feminist Criminology
+  ## Cultural Criminology: Subcultural Theories, Media and Crime Theory
+  ## Developmental Criminology: Life-Course Theory
+  ## Environmental Criminology: Routine Activity Theory, Crime Pattern Theory, Situational Crime Prevention
+  ## Integrated Criminology: Social Control Theory, General Strain Theory
+  ## Positivist Criminology: Biological Determinism
+  ## Psychological Criminology: Psychodynamic Theories, Learning Theories, Criminal Expertise Paradigm
+  ## Sociological Criminology: Social Disorganization Theory, Anomie/Strain Theory, Social Learning Theories
+  ## Behavioral Economics: Nudge Theory
+  - psychological criminology
+  # Main focus
+  - individual victims
+  # Type of crime
+  - general cybercrime
+  # Main cybercrime type
+  # - [hacking | hacktivism | DDoS-attacks | malware | ransomware | phishing | data theft | harassment | hate speech | fraud | money muling | insider threats]
+  # Main methodology
+  - mixed methods
+doi: https://doi.org/10.1080/01639625.2025.2481917
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+It is crucial to understand who is at risk for cybercrime victimization. This study draws on longitudinal data from the Online Behavior and Victimization Study (*n* = 1886) to establish high-risk victimization profiles for cybercrime in general, hacking, malware infection, and fraud. We use Conjunctive Analysis of Case Configurations (CACC) to identify 64 dominant profiles describing personal characteristics (e.g., age, self-control), routine activities (e.g., exposure) and actual self-protective online behavior (e.g., password management) in 1330 respondents. After noting that observations moderately and statistically significantly cluster around dominant profiles, we identify ten high-risk profiles associated with an 18–50% probability of cybercrime victimization within the next year. Examining contextual variability in profiles reveals that self-control is most associated with malware infection, and fraud victimization.
+
+# Links
+
+-   [Read the paper online](https://www.tandfonline.com/doi/10.1080/01639625.2025.2481917)
+-   [Download the PDF](vanthoffdegoede_2025_risk-profiles-for-cybercrime-victimization.pdf)
+<!-- -   [Access the data, R code, and supplementary materials](URL) -->
+<!-- -   [Check the pre-registration](URL) -->

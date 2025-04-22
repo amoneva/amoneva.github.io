@@ -1,5 +1,5 @@
 ---
-title: "Pathways Into, Desistance From, and Risk Factors Related to Cyber-Dependent Crime: A Systematic Narrative Review"
+title: "Pathways into, desistance from, and risk factors related to cyber-dependent crime: a systematic narrative review"
 description: Journal article
 base_url: https://amoneva.github.io/
 preview: preview.png
