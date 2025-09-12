@@ -11,7 +11,27 @@
       <link>https://amoneva.github.io/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>An Experimental Design to Investigate Attacker Actions on an Access-as-a-Service 'Criminal' Platform</title>
+      <dc:creator>Roy Ricaldi</dc:creator>
+      <dc:creator>Yasen Yalamov</dc:creator>
+      <dc:creator>Michelle Campobasso</dc:creator>
+      <dc:creator>Luca Allodi</dc:creator>
+      <dc:creator>Hannah Kool</dc:creator>
+      <dc:creator>Asier Moneva</dc:creator>
+      <dc:creator>E. Rutger Leukfeldt</dc:creator>
+      <link>https://amoneva.github.io/publications/2025-09-01-an-experimental-design-to-investigate</link>
+      <description>Conference proceeding</description>
+      <category>classical criminology</category>
+      <category>indidivual offenders</category>
+      <category>cyber-dependent crime</category>
+      <category>hacking</category>
+      <category>mixed methods</category>
+      <guid>https://amoneva.github.io/publications/2025-09-01-an-experimental-design-to-investigate</guid>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://amoneva.github.io/publications/2025-09-01-an-experimental-design-to-investigate/preview.png" medium="image" type="image/png" width="732" height="715"/>
+    </item>
     <item>
       <title>Risk Profiles for Cybercrime Victimization: A Conjunctive Analysis of Case Configurations</title>
       <dc:creator>Susanne M. van 't Hoff-de Goede</dc:creator>
@@ -73,22 +93,6 @@
       <guid>https://amoneva.github.io/publications/2024-11-14-interest-in-booter-services-and</guid>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <media:content url="https://amoneva.github.io/publications/2024-11-14-interest-in-booter-services-and/preview.png" medium="image" type="image/png" width="1086" height="519"/>
-    </item>
-    <item>
-      <title>Pathways into, desistance from, and risk factors related to cyber-dependent crime: a systematic narrative review</title>
-      <dc:creator>Joeri Loggen</dc:creator>
-      <dc:creator>Asier Moneva</dc:creator>
-      <dc:creator>E. Rutger Leukfeldt</dc:creator>
-      <link>https://amoneva.github.io/publications/2024-06-28-pathways-into-desistance-from-and</link>
-      <description>Journal article</description>
-      <category>developmental criminology</category>
-      <category>individual offenders</category>
-      <category>cyber-dependent crime</category>
-      <category>hacking</category>
-      <category>qualitative methods</category>
-      <guid>https://amoneva.github.io/publications/2024-06-28-pathways-into-desistance-from-and</guid>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <media:content url="https://amoneva.github.io/publications/2024-06-28-pathways-into-desistance-from-and/preview.png" medium="image" type="image/png" width="901" height="721"/>
     </item>
   </channel>
 </rss>

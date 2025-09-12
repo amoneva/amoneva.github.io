@@ -1,6 +1,6 @@
 ---
 title: "Title"
-description: [Journal article | Book chapter]
+description: [Journal article | Book chapter | Conference proceeding]
 base_url: https://amoneva.github.io/
 # preview: preview.png
 author:

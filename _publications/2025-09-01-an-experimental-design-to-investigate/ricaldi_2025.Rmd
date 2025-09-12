@@ -1,0 +1,75 @@
+---
+title: "An Experimental Design to Investigate Attacker Actions on an Access-as-a-Service 'Criminal' Platform"
+description: Conference proceeding
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Roy Ricaldi
+    affiliation: Department of Mathematics and Computer Science, Eindhoven University of Technology
+    orcid_id: https://orcid.org/0009-0009-0468-0086
+  - name: Yasen Yalamov
+    affiliation: Department of Mathematics and Computer Science, Eindhoven University of Technology
+  - name: Michelle Campobasso
+    affiliation: Department of Mathematics and Computer Science, Eindhoven University of Technology
+    orcid_id: https://orcid.org/0000-0002-5247-7711    
+  - name: Luca Allodi
+    affiliation: Department of Mathematics and Computer Science, Eindhoven University of Technology
+    orcid_id: https://orcid.org/0000-0003-1600-0868
+  - name: Hannah Kool
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0009-0006-2837-4516
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: E. Rutger Leukfeldt
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences & Institute of Security and Global Affairs and Institute of Criminal Law and Criminology at Leiden University
+    orcid_id: https://orcid.org/0000-0002-3051-0859
+# Publication date (online first)
+date: 2025-09-01
+categories:
+  # Paradigm
+  ## Biological Criminology: Genetic Theories of Crime, Neurobiological Theories
+  ## Classical Criminology: Rational Choice Theory, Deterrence Theory
+  ## Critical Criminology: Marxist Criminology, Feminist Criminology
+  ## Cultural Criminology: Subcultural Theories, Media and Crime Theory
+  ## Developmental Criminology: Life-Course Theory
+  ## Environmental Criminology: Routine Activity Theory, Crime Pattern Theory, Situational Crime Prevention
+  ## Integrated Criminology: Social Control Theory, General Strain Theory
+  ## Positivist Criminology: Biological Determinism
+  ## Psychological Criminology: Psychodynamic Theories, Learning Theories, Criminal Expertise Paradigm
+  ## Sociological Criminology: Social Disorganization Theory, Anomie/Strain Theory, Social Learning Theories
+  ## Behavioral Economics: Nudge Theory
+  - classical criminology
+  # Main focus
+  - indidivual offenders
+  # Type of crime
+  - cyber-dependent crime
+  # Main cybercrime type
+  - hacking
+  # Main methodology
+  - mixed methods
+doi: https://doi.org/10.1109/EuroSPW67616.2025.00018
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+# Remove to publish
+# draft: true
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+Access-as-a-Service (AaaS) has reduced barriers to cybercriminal activity, enabling less skilled offenders to execute sophisticated attacks relying on remote access to compromised systems. Despite the growing accessibility of these services, little is understood about the factors influencing criminal decisions in the selection of their targets and the ensuing attack process. This short paper outlines the design and implementation of a 'criminal' AaaS platform aimed at attracting cybercriminal users to study their behavior. The platform, modeled after illicit marketplaces in the dark web, includes various market signals to assess their influence on cybercriminal decision-making and a 'honeypot' setup to evaluate attacker actions. In this paper, we describe the methodology and infrastructure we are building to this purpose. Our intent is to present our experimental design to the WACCO community to collect feedback on the experiment setup and run, and to foster discussion on the technical and ethical challenges of active attacker measurement.
+
+# Links
+
+-   [Read the paper online](https://ieeexplore.ieee.org/abstract/document/11129486)
+-   [Download the PDF (postprint)](ricaldi_2025_an-experimental-design-to-investigate.pdf)
+<!-- -   PDF under embargo until 0000-00-00. Contact me to get a copy! -->
+<!-- -   [Access the data, R code, and supplementary materials](URL) -->
+<!-- -   [Check the pre-registration](URL) -->
