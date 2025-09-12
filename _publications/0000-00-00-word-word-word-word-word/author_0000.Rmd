@@ -24,7 +24,7 @@ categories:
   ## Behavioral Economics: Nudge Theory
   - [classical criminology | developmental criminology | environmental criminology | sociological criminology | cultural criminology | behavioral economics]
   # Main focus
-  - [indidivual offenders | criminal networks | general offenders | individual victims | organizations | general victims | individual offenders and victims | crime contexts | crime trends]
+  - [individual offenders | criminal networks | general offenders | individual victims | organizations | general victims | individual offenders and victims | crime contexts | crime trends]
   # Type of crime
   - [general cybercrime | cyber-enabled crime | cyber-dependent crime | traditional crime]
   # Main cybercrime type

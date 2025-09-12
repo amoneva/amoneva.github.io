@@ -36,15 +36,15 @@
     "date": "2025-09-01",
     "categories": [
       "classical criminology",
-      "indidivual offenders",
+      "individual offenders",
       "cyber-dependent crime",
       "hacking",
       "mixed methods"
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nAccess-as-a-Service (AaaS) has reduced barriers to cybercriminal activity, enabling less skilled offenders to execute sophisticated attacks relying on remote access to compromised systems. Despite the growing accessibility of these services, little is understood about the factors influencing criminal decisions in the selection of their targets and the ensuing attack process. This short paper outlines the design and implementation of a ‘criminal’ AaaS platform aimed at attracting cybercriminal users to study their behavior. The platform, modeled after illicit marketplaces in the dark web, includes various market signals to assess their influence on cybercriminal decision-making and a ‘honeypot’ setup to evaluate attacker actions. In this paper, we describe the methodology and infrastructure we are building to this purpose. Our intent is to present our experimental design to the WACCO community to collect feedback on the experiment setup and run, and to foster discussion on the technical and ethical challenges of active attacker measurement.\r\nLinks\r\nRead the paper online\r\nDownload the PDF (postprint)\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "publications/2025-09-01-an-experimental-design-to-investigate/preview.png",
-    "last_modified": "2025-09-12T11:39:34+02:00",
-    "input_file": {},
+    "last_modified": "2025-09-12T11:49:14+02:00",
+    "input_file": "ricaldi_2025.knit.md",
     "preview_width": 732,
     "preview_height": 715
   },
@@ -105,15 +105,15 @@
     "date": "2025-02-05",
     "categories": [
       "classical criminology",
-      "indidivual offenders",
+      "individual offenders",
       "cyber-dependent crime",
       "hacking",
       "quantitative methods"
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThis online field experiment tested how risk and reward cues in (fake) account credential ads on a hacker forum influence target selection for account hijacking. High-risk posts, warning of account monitoring, received fewer views, while high-reward posts, promising benefits, attracted more. An unexpected law enforcement operation targeting an illicit marketplace created a natural experiment, triggering increased removals of high-risk posts by forum administrators, which slowed over time. These findings suggest hacker forum users respond rationally to risk and reward cues in target selection, and forum administrators adapt their moderation efforts in response to external threats to reduce perceived risk.\r\nLinks\r\nRead the paper online\r\n\r\n\r\nAccess the data, R code, and supplementary materials\r\nCheck the pre-registration\r\n\r\n\r\n\r\n",
     "preview": "publications/2025-02-05-rational-choice-on-a-hacker/preview.png",
-    "last_modified": "2025-09-12T11:04:37+02:00",
-    "input_file": {},
+    "last_modified": "2025-09-12T11:49:26+02:00",
+    "input_file": "stibbe_2025.knit.md",
     "preview_width": 898,
     "preview_height": 523
   },
@@ -169,15 +169,15 @@
     ],
     "date": "2024-11-14",
     "categories": [
-      "indidivual offenders",
+      "individual offenders",
       "cyber-dependent crime",
       "DDoS-attacks",
       "mixed methods"
     ],
     "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nCybercrime as a service is lowering the barrier to entry for crime. Aspiring criminals can access cybercrime services through the clear web using search engines. One such cybercrime service is booters, web platforms that offer affordable distributed denial of service attacks for hire. Law enforcement agencies have tried to counter this trend by running online ad campaigns on platforms like Google. For these campaigns to effectively divert and deter potential cybercriminals, they must first reach the intended audience. Yet, it remains uncertain whether this is the case. This study assesses Google online search data from two campaigns deployed in the Netherlands in 2021 to determine whether the campaigns actually reached potential cybercriminals. The results indicate that certain online searches likely had criminal intent, implying that the campaigns—to some extent—successfully reached the intended population. Furthermore, the findings reveal that online searches can serve to identify active booters, providing valuable assistance to law enforcement agencies in taking down such services.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\nAccess the data and R code\r\n\r\n\r\n\r\n",
     "preview": "publications/2024-11-14-interest-in-booter-services-and/preview.png",
-    "last_modified": "2025-09-12T11:04:37+02:00",
-    "input_file": {},
+    "last_modified": "2025-09-12T11:49:35+02:00",
+    "input_file": "moneva_2024.knit.md",
     "preview_width": 1086,
     "preview_height": 519
   },

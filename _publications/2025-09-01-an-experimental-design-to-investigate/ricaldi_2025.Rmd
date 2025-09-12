@@ -41,7 +41,7 @@ categories:
   ## Behavioral Economics: Nudge Theory
   - classical criminology
   # Main focus
-  - indidivual offenders
+  - individual offenders
   # Type of crime
   - cyber-dependent crime
   # Main cybercrime type
