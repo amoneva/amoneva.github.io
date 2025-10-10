@@ -1,5 +1,37 @@
 [
   {
+    "path": "publications/2025-10-06-distinct-group-distinct-traits-a/",
+    "title": "Distinct group, distinct traits? A comparison of risk factors across cybercrime offenders, traditional offenders and non-offenders",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Luuk M. J. Bekkers",
+        "url": {}
+      },
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      },
+      {
+        "name": "E. Rutger Leukfeldt",
+        "url": {}
+      }
+    ],
+    "date": "2025-10-06",
+    "categories": [
+      "developmental criminology",
+      "individual offenders",
+      "general cybercrime",
+      "quantitative methods"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nIndividual differences associated with cybercrime offending remain under-researched. To address gaps in the literature and inform intervention, the current study compares cybercrime offenders, traditional offenders, and non-offenders in terms of risk factors for offending and online situational influences. We construct a survey using previously validated measurements, completed by 1,240 Dutch panel members aged 16 to 25. Two multinomial logistic regression models are estimated separately for cyber-dependent offenders and financial cybercrime offenders. Analysis reveals that cybercrime offenders overlap but also differ from traditional offenders. Cyber-dependent offenders seem to be a particular distinct offender group, while financial cybercrime offenders more closely resemble traditional offenders. Factors related to school, work, and leisure, but also personality, manifest differently for cybercrime: what was typically considered protective against traditional offending, such as higher levels of self-control, may actually provide opportunities to engage in cybercrime. Further longitudinal and experimental research is needed to support these conclusions.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\nAccess the supplementary materials\r\n\r\n\r\n\r\n",
+    "preview": "publications/2025-10-06-distinct-group-distinct-traits-a/preview.png",
+    "last_modified": "2025-10-10T09:59:20+02:00",
+    "input_file": "bekkers_2025.knit.md",
+    "preview_width": 973,
+    "preview_height": 796
+  },
+  {
     "path": "publications/2025-09-01-an-experimental-design-to-investigate/",
     "title": "An Experimental Design to Investigate Attacker Actions on an Access-as-a-Service 'Criminal' Platform",
     "description": "Conference proceeding",

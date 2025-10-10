@@ -1,0 +1,62 @@
+---
+title: "Distinct group, distinct traits? A comparison of risk factors across cybercrime offenders, traditional offenders and non-offenders"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Luuk M. J. Bekkers
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-3447-5245
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: E. Rutger Leukfeldt
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences & Institute of Security and Global Affairs and Institute of Criminal Law and Criminology at Leiden University
+    orcid_id: https://orcid.org/0000-0002-3051-0859
+# Publication date (online first)
+date: 2025-10-06
+categories:
+  # Paradigm
+  ## Biological Criminology: Genetic Theories of Crime, Neurobiological Theories
+  ## Classical Criminology: Rational Choice Theory, Deterrence Theory
+  ## Critical Criminology: Marxist Criminology, Feminist Criminology
+  ## Cultural Criminology: Subcultural Theories, Media and Crime Theory
+  ## Developmental Criminology: Life-Course Theory
+  ## Environmental Criminology: Routine Activity Theory, Crime Pattern Theory, Situational Crime Prevention
+  ## Integrated Criminology: Social Control Theory, General Strain Theory
+  ## Positivist Criminology: Biological Determinism
+  ## Psychological Criminology: Psychodynamic Theories, Learning Theories, Criminal Expertise Paradigm
+  ## Sociological Criminology: Social Disorganization Theory, Anomie/Strain Theory, Social Learning Theories
+  ## Behavioral Economics: Nudge Theory
+  - developmental criminology
+  # Main focus
+  - individual offenders
+  # Type of crime
+  - general cybercrime
+  # Main cybercrime type
+  # - [hacking | hacktivism | DDoS-attacks | malware | ransomware | phishing | data theft | harassment | hate speech | fraud | money muling | insider threats]
+  # Main methodology
+  - quantitative methods
+doi: https://doi.org/10.1080/13218719.2025.2546311
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+# Remove to publish
+# draft: true
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+Individual differences associated with cybercrime offending remain under-researched. To address gaps in the literature and inform intervention, the current study compares cybercrime offenders, traditional offenders, and non-offenders in terms of risk factors for offending and online situational influences. We construct a survey using previously validated measurements, completed by 1,240 Dutch panel members aged 16 to 25. Two multinomial logistic regression models are estimated separately for cyber-dependent offenders and financial cybercrime offenders. Analysis reveals that cybercrime offenders overlap but also differ from traditional offenders. Cyber-dependent offenders seem to be a particular distinct offender group, while financial cybercrime offenders more closely resemble traditional offenders. Factors related to school, work, and leisure, but also personality, manifest differently for cybercrime: what was typically considered protective against traditional offending, such as higher levels of self-control, may actually provide opportunities to engage in cybercrime. Further longitudinal and experimental research is needed to support these conclusions.
+
+# Links
+
+-   [Read the paper online](https://www.tandfonline.com/doi/full/10.1080/13218719.2025.2546311)
+-   [Download the PDF](https://www.tandfonline.com/doi/epdf/10.1080/13218719.2025.2546311)
+-   [Access the supplementary materials](https://www.tandfonline.com/doi/full/10.1080/13218719.2025.2546311#supplemental-material-section)
