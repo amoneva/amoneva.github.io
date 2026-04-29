@@ -1,0 +1,70 @@
+---
+title: "Online criminal markets on Telegram: Exploring the illicit products and services advertised in public group chats"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Joeri Loggen
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences & Institute of Criminal Law and Criminology at Leiden University
+    orcid_id: https://orcid.org/0000-0001-9038-8931
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: Arjan Blokland
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Institute of Criminal Law and Criminology at Leiden University
+    orcid_id: https://orcid.org/0000-0003-0366-2205
+  - name: Gerard de Roode
+    affiliation: Cyber Security Technologies at Netherlands Organisation for Applied Scientific Research (TNO)
+    orcid_id: https://orcid.org/0000-0002-2328-1496
+  - name: E. Rutger Leukfeldt
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences & Institute of Security and Global Affairs and Institute of Criminal Law and Criminology at Leiden University
+    orcid_id: https://orcid.org/0000-0002-3051-0859
+# Publication date (online first)
+date: 2026-04-23
+categories:
+  # Paradigm
+  ## Biological Criminology: Genetic Theories of Crime, Neurobiological Theories
+  ## Classical Criminology: Rational Choice Theory, Deterrence Theory
+  ## Critical Criminology: Marxist Criminology, Feminist Criminology
+  ## Cultural Criminology: Subcultural Theories, Media and Crime Theory
+  ## Developmental Criminology: Life-Course Theory
+  ## Environmental Criminology: Routine Activity Theory, Crime Pattern Theory, Situational Crime Prevention
+  ## Integrated Criminology: Social Control Theory, General Strain Theory
+  ## Positivist Criminology: Biological Determinism
+  ## Psychological Criminology: Psychodynamic Theories, Learning Theories, Criminal Expertise Paradigm
+  ## Sociological Criminology: Social Disorganization Theory, Anomie/Strain Theory, Social Learning Theories
+  ## Behavioral Economics: Nudge Theory
+  # - [classical criminology | developmental criminology | environmental criminology | sociological criminology | cultural criminology | behavioral economics]
+  # Main focus
+  - criminal networks
+  # Type of crime
+  - cyber-enabled crime
+  # Main cybercrime type
+  # - [hacking | hacktivism | DDoS-attacks | malware | ransomware | phishing | data theft | harassment | hate speech | fraud | money muling | insider threats]
+  # Main methodology
+  - quantitative methods
+doi: https://doi.org/10.1016/j.chb.2026.109032
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+# Remove to publish
+# draft: true
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+This study empirically examines illicit products and services advertised on Telegram. The dataset comprised over 26 million messages posted by more than 88,000 users in 31 public Dutch Telegram groups over a two-year period. Qualitative analysis identified 77 unique illicit products and services, grouped into 13 overarching crime categories, alongside a non-crime-related category. Descriptive analyses show that narcotics was the dominant category, confirming that drug-related trade remains the core business of online crime markets, regardless of online platform. Though less prevalent, cybercrime-related offerings were also present, suggesting that Telegram may serve as a gateway platform for less technically skilled individuals to access cybercrime tools. Notably, a substantial number of messages was unrelated to crime, particularly among unique messages. Using descriptive statistics and diversity measures, we found that most groups exhibited moderate to high diversity, with messages from nearly all categories. This suggests that these Telegram groups functioned as multi-purpose crime markets, rather than being narrowly specialized, potentially reflecting the growing hybridization of crime, and cafeteria-style offending patterns. Finally, analysis of the distribution of messages across categories within Telegram groups revealed six distinct crime market types, based on the co-occurrence of overarching categories: general-crime, crime-and-chat, cybercrime-, fireworks-, narcotics-, and chat-focused markets. This suggests that narcotics-related markets may attract other types of offerings, given the size of these markets and their potential audience. Practical implications, limitations, and directions for future research are discussed.
+
+# Links
+
+-   [Read the paper online](https://www.sciencedirect.com/science/article/pii/S0747563226001299)
+<!-- -   [Download the PDF](file.pdf) -->
+<!-- -   PDF under embargo until 0000-00-00. Contact me to get a copy! -->
+-   [Access the R code](https://osf.io/u7fa3/files/7gvrc)
+<!-- -   [Check the pre-registration](URL) -->

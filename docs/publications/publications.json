@@ -1,5 +1,44 @@
 [
   {
+    "path": "publications/2026-04-23-online-criminal-markets-on-telegram/",
+    "title": "Online criminal markets on Telegram: Exploring the illicit products and services advertised in public group chats",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Joeri Loggen",
+        "url": {}
+      },
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      },
+      {
+        "name": "Arjan Blokland",
+        "url": {}
+      },
+      {
+        "name": "Gerard de Roode",
+        "url": {}
+      },
+      {
+        "name": "E. Rutger Leukfeldt",
+        "url": {}
+      }
+    ],
+    "date": "2026-04-23",
+    "categories": [
+      "criminal networks",
+      "cyber-enabled crime",
+      "quantitative methods"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThis study empirically examines illicit products and services advertised on Telegram. The dataset comprised over 26 million messages posted by more than 88,000 users in 31 public Dutch Telegram groups over a two-year period. Qualitative analysis identified 77 unique illicit products and services, grouped into 13 overarching crime categories, alongside a non-crime-related category. Descriptive analyses show that narcotics was the dominant category, confirming that drug-related trade remains the core business of online crime markets, regardless of online platform. Though less prevalent, cybercrime-related offerings were also present, suggesting that Telegram may serve as a gateway platform for less technically skilled individuals to access cybercrime tools. Notably, a substantial number of messages was unrelated to crime, particularly among unique messages. Using descriptive statistics and diversity measures, we found that most groups exhibited moderate to high diversity, with messages from nearly all categories. This suggests that these Telegram groups functioned as multi-purpose crime markets, rather than being narrowly specialized, potentially reflecting the growing hybridization of crime, and cafeteria-style offending patterns. Finally, analysis of the distribution of messages across categories within Telegram groups revealed six distinct crime market types, based on the co-occurrence of overarching categories: general-crime, crime-and-chat, cybercrime-, fireworks-, narcotics-, and chat-focused markets. This suggests that narcotics-related markets may attract other types of offerings, given the size of these markets and their potential audience. Practical implications, limitations, and directions for future research are discussed.\r\nLinks\r\nRead the paper online\r\n\r\n\r\nAccess the R code\r\n\r\n\r\n\r\n\r\n",
+    "preview": "publications/2026-04-23-online-criminal-markets-on-telegram/preview.png",
+    "last_modified": "2026-04-29T13:15:12+02:00",
+    "input_file": {},
+    "preview_width": 1489,
+    "preview_height": 826
+  },
+  {
     "path": "publications/2025-10-06-distinct-group-distinct-traits-a/",
     "title": "Distinct group, distinct traits? A comparison of risk factors across cybercrime offenders, traditional offenders and non-offenders",
     "description": "Journal article",
