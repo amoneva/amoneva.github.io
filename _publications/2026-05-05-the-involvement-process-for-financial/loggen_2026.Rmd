@@ -1,0 +1,67 @@
+---
+title: "The involvement process for financial-economic cyber-enabled crime: Exploring the roles of preexisting ties and offender convergence settings"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Joeri Loggen
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences & Institute of Criminal Law and Criminology at Leiden University
+    orcid_id: https://orcid.org/0000-0001-9038-8931
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: Arjan Blokland
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Institute of Criminal Law and Criminology at Leiden University
+    orcid_id: https://orcid.org/0000-0003-0366-2205
+  - name: E. Rutger Leukfeldt
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences & Institute of Security and Global Affairs and Institute of Criminal Law and Criminology at Leiden University
+    orcid_id: https://orcid.org/0000-0002-3051-0859
+# Publication date (online first)
+date: 2026-05-05
+categories:
+  # Paradigm
+  ## Biological Criminology: Genetic Theories of Crime, Neurobiological Theories
+  ## Classical Criminology: Rational Choice Theory, Deterrence Theory
+  ## Critical Criminology: Marxist Criminology, Feminist Criminology
+  ## Cultural Criminology: Subcultural Theories, Media and Crime Theory
+  ## Developmental Criminology: Life-Course Theory
+  ## Environmental Criminology: Routine Activity Theory, Crime Pattern Theory, Situational Crime Prevention
+  ## Integrated Criminology: Social Control Theory, General Strain Theory
+  ## Positivist Criminology: Biological Determinism
+  ## Psychological Criminology: Psychodynamic Theories, Learning Theories, Criminal Expertise Paradigm
+  ## Sociological Criminology: Social Disorganization Theory, Anomie/Strain Theory, Social Learning Theories
+  ## Behavioral Economics: Nudge Theory
+  - developmental criminology
+  # Main focus
+  - individual offenders
+  # Type of crime
+  - cyber-enabled crime
+  # Main cybercrime type
+  - fraud
+  # Main methodology
+  - qualitative methods
+doi: https://doi.org/10.1007/s10611-026-10285-2
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+# Remove to publish
+# draft: true
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+This paper examines the involvement process of youth in financial cybercrime, focusing on preexisting ties and offender convergence settings. Based on interviews with 25 experts, and analysis of five criminal cases, we find that preexisting offline ties remain the most crucial, especially for core group members and money mules. This persistence is likely because such ties foster trust, reducing perceived risks in co-offending. At the same time, virtual offender convergence settings---particularly social media platforms like Telegram groups---appear to be gaining significance. These virtual settings may lower the barrier to entry for financial cybercrime, enabling individuals with limited cybercrime knowledge to engage in illicit activities. In the end, this development may expand the offender pool, enabling more people to enter the cybercriminal world, emphasizing the need for interventions. We discuss theoretical implications, including the need to reconsider how offender convergence settings are conceptualized in digital contexts, and practical strategies to disrupt youth involvement in financial cybercrime.
+
+# Links
+
+-   [Read the paper online and/or download the PDF](https://link.springer.com/article/10.1007/s10611-026-10285-2)
+<!-- -   [Download the PDF](file.pdf) -->
+<!-- -   PDF under embargo until 0000-00-00. Contact me to get a copy! -->
+<!-- -   [Access the data, R code, and supplementary materials](URL) -->
+<!-- -   [Check the pre-registration](URL) -->
