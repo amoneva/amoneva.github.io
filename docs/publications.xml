@@ -11,7 +11,21 @@
       <link>https://amoneva.github.io/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Attitudes and barriers to open science practices: A mixed-methods analysis at a criminological research institute</title>
+      <dc:creator>Asier Moneva</dc:creator>
+      <dc:creator>Wim Bernasco</dc:creator>
+      <dc:creator>Steve G. A. van de Weijer</dc:creator>
+      <dc:creator>Beate Völker</dc:creator>
+      <dc:creator>Amy Nivette</dc:creator>
+      <link>https://amoneva.github.io/publications/2026-06-03-attitudes-and-barriers-to-open</link>
+      <description>Journal article</description>
+      <category>mixed methods</category>
+      <guid>https://amoneva.github.io/publications/2026-06-03-attitudes-and-barriers-to-open</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://amoneva.github.io/publications/2026-06-03-attitudes-and-barriers-to-open/preview.png" medium="image" type="image/png" width="1258" height="463"/>
+    </item>
     <item>
       <title>The involvement process for financial-economic cyber-enabled crime: Exploring the roles of preexisting ties and offender convergence settings</title>
       <dc:creator>Joeri Loggen</dc:creator>
@@ -79,21 +93,6 @@
       <guid>https://amoneva.github.io/publications/2025-09-01-an-experimental-design-to-investigate</guid>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <media:content url="https://amoneva.github.io/publications/2025-09-01-an-experimental-design-to-investigate/preview.png" medium="image" type="image/png" width="732" height="715"/>
-    </item>
-    <item>
-      <title>Risk Profiles for Cybercrime Victimization: A Conjunctive Analysis of Case Configurations</title>
-      <dc:creator>Susanne M. van 't Hoff-de Goede</dc:creator>
-      <dc:creator>Asier Moneva</dc:creator>
-      <dc:creator>E. Rutger Leukfeldt</dc:creator>
-      <link>https://amoneva.github.io/publications/2025-04-11-risk-profiles-for-cybercrime-victimization</link>
-      <description>Journal article</description>
-      <category>psychological criminology</category>
-      <category>individual victims</category>
-      <category>general cybercrime</category>
-      <category>mixed methods</category>
-      <guid>https://amoneva.github.io/publications/2025-04-11-risk-profiles-for-cybercrime-victimization</guid>
-      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <media:content url="https://amoneva.github.io/publications/2025-04-11-risk-profiles-for-cybercrime-victimization/preview.png" medium="image" type="image/png" width="910" height="570"/>
     </item>
   </channel>
 </rss>

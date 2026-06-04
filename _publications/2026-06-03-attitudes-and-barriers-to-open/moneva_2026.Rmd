@@ -1,0 +1,70 @@
+---
+title: "Attitudes and barriers to open science practices: A mixed-methods analysis at a criminological research institute"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: Wim Bernasco
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & University of Amsterdam
+    orcid_id: https://orcid.org/0000-0002-3385-0883
+  - name: Steve G. A. van de Weijer
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR)
+    orcid_id: https://orcid.org/0000-0001-5914-5966
+  - name: Beate Völker 
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Vrije Universiteit Amsterdam
+    orcid_id: https://orcid.org/0000-0002-9823-474X
+  - name: Amy Nivette
+    affiliation: Utrecht University & Netherlands Institute for the Study of Crime and Law Enforcement (NSCR)
+    orcid_id: https://orcid.org/0000-0003-0597-3648
+# Publication date (online first)
+date: 2026-06-03
+categories:
+  # Paradigm
+  ## Biological Criminology: Genetic Theories of Crime, Neurobiological Theories
+  ## Classical Criminology: Rational Choice Theory, Deterrence Theory
+  ## Critical Criminology: Marxist Criminology, Feminist Criminology
+  ## Cultural Criminology: Subcultural Theories, Media and Crime Theory
+  ## Developmental Criminology: Life-Course Theory
+  ## Environmental Criminology: Routine Activity Theory, Crime Pattern Theory, Situational Crime Prevention
+  ## Integrated Criminology: Social Control Theory, General Strain Theory
+  ## Positivist Criminology: Biological Determinism
+  ## Psychological Criminology: Psychodynamic Theories, Learning Theories, Criminal Expertise Paradigm
+  ## Sociological Criminology: Social Disorganization Theory, Anomie/Strain Theory, Social Learning Theories
+  ## Behavioral Economics: Nudge Theory
+  # - [classical criminology | developmental criminology | environmental criminology | sociological criminology | cultural criminology | behavioral economics]
+  # Main focus
+  # - [individual offenders | criminal networks | general offenders | individual victims | organizations | general victims | individual offenders and victims | crime contexts | crime trends]
+  # Type of crime
+  # - [general cybercrime | cyber-enabled crime | cyber-dependent crime | traditional crime]
+  # Main cybercrime type
+  # - [hacking | hacktivism | DDoS-attacks | malware | ransomware | phishing | data theft | harassment | hate speech | fraud | money muling | insider threats]
+  # Main methodology
+  - mixed methods
+doi: https://doi.org/10.1177/14773708261450067
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+# Remove to publish
+# draft: true
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+The open science movement strives to improve the transparency, accessibility, rigor, and reproducibility of scientific research. Arguing that open science increases the impact of research, the Dutch Research Council (NWO) has been promoting an open science program in the Netherlands since 2009, aiming to make all funded publications open access and research data open and FAIR; that is, findable, accessible, interoperable, and reusable. Our research institute, the Netherlands Institute for the Study of Crime and Law Enforcement (NSCR), is one of the 10 national research institutes that receive long-term structural funding from the NWO. It has therefore also taken up the challenge of moving from a ‘closed’ to an ‘open’ model of science. If implemented in full, this cultural shift would require NSCR staff to relate to open science values in a nationwide system where recognizing and rewarding open science practices remains a challenge. In this article, we use data from an online questionnaire among our colleagues to (1) describe NSCR scientific staff attitudes toward nine open science practices—publishing open access, publishing preprints, sharing open code, sharing open data, sharing open materials, conducting open peer review, using open source software, preregistering research, and disclosing contribution roles—and (2) identify barriers to adopting these practices. We used a mixed methods approach combining descriptive quantitative analysis of five-point Likert scale items with qualitative inductive thematic analysis of open-ended questions. This approach reveals a nuanced perspective on open science practices, overcoming the false dichotomy of all for or all against. Although attitudes toward the open science practices are generally positive, the thematic analysis also identifies 36 barriers that should be addressed to support their further adoption.
+
+# Links
+
+-   [Read the paper online](https://journals.sagepub.com/doi/10.1177/14773708261450067)
+-   [Download the PDF](https://osf.io/preprints/socarxiv/4xbc9_v1)
+<!-- -   PDF under embargo until 0000-00-00. Contact me to get a copy! -->
+-   [Access the R code, and supplementary materials](https://osf.io/m2ge5/overview)
+<!-- -   [Check the pre-registration](URL) -->

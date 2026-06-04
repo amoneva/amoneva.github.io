@@ -1,5 +1,42 @@
 [
   {
+    "path": "publications/2026-06-03-attitudes-and-barriers-to-open/",
+    "title": "Attitudes and barriers to open science practices: A mixed-methods analysis at a criminological research institute",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      },
+      {
+        "name": "Wim Bernasco",
+        "url": {}
+      },
+      {
+        "name": "Steve G. A. van de Weijer",
+        "url": {}
+      },
+      {
+        "name": "Beate Völker",
+        "url": {}
+      },
+      {
+        "name": "Amy Nivette",
+        "url": {}
+      }
+    ],
+    "date": "2026-06-03",
+    "categories": [
+      "mixed methods"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nThe open science movement strives to improve the transparency, accessibility, rigor, and reproducibility of scientific research. Arguing that open science increases the impact of research, the Dutch Research Council (NWO) has been promoting an open science program in the Netherlands since 2009, aiming to make all funded publications open access and research data open and FAIR; that is, findable, accessible, interoperable, and reusable. Our research institute, the Netherlands Institute for the Study of Crime and Law Enforcement (NSCR), is one of the 10 national research institutes that receive long-term structural funding from the NWO. It has therefore also taken up the challenge of moving from a ‘closed’ to an ‘open’ model of science. If implemented in full, this cultural shift would require NSCR staff to relate to open science values in a nationwide system where recognizing and rewarding open science practices remains a challenge. In this article, we use data from an online questionnaire among our colleagues to (1) describe NSCR scientific staff attitudes toward nine open science practices—publishing open access, publishing preprints, sharing open code, sharing open data, sharing open materials, conducting open peer review, using open source software, preregistering research, and disclosing contribution roles—and (2) identify barriers to adopting these practices. We used a mixed methods approach combining descriptive quantitative analysis of five-point Likert scale items with qualitative inductive thematic analysis of open-ended questions. This approach reveals a nuanced perspective on open science practices, overcoming the false dichotomy of all for or all against. Although attitudes toward the open science practices are generally positive, the thematic analysis also identifies 36 barriers that should be addressed to support their further adoption.\r\nLinks\r\nRead the paper online\r\nDownload the PDF\r\n\r\nAccess the R code, and supplementary materials\r\n\r\n\r\n\r\n\r\n",
+    "preview": "publications/2026-06-03-attitudes-and-barriers-to-open/preview.png",
+    "last_modified": "2026-06-04T08:34:34+02:00",
+    "input_file": {},
+    "preview_width": 1258,
+    "preview_height": 463
+  },
+  {
     "path": "publications/2026-05-05-the-involvement-process-for-financial/",
     "title": "The involvement process for financial-economic cyber-enabled crime: Exploring the roles of preexisting ties and offender convergence settings",
     "description": "Journal article",
