@@ -1,5 +1,38 @@
 [
   {
+    "path": "publications/2026-07-04-exploring-trust-signals-and-pathways/",
+    "title": "Exploring trust signals and pathways on cybercrime-as-a-service markets: The case of remote access trojans",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Hannah M. Kool",
+        "url": {}
+      },
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      },
+      {
+        "name": "E. Rutger Leukfeldt",
+        "url": {}
+      }
+    ],
+    "date": "2026-07-04",
+    "categories": [
+      "sociological criminology",
+      "criminal networks",
+      "cyber-dependent crime",
+      "malware",
+      "qualitative methods"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nAs digital technologies evolve, Cybercrime-as-a-Service (CaaS) markets make sophisticated tools, such as Remote Access Trojans (RATs), available to individuals with limited technical expertise. By reducing technical complexity and perceived risk, these markets may create new pathways into cybercrime. Using Gambetta’s (2009) signaling theory of trust, this study explores how CaaS markets trading RATs facilitate involvement into cybercrime. A multifaceted qualitative approach is used to collect data from 21 expert interviews and covert non-participant observations on six online platforms. The findings suggest that CaaS markets become approachable for newcomers by making RATs easier to access, use, and justify. These markets do not facilitate involvement through one single factor, but through a combination of accessibility, user-friendly design, neutralizing messages, and trust signals. Trust in CaaS markets is established and maintained through two types of signals: structural signals and seller-driven signals. Our study highlights how CaaS markets lower barriers to cybercrime through accessible tools and trust signals, emphasizing the importance of disrupting these mechanisms.\r\nLinks\r\nRead the paper online\r\n\r\n\r\n\r\n",
+    "preview": "publications/2026-07-04-exploring-trust-signals-and-pathways/preview.png",
+    "last_modified": "2026-07-15T09:10:04+02:00",
+    "input_file": {},
+    "preview_width": 1107,
+    "preview_height": 493
+  },
+  {
     "path": "publications/2026-06-03-attitudes-and-barriers-to-open/",
     "title": "Attitudes and barriers to open science practices: A mixed-methods analysis at a criminological research institute",
     "description": "Journal article",

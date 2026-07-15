@@ -1,0 +1,60 @@
+---
+title: "Exploring trust signals and pathways on cybercrime-as-a-service markets: The case of remote access trojans"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Hannah M. Kool
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0009-0006-2837-4516
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+  - name: E. Rutger Leukfeldt
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences & Institute of Security and Global Affairs and Institute of Criminal Law and Criminology at Leiden University
+    orcid_id: https://orcid.org/0000-0002-3051-0859
+# Publication date (online first)
+date: 2026-07-04
+categories:
+  # Paradigm
+  ## Biological Criminology: Genetic Theories of Crime, Neurobiological Theories
+  ## Classical Criminology: Rational Choice Theory, Deterrence Theory
+  ## Critical Criminology: Marxist Criminology, Feminist Criminology
+  ## Cultural Criminology: Subcultural Theories, Media and Crime Theory
+  ## Developmental Criminology: Life-Course Theory
+  ## Environmental Criminology: Routine Activity Theory, Crime Pattern Theory, Situational Crime Prevention
+  ## Integrated Criminology: Social Control Theory, General Strain Theory
+  ## Positivist Criminology: Biological Determinism
+  ## Psychological Criminology: Psychodynamic Theories, Learning Theories, Criminal Expertise Paradigm
+  ## Sociological Criminology: Social Disorganization Theory, Anomie/Strain Theory, Social Learning Theories, Signalling Theory
+  ## Behavioral Economics: Nudge Theory
+  - sociological criminology
+  # Main focus
+  - criminal networks
+  # Type of crime
+  - cyber-dependent crime
+  # Main cybercrime type
+  - malware
+  # Main methodology
+  - qualitative methods
+doi: https://doi.org/10.1007/s12117-026-09606-7
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+# Remove to publish
+# draft: true
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+As digital technologies evolve, Cybercrime-as-a-Service (CaaS) markets make sophisticated tools, such as Remote Access Trojans (RATs), available to individuals with limited technical expertise. By reducing technical complexity and perceived risk, these markets may create new pathways into cybercrime. Using Gambetta's (2009) signaling theory of trust, this study explores how CaaS markets trading RATs facilitate involvement into cybercrime. A multifaceted qualitative approach is used to collect data from 21 expert interviews and covert non-participant observations on six online platforms. The findings suggest that CaaS markets become approachable for newcomers by making RATs easier to access, use, and justify. These markets do not facilitate involvement through one single factor, but through a combination of accessibility, user-friendly design, neutralizing messages, and trust signals. Trust in CaaS markets is established and maintained through two types of signals: structural signals and seller-driven signals. Our study highlights how CaaS markets lower barriers to cybercrime through accessible tools and trust signals, emphasizing the importance of disrupting these mechanisms.
+
+# Links
+
+-   [Read the paper online](https://link.springer.com/article/10.1007/s12117-026-09606-7)
