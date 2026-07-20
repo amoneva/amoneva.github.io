@@ -1,0 +1,70 @@
+---
+title: "The ripple effect of Operation Cookie Monster: the impact of an illicit market takedown on an untargeted hacker forum"
+description: Journal article
+base_url: https://amoneva.github.io/
+preview: preview.png
+author:
+  - name: Danielle Stibbe
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Department of Sociology, Utrecht University
+    orcid_id: https://orcid.org/0000-0002-7834-495X
+  - name: Stijn Ruiter
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Department of Criminal Law and Criminology, Vrije Universiteit Amsterdam
+    orcid_id: https://orcid.org/0000-0003-2872-2710
+  - name: Asier Moneva
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & Centre of Expertise Cyber Security at The Hague University of Applied Sciences
+    orcid_id: https://orcid.org/0000-0002-2156-0213
+# Publication date (online first)
+date: 2026-07-20
+categories:
+  # Paradigm
+  ## Biological Criminology: Genetic Theories of Crime, Neurobiological Theories
+  ## Classical Criminology: Rational Choice Theory, Deterrence Theory
+  ## Critical Criminology: Marxist Criminology, Feminist Criminology
+  ## Cultural Criminology: Subcultural Theories, Media and Crime Theory
+  ## Developmental Criminology: Life-Course Theory
+  ## Environmental Criminology: Routine Activity Theory, Crime Pattern Theory, Situational Crime Prevention
+  ## Integrated Criminology: Social Control Theory, General Strain Theory
+  ## Positivist Criminology: Biological Determinism
+  ## Psychological Criminology: Psychodynamic Theories, Learning Theories, Criminal Expertise Paradigm
+  ## Sociological Criminology: Social Disorganization Theory, Anomie/Strain Theory, Social Learning Theories
+  ## Behavioral Economics: Nudge Theory
+  - classical criminology
+  # Main focus
+  - individual offenders
+  # Type of crime
+  - cyber-enabled crime
+  # Main cybercrime type
+  - hacking
+  # Main methodology
+  - quantitative methods
+doi: https://doi.org/10.1007/s11292-026-09767-z
+citation: false
+output:
+  distill::distill_article:
+    toc: true
+    self_contained: false
+# Remove to publish
+# draft: true
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+**Objectives**: Assess potential spillover effects Operation Cookie Monster (OCM), a law-enforcement takedown of an online market selling stolen account credentials, had on users and administrators of an untargeted hacker forum, a different platform type where similar goods are shared.
+
+**Methods**: Treating OCM as a natural experiment, we used data from two sources: observations of forum advertisements and an extension of a prior field experiment. We analyzed changes in posting frequency by user rank, credential types, and administrator content removal before OCM to six months after.
+
+**Results**: Activity declined among experienced non-paying users and most credential types, while increasing among paying users and posts advertising social media and cloud accounts. Administrator moderation intensified after OCM, becoming more selective and retroactive, before gradually declining.
+
+**Conclusions**: OCM produced temporary diffusion of benefits alongside evidence of crime displacement. Enforcement actions can affect untargeted related platforms, but offender adaptation limits longer-term impact.
+
+# Links
+
+-   [Read the paper online](https://link.springer.com/article/10.1007/s11292-026-09767-z)
+<!-- -   [Download the PDF](file.pdf) -->
+<!-- -   PDF under embargo until 0000-00-00. Contact me to get a copy! -->
+-   [Access the data, R code, and supplementary materials](https://osf.io/vh37t/overview)
+-   [Check the pre-registration](https://osf.io/xbgvk/overview)
