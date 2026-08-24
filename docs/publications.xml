@@ -11,7 +11,23 @@
       <link>https://amoneva.github.io/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Mon, 20 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>The topology of cyberspace and cybercrime journeys: a framework for analyzing online offender mobility</title>
+      <dc:creator>Asier Moneva</dc:creator>
+      <dc:creator>Stijn Ruiter</dc:creator>
+      <dc:creator>Wim Bernasco</dc:creator>
+      <link>https://amoneva.github.io/publications/2026-08-20-the-topology-of-cyberspace-and</link>
+      <description>Journal article</description>
+      <category>environmental criminology</category>
+      <category>individual offenders</category>
+      <category>general cybercrime</category>
+      <category>hacking</category>
+      <category>theoretical</category>
+      <guid>https://amoneva.github.io/publications/2026-08-20-the-topology-of-cyberspace-and</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://amoneva.github.io/publications/2026-08-20-the-topology-of-cyberspace-and/preview.png" medium="image" type="image/png" width="724" height="529"/>
+    </item>
     <item>
       <title>The ripple effect of Operation Cookie Monster: the impact of an illicit market takedown on an untargeted hacker forum</title>
       <dc:creator>Danielle Stibbe</dc:creator>
@@ -74,22 +90,6 @@
       <guid>https://amoneva.github.io/publications/2026-05-05-the-involvement-process-for-financial</guid>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
       <media:content url="https://amoneva.github.io/publications/2026-05-05-the-involvement-process-for-financial/preview.png" medium="image" type="image/png" width="685" height="616"/>
-    </item>
-    <item>
-      <title>Online criminal markets on Telegram: Exploring the illicit products and services advertised in public group chats</title>
-      <dc:creator>Joeri Loggen</dc:creator>
-      <dc:creator>Asier Moneva</dc:creator>
-      <dc:creator>Arjan Blokland</dc:creator>
-      <dc:creator>Gerard de Roode</dc:creator>
-      <dc:creator>E. Rutger Leukfeldt</dc:creator>
-      <link>https://amoneva.github.io/publications/2026-04-23-online-criminal-markets-on-telegram</link>
-      <description>Journal article</description>
-      <category>criminal networks</category>
-      <category>cyber-enabled crime</category>
-      <category>quantitative methods</category>
-      <guid>https://amoneva.github.io/publications/2026-04-23-online-criminal-markets-on-telegram</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://amoneva.github.io/publications/2026-04-23-online-criminal-markets-on-telegram/preview.png" medium="image" type="image/png" width="1489" height="826"/>
     </item>
   </channel>
 </rss>

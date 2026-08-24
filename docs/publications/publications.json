@@ -1,5 +1,38 @@
 [
   {
+    "path": "publications/2026-08-20-the-topology-of-cyberspace-and/",
+    "title": "The topology of cyberspace and cybercrime journeys: a framework for analyzing online offender mobility",
+    "description": "Journal article",
+    "author": [
+      {
+        "name": "Asier Moneva",
+        "url": {}
+      },
+      {
+        "name": "Stijn Ruiter",
+        "url": {}
+      },
+      {
+        "name": "Wim Bernasco",
+        "url": {}
+      }
+    ],
+    "date": "2026-08-10",
+    "categories": [
+      "environmental criminology",
+      "individual offenders",
+      "general cybercrime",
+      "hacking",
+      "theoretical"
+    ],
+    "contents": "\r\n\r\nContents\r\nAbstract\r\nLinks\r\n\r\nAbstract\r\nPurpose: This paper introduces a novel framework for analyzing online offender mobility.\r\nMethods: Drawing on multidisciplinary insights, we extend two established criminological models for studying offline offending—the geometry of crime and crime journeys—by adapting their core concepts to cyberspace and developing a topology in which the cyber place is defined and becomes the unit of analysis. Just as offenders travel before, during, and after committing crime offline, we argue they also undertake trips before, during, and after committing cybercrime, and that like offline journeys these cybercrime journeys comprise identifiable and measurable components.\r\nResults: We explicitly demonstrate how concepts from the geometry of crime and crime journeys translate from offline to online crime and mobility. The proposed approach enables the systematic formulation of research questions and the measurement of behavioral patterns, facilitating the generation and accumulation of knowledge on cybercrime offending.\r\nConclusion: The paper illustrates the framework’s theoretical relevance within environmental criminology and its practical application for cybercrime analysis through concrete examples, including an empirical journey into web hacking as a proof-of-concept.\r\nLinks\r\nRead the paper online\r\nAccess the data, R code, and supplementary materials\r\n\r\n\r\n\r\n",
+    "preview": "publications/2026-08-20-the-topology-of-cyberspace-and/preview.png",
+    "last_modified": "2026-08-24T10:24:06+02:00",
+    "input_file": {},
+    "preview_width": 724,
+    "preview_height": 529
+  },
+  {
     "path": "publications/2026-07-20-the-ripple-effect-of-operation/",
     "title": "The ripple effect of Operation Cookie Monster: the impact of an illicit market takedown on an untargeted hacker forum",
     "description": "Journal article",
